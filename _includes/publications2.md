@@ -10,15 +10,13 @@
             <abbr class="badge">C&T 23</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://www.cs.jhu.edu/~yyliu/preprints/Continual_Detection_Transformer_for_Incremental_Object_Detection.pdf">Assessing the Value Orientations</a></div>
+      <div class="title"><a href="">Assessing the Value Orientations</a></div>
       <div class="author">Ellie Jeong, <strong>Corey Jackson</strong>, Bernt Schiele, Andrea Vedaldi, Christian Rupprecht</div>
-      <div class="periodical"><em>IC&T '23: Proceedings of the 11th International Conference on Communities & Technologies</strong>, 2023.</em>
+      <div class="periodical"><em>C&T '23: Proceedings of the 11th International Conference on Communities & Technologies</strong>, 2023.</em>
       </div>
     <div class="links">
-      <a href="https://www.cs.jhu.edu/~yyliu/preprints/Continual_Detection_Transformer_for_Incremental_Object_Detection.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/CL-DETR" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://lyy.mpi-inf.mpg.de/CL-DETR/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://bib.yliu.me/CVPR23a.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
+      <a href="https://github.com/cjacks04/cjacks04.github.io/blob/main/papers/Values__C_T_2023_%20(3).pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
