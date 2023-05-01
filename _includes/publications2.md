@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="[assets/img/zooniverse.png](https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png)" class="teaser img-fluid z-depth-1">
+    <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png">
             <abbr class="badge">C&T 23</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
