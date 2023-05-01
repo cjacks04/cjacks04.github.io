@@ -33,9 +33,11 @@ My area of research lies at the intersection of Computer Supported Collaborative
 ## Students 
 
 ### Current 
-[Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) (Ph.D. Advisee)
-[Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) (Ph.D. Advisee)
+[Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) (UW-Madison, Ph.D. Advisee), 
+[Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) (UW-Madison, Ph.D. Advisee), [Corey Black](https://www.linkedin.com/in/corey-black-53667055) (UW-Madison, M.A. Library and Information Studies), Xucen Liao (UW-Madison, Statistics and Data Science), Weiyu (Vincent) Kong (UW-Madison, Statistics and Data Science). 
 
+### Former
+Xin Bu, Shihao Yang, Yiping He (CMU), Pragyan Das. 
 
 
 {% include_relative _includes/services.md %}
