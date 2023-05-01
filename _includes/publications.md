@@ -10,7 +10,7 @@
             <abbr class="badge">C&T 23</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="">Assessing the Value Orientations</a></div>
+      <div class="title"><a href="">Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects</a></div>
       <div class="author">Ellie Jeong, <strong>Corey Jackson</strong>,  Liz Dowthwaite, Tallal Ahmad, and Laura Trouille</div>
       <div class="periodical"><em>C&T '23: Proceedings of the 11th International Conference on Communities & Technologies.</em>
       </div>
