@@ -7,7 +7,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png">
-            <abbr class="badge">C&T 23</abbr>
+            <abbr class="badge">C&T</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects</a></div>
@@ -28,7 +28,7 @@
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/design.png">
-            <abbr class="badge">C&T 23</abbr>
+            <abbr class="badge">iConf</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="">Design principles for background knowledge to enhance learning in citizen science</a></div>
