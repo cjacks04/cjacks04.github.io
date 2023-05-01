@@ -23,6 +23,25 @@
 </li>
   
 <br>
+  
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png">
+            <abbr class="badge">C&T 23</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="">Design principles for background knowledge to enhance learning in citizen science</a></div>
+      <div class="author">Kevin Crowston, <strong>Corey Jackson</strong>, Isabella Corieri, Carsten Østerlund</div>
+      <div class="periodical"><em>iConf '23: iConference.</em>
+      </div>
+    <div class="links">
+      <a href="http://coreybjackson.com/papers/Values__C_T_2023_%20(3).pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
 
