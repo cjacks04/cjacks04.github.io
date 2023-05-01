@@ -32,10 +32,9 @@ My area of research lies at the intersection of Computer Supported Collaborative
 
 ## Students 
 
-| PhD                                                              | MA/MS       | Undergraduate |
-| ---------------------------------------------------------------- | ----------- | ------------- |
-| [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home)  | Corey Black |               |
-| [Ellie Jeong](https://ejeong7.wixsite.com/elliejeong)            |             |               |
+### Current 
+[Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) (Ph.D. Advisee)
+[Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) (Ph.D. Advisee)
 
 
 
