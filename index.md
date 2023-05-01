@@ -13,7 +13,14 @@ My area of research lies at the intersection of Computer Supported Collaborative
 
 ## News
 
+- **[Apr. 2023]** I gave a talk at the [Robert F. and Jean E. Holtz Center](https://sts.wisc.edu/) entitled - [Interlocutors: Carving Out a Role for Information Professionals in Citizen Science]( https://sts.wisc.edu/event/corey-jackson-2/). 
+
 - **[Apr. 2023]** Our paper (with UW iSchool Phd student co-authors [Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) and [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home)) entitled "Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects" has been accepted at [Communities and Technologies 2023](https://2023.comtech.community/). 
+
+- **[Mar. 2023]** I gave a talk at the [LSC's Science Communication Colloquium] entitled - Citizen science: Supporting Advanced work through design. 
+
+- **[Feb. 2023]** Research with my collaborator at UW-Madison Life Sciences Communication [Kaiping Chen](https://www.kaipingchen.com/) is highlights in the The Badger Herald - [UW partners with local organizations representing Black, Latinx voices in environmental conservation for research initiative](https://badgerherald.com/news/2023/02/15/uw-partners-with-local-organizations-representing-black-latinx-voices-in-environmental-conservation-for-research-initiative/![image](https://user-images.githubusercontent.com/2421233/235491090-b1fdc0ab-a729-4182-9866-d861fbda311c.png)
+). 
 
 - **[Jan. 2023]** Our paper (along with collaborators from Syracuse University) entitled "Design principles for background knowledge to enhance learning in citizen science" has been accepted to [iConference 2023](https://www.ischools.org/iconference). 
 
