@@ -1,9 +1,8 @@
 <h2 id="publications" style="margin: 2px 0px -15px;"> Projects <temp style="font-size:15px;"> 
-</br>
+<br>
  
 <h3>Current Projects</h3>   
-  </br>
-  </br>
+  <br>
 <div class="publications">
 <ol class="bibliography">
 
@@ -23,9 +22,9 @@
 </ol>
 </div>
   <br>
+ <br>
   
 <h3>Past Projects</h3>   
-  <br>
   <br>
 <div class="publications">
 <ol class="bibliography">
