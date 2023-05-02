@@ -1,44 +1,20 @@
----
-layout: projects
----
+<h2 id="publications" style="margin: 2px 0px -15px;"> Projects <temp style="font-size:15px;"></h2>
 
-## Current Projects
-This is a description of current projects
+<div class="publications">
+<ol class="bibliography">
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png">
+            <abbr class="badge">C&T</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <p>Here's a description of the project I've been working on</p>
+    </div>
 
+  </div>
+</li>
 
-## Previous Projects
-This is a description of past projects
-
-# Two columns
-
-Below is a Div containing three child Divs side by side. The Div
-in the middle is empty, just to add more space between the left
-and right Divs.
-
-:::::: {.cols data-latex=""}
-
-::: {.col data-latex="{0.55\textwidth}"}
-```{r, echo=FALSE, fig.width=5, fig.height=4}
-par(mar = c(4, 4, .2, .1))
-plot(cars, pch = 19)
-```
-:::
-
-::: {.col data-latex="{0.05\textwidth}"}
-\ 
-<!-- an empty Div (with a white space), serving as
-a column separator -->
-:::
-
-::: {.col data-latex="{0.4\textwidth}"}
-The figure on the left-hand side shows the `cars` data.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-enim ad minim veniam, quis nostrud exercitation ullamco laboris
-nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur.
-:::
-::::::
+</ol>
+</div>
