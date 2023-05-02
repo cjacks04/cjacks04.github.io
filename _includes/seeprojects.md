@@ -4,7 +4,6 @@
 <h3>Current Projects</h3>   
   </br>
   </br>
-  </br>
 <div class="publications">
 <ol class="bibliography">
 
@@ -23,13 +22,11 @@
 
 </ol>
 </div>
-  </br>
-  </br>
+  <br>
   
 <h3>Past Projects</h3>   
-  </br>
-  </br>
-  </br>
+  <br>
+  <br>
 <div class="publications">
 <ol class="bibliography">
 
