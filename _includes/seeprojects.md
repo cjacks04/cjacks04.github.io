@@ -23,7 +23,8 @@
 
 </ol>
 </div>
-  
+  </br>
+  </br>
   
 <h3>Past Projects</h3>   
   </br>
