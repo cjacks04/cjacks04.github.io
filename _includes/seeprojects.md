@@ -49,8 +49,8 @@
     <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png">
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-          <div class="title"><a href="">Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects</a></div>
-      <p>Here's a description of the project I've been working on</p>
+          <div class="title"><a href=""> </a></div>
+      <p></p>
     </div>
 
   </div>
