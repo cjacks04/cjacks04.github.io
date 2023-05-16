@@ -13,6 +13,8 @@ My area of research lies at the intersection of Computer Supported Collaborative
 
 ## News
 
+- **[May. 2023]** My Co-Investigator and I were awarded a UW-Madison VCRGE grant under the Increasing Social and Economic Inclusion program. Read more here: [Amplifying the Voices of Black and Latinx Communities in  Environmental Policy Discussions](https://coreybjackson.com/projects.html) 
+
 - **[Apr. 2023]** I gave a talk at the [Robert F. and Jean E. Holtz Center](https://sts.wisc.edu/) entitled - [Interlocutors: Carving Out a Role for Information Professionals in Citizen Science]( https://sts.wisc.edu/event/corey-jackson-2/). 
 
 - **[Apr. 2023]** Our paper (with UW iSchool Phd student co-authors [Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) and [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home)) entitled "Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects" has been accepted at [Communities and Technologies 2023](https://2023.comtech.community/). 
