@@ -13,7 +13,7 @@ My area of research lies at the intersection of Computer Supported Collaborative
 
 ## News
 
-- **[May. 2023]** My Co-Investigator and I were awarded a UW-Madison VCRGE grant under the Increasing Social and Economic Inclusion program. Read more here: [Amplifying the Voices of Black and Latinx Communities in  Environmental Policy Discussions](https://coreybjackson.com/projects.html) 
+- **[May. 2023]** My Co-Investigator and I were awarded a UW-Madison VCRGE grant under the Increasing Social and Economic Inclusion program. More TBA
 
 - **[Apr. 2023]** I gave a talk at the [Robert F. and Jean E. Holtz Center](https://sts.wisc.edu/) entitled - [Interlocutors: Carving Out a Role for Information Professionals in Citizen Science]( https://sts.wisc.edu/event/corey-jackson-2/). 
 
