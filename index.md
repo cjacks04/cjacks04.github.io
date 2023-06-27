@@ -13,7 +13,7 @@ My area of research lies at the intersection of Computer Supported Collaborative
 
 ## News
 
-- **[June. 2023]** I presented our paper (with UW iSchool Phd student co-authors [Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) and [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home)) entitled "Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects" has been accepted at [Communities and Technologies 2023](https://2023.comtech.community/). 
+- **[June. 2023]** I presented our paper (with UW iSchool Phd student co-authors [Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) and [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home)) entitled "Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects"  at [Communities and Technologies 2023](https://2023.comtech.community/). 
 
 - **[May. 2023]** My Co-Investigator and I were awarded a UW-Madison VCRGE grant under the Increasing Social and Economic Inclusion program. Read more here: [Increasing Social and Economic Inclusion (ISEI)](https://research.wisc.edu/increasing-social-and-economic-inclusion-2/)
 
