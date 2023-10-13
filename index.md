@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Assistant Professor in the [The Information School](https://ischool.wisc.edu/) at the University of Wisconsin, Madison. I co-direct the [Collaborative Computing Group](https://collab.ischool.wisc.edu/) with [Adam Rule](https://adamrule.com/) and [Jacob Thebault-Spieker](https://jacob.thebault-spieker.com/). I received a PhD in Information Science and Technology (2019) from the [Information School](https://ischool.syr.edu/) at [Syracuse University](https://www.syracuse.edu/) where I worked with [Kevin Crowston](https://crowston.syr.edu/) and [Carsten Østerlund](https://ischool.syr.edu/carsten-osterlund/). After my PhD, I spent one-year as a teaching postdoc in Berkeley's Master's in Data Science ([MIDS](https://ischoolonline.berkeley.edu/)) program. 
+I am an Assistant Professor in the [The Information School](https://ischool.wisc.edu/) at the University of Wisconsin, Madison. I co-direct the [Collaborative Computing Group](https://collab.ischool.wisc.edu/) with [Adam Rule](https://adamrule.com/) and [Jacob Thebault-Spieker](https://jacob.thebault-spieker.com/). I received a PhD in Information Science and Technology (2019) from the [Information School](https://ischool.syr.edu/) at [Syracuse University](https://www.syracuse.edu/). After my PhD, I spent one year as a teaching postdoc in Berkeley's Master's in Data Science ([MIDS](https://ischoolonline.berkeley.edu/)) program. 
 
 ## Research Interests
 
@@ -12,6 +12,8 @@ My area of research lies at the intersection of Computer Supported Collaborative
 
 
 ## News
+
+- **[Oct. 2023]** Our position paper entitled "Re-imagining Fairness in Machine Learning: A Framework for Building in Socio-cultural and Contextual Awareness" (with [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) and [Devansh Saxena](https://devsaxena.info/)) will be presented in the [Supporting User Engagement in Testing, Auditing, and Contesting AI](https://cscw-user-ai-auditing.github.io/) workshop at CSCW 2023.
 
 - **[June. 2023]** I presented our paper (with UW iSchool Phd student co-authors [Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) and [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home)) entitled "Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects"  at [Communities and Technologies 2023](https://2023.comtech.community/). 
 
