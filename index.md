@@ -43,10 +43,10 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ### Current 
 [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) (UW-Madison, Ph.D. Advisee), 
-[Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) (UW-Madison, Ph.D. Advisee), [Corey Black](https://www.linkedin.com/in/corey-black-53667055) (UW-Madison, Masters student in Library and Information Studies), [Stephen Ling](https://www.linkedin.com/in/stephen-ling-40575111b) (UW-Madison, Undergraduate in Statistics, Computer Science, Economics), [Arden Wang](https://ardentwang.github.io/) (UW-Madison, Undergraduate in Computer Science)
+[Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) (UW-Madison, Ph.D. Advisee), [Corey Black](https://www.linkedin.com/in/corey-black-53667055) (UW-Madison, Masters student in Library and Information Studies), [Stephen Ling](https://www.linkedin.com/in/stephen-ling-40575111b) (UW-Madison, Undergraduate in Statistics, Computer Science, Economics), [Arden Wang](https://ardentwang.github.io/) (UW-Madison, Undergraduate in Computer Science), Yueming Xu (UW-Madison, Undergraduate in Data Science), Stephen Ling (UW-Madison, Undergraduate in Data Science), Kendall Walch (UW-Madison, Undergraduate in Data Science)
 
-### Former
-Xin Bu (Columbia), Yiping He (CMU), Shihao Yang (UCLA), Pragyan Das, Weiyu (Vincent) Kong, Samantha Lee, Xucen Liao
+### Former 
+Xin Bu, Yiping He, Shihao Yang, Pragyan Das, Weiyu (Vincent) Kong, Samantha Lee, Xucen Liao
 
 
 {% include_relative _includes/services.md %}
