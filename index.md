@@ -10,6 +10,9 @@ I am an Assistant Professor in the [The Information School](https://ischool.wisc
 
 My area of research lies at the intersection of Computer Supported Collaborative Work (CSCW) and human-centered design/computing. I approach investigations through empirical investigations of how people contribute to and participate in virtual environments. Prior research projects have included: studying the motivations of volunteer crowd workers, investigating the arrangement of learning resources in informal learning environments, conducting online experiments using theory-based motivational cues, and investigating the coordinative mechanisms of knowledge production in online communities. As a faculty member, this work has been funded (with a multi-institution collaborative grant) by the National Science Foundation ([HCC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1755628&HistoricalAwards=false)). 
 
+## Projects 
+
+Check out my[Current Projects](https://coreybjackson.com/projects.html)
 
 ## News
 

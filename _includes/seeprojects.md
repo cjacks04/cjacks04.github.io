@@ -13,7 +13,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title" style="color:black;font-weight: normal;">Amplifying the Voices of Black and Latinx Communities in  Environmental Policy Discussions (2023-Current)</div>
-      <div class="author" style="color:dimgrey;font-weight: normal;">In this proposal, we describe research to develop innovative digital tools and practices to increase civic engagement among underrepresented communities in the area of community deliberation and advocacy in policymaking. This project will enable individuals and non-governmental organizations (NGOs), who often represent the interests of community members, to participate in deliberations and policies on environmental issues. Many questions arise when considering how to support underrepresented communities in deliberation and advocacy  -  What are the current capabilities for community deliberation and advocacy work? What information and data are required for effective dialogues? How to ensure trust in the process? The project addresses only a handful of the questions above through the convergence of diverse areas of expertise from the PI and Co-PI —human-centered design, science communication, data science, and environmental policymaking.</div>
+      <div class="author" style="color:dimgrey;font-weight: normal;">This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges.</div>
     </div>
 
   </div>
@@ -26,7 +26,7 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
           <div class="title" style="color:black;font-weight: normal;">Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)</div>
-      <div class="author" style="color:dimgrey;font-weight: normal;">Despite well-documented disparities in climate’s impact on communities of color, these communities’ voices are not represented equally in the social and the digital discussions due to digital, social, and political communication barriers. Using carbon-dioxide policy as a case study, this project aims to tackle this broad research question: How can we couple deliberation and digital crowdsourcing designs to engage and amplify the voices of communities of color in carbon-dioxide policymaking?</div>
+      <div class="author" style="color:dimgrey;font-weight: normal;">This project focuses on the unequal and unaddressed impact of climate change on communities of color, emphasizing the need for climate justice. It highlights the underrepresentation of these communities in social and digital discussions due to communication barriers. Using carbon-dioxide policy as a case study, the project aims to answer the research question: "How can deliberation and digital crowdsourcing designs be used to engage and amplify the voices of communities of color in carbon-dioxide policymaking?"</div>
     </div>
 
   </div>
