@@ -11,22 +11,23 @@ layout: homepage
 
 ### Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)
 
-
-<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-d3Fs1vYd-Es-unsplash.jpg#left"
-     alt="The Zooniverse homepage"
+<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-unsplash.jpg#left"
+     alt="Protest in front of building"
      style="float: left; margin-right: 10px;"
-     width="100" 
-     height="250"
+     width="250" 
+     height="150"
      />
 
 This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges. |
 
 **Project Team**: Corey Jackson (Co-I)
 
+---
+
 ### Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/hexagon-3392236_640.jpg#left"
-     alt="The Zooniverse homepage"
+     alt="Digital connections"
      style="float: left; margin-right: 10px;"
      width="250" 
      height="150"
@@ -36,6 +37,8 @@ This project focuses on the unequal and unaddressed impact of climate change on 
 
 **Project Team**: Kaiping Chen (PI), Corey Jackson (PI) 
 **Funding**: Chan Zuckerberg Initiative 
+
+---
 
 ### Intelligent support for non-experts to navigate large information spaces (2020-Current)
 
