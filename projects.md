@@ -29,7 +29,7 @@ This project aims to develop innovative digital tools and practices to boost civ
      alt="The Zooniverse homepage"
      style="float: left; margin-right: 10px;"
      width="250" 
-     height="100"
+     height="150"
      />
 
 This project focuses on the unequal and unaddressed impact of climate change on communities of color, emphasizing the need for climate justice. It highlights the underrepresentation of these communities in social and digital discussions due to communication barriers. Using carbon-dioxide policy as a case study, the project aims to answer the research question: "How can deliberation and digital crowdsourcing designs be used to engage and amplify the voices of communities of color in carbon-dioxide policymaking?"
@@ -43,7 +43,7 @@ This project focuses on the unequal and unaddressed impact of climate change on 
      alt="The Zooniverse homepage"
      style="float: left; margin-right: 10px;"
      width="250" 
-     height="100"
+     height="150"
      />
 
 This project addresses the challenge of identifying causal connections in large datasets resulting from the increased use of automated data collection instruments. While data correlation can be observed, determining causality remains a complex issue. Human experts, while helpful, have limitations in handling vast amounts of data. The project proposes to involve non-expert volunteers in analyzing scientific data by developing a human-centered computing system. The hypothesis is that by providing background knowledge and improved machine processing of data, even novices can contribute to identifying meaningful and potentially causal connections, thus enhancing the value of citizen science in data analysis.
