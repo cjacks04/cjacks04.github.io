@@ -12,7 +12,7 @@ layout: homepage
 ### Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)
 
 
-<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-d3Fs1vYd-Es-unsplash#right"
+<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-d3Fs1vYd-Es-unsplash.jpg#right"
      alt="The Zooniverse homepage"
      style="float: right; margin-right: 10px;"
      width="300" 
@@ -25,7 +25,7 @@ This project aims to develop innovative digital tools and practices to boost civ
 
 ### Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)
 
-<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png#left"
+<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/hexagon-3392236_640.jpg#left"
      alt="The Zooniverse homepage"
      style="float: left; margin-right: 10px;"
      width="300" 
