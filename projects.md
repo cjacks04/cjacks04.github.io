@@ -25,7 +25,7 @@ This project aims to develop innovative digital tools and practices to boost civ
 **Funding Source**: [UW-Madison OVCRGE: ISEI](https://research.wisc.edu/increasing-social-and-economic-inclusion-2/)  
 
 **Publications**
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications_amp.md %}
 
 
 ---
@@ -46,7 +46,7 @@ This project focuses on the unequal and unaddressed impact of climate change on 
 **Funding Source**: [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)  
 
 **Publications**
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications_cou.md %}
 
 
 ---
@@ -67,7 +67,7 @@ This project addresses the challenge of identifying causal connections in large 
 **Funding Source**: U.S. National Science Foundation  
 
 **Publications**
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications_int.md %}
 
 
 
