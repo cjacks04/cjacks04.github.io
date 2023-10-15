@@ -22,7 +22,11 @@ This project aims to develop innovative digital tools and practices to boost civ
 
 **PIs**: *Corey Jackson* and Kaiping Chen  
 
-**Funding Source**: [UW-Madison OVCRGE: ISEI](https://research.wisc.edu/increasing-social-and-economic-inclusion-2/)
+**Funding Source**: [UW-Madison OVCRGE: ISEI](https://research.wisc.edu/increasing-social-and-economic-inclusion-2/)  
+
+**Publications**
+{% include_relative _includes/publications.md %}
+
 
 ---
 
@@ -39,7 +43,11 @@ This project focuses on the unequal and unaddressed impact of climate change on 
 
 **PIs**: Kaiping Chen and *Corey Jackson*  
 
-**Funding Source**: [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)
+**Funding Source**: [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)  
+
+**Publications**
+{% include_relative _includes/publications.md %}
+
 
 ---
 
@@ -56,6 +64,11 @@ This project addresses the challenge of identifying causal connections in large 
 
 **PIs**: Carsten Østerlund (Syracuse University), Kevin Crowston (Syracuse University), Aggelos Katsaggelos (Northwestern University), Vicky Kalogera (Northwestern University), Marissa Walker (Christopher Newport University), and *Corey Jackson* 
 
-**Funding Source**: U.S. National Science Foundation
+**Funding Source**: U.S. National Science Foundation  
+
+**Publications**
+{% include_relative _includes/publications.md %}
+
+
 
 # Previous Projects
