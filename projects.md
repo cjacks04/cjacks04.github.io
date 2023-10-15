@@ -12,11 +12,11 @@ layout: homepage
 ### Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)
 
 
-<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/hexagon-3392236_640.jpg#right"
+<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-d3Fs1vYd-Es-unsplash#right"
      alt="The Zooniverse homepage"
      style="float: right; margin-right: 10px;"
-     width="200" 
-     height="350"
+     width="300" 
+     height="400"
      />
 
 This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges. |
