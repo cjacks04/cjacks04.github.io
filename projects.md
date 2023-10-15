@@ -12,9 +12,9 @@ layout: homepage
 ### Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)
 
 
-<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-d3Fs1vYd-Es-unsplash.jpg#right"
+<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-d3Fs1vYd-Es-unsplash.jpg#left"
      alt="The Zooniverse homepage"
-     style="float: right; margin-right: 10px;"
+     style="float: left; margin-right: 10px;"
      width="300" 
      height="400"
      />
@@ -28,7 +28,7 @@ This project aims to develop innovative digital tools and practices to boost civ
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/hexagon-3392236_640.jpg#left"
      alt="The Zooniverse homepage"
      style="float: left; margin-right: 10px;"
-     width="300" 
+     width="250" 
      height="250"
      />
 
@@ -42,7 +42,7 @@ This project focuses on the unequal and unaddressed impact of climate change on 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png#left"
      alt="The Zooniverse homepage"
      style="float: left; margin-right: 10px;"
-     width="300" 
+     width="250" 
      height="250"
      />
 
