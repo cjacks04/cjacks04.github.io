@@ -12,7 +12,7 @@ My area of research lies at the intersection of Computer Supported Collaborative
 
 ## Projects 
 
-Check out my[Current Projects](https://coreybjackson.com/projects.html)
+Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ## News
 

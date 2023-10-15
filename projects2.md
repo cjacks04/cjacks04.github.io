@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+[Home](https://coreybjackson.com)
+
 
 # Current Projects
 
