@@ -14,7 +14,7 @@ layout: homepage
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-unsplash.jpg#left"
      alt="Protest in front of building"
      style="float: left; margin-right: 10px;"
-     width="250" 
+     width="100" 
      height="150"
      />
 
