@@ -9,11 +9,17 @@ layout: homepage
 
 #### Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)
 
+![Drag Racing](https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png)
+
 This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges.
 
 **Project Team**: Corey Jackson (Co-I)
 
 #### Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)
+
+<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 This project focuses on the unequal and unaddressed impact of climate change on communities of color, emphasizing the need for climate justice. It highlights the underrepresentation of these communities in social and digital discussions due to communication barriers. Using carbon-dioxide policy as a case study, the project aims to answer the research question: "How can deliberation and digital crowdsourcing designs be used to engage and amplify the voices of communities of color in carbon-dioxide policymaking?"
 
