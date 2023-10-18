@@ -60,6 +60,7 @@ This project addresses the challenge of identifying causal connections in large 
 
 {% include_relative _includes/publications_int.md %}
 
+---
 
 ### Socio-technical audits in machine learning (2022-Current)
 
