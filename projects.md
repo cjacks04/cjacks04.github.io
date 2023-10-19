@@ -24,7 +24,8 @@ This project aims to develop innovative digital tools and practices to boost civ
 **Funding Source**: [UW-Madison OVCRGE: ISEI](https://research.wisc.edu/increasing-social-and-economic-inclusion-2/)  
 
 
----
+<hr style="border:2px solid blue">
+
 
 ### Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)
 
@@ -41,7 +42,8 @@ This project focuses on the unequal and unaddressed impact of climate change on 
 **Funding Source**: [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)  
 
 
----
+<hr style="border:3px solid blue">
+
 
 ### Intelligent support for non-experts to navigate large information spaces (2020-Current)
 
@@ -60,7 +62,9 @@ This project addresses the challenge of identifying causal connections in large 
 
 {% include_relative _includes/publications_int.md %}
 
----
+
+<hr style="border:4px solid blue">
+
 
 ### Socio-technical audits in machine learning (2022-Current)
 
@@ -81,4 +85,3 @@ This research aims to mitigate algorithmic bias in machine learning through a so
 
 
 
-# Previous Projects
