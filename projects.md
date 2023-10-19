@@ -8,7 +8,7 @@ layout: homepage
 # Current Projects
 
 <details>
-<summary><b>Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)</b></summary>
+<summary><h2><b>Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)</b></h2></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-unsplash.jpg#left"
      alt="Protest in front of building"
@@ -26,7 +26,7 @@ This project aims to develop innovative digital tools and practices to boost civ
 <hr style="border:3px mediumseagreen;">
 
 <details>
-<summary><b>Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)</b></summary>
+<summary><h3><b>Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)</b></h3></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/hexagon-3392236_640.jpg#left"
      alt="Digital connections"
