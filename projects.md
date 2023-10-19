@@ -20,7 +20,7 @@ layout: homepage
 <p>This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges.</p> 
 
 <b>PIs:</b> Corey Jackson and Kaiping Chen <br />
-<b>Funding:<b><a href="https://research.wisc.edu/increasing-social-and-economic-inclusion-2/">UW-Madison OVCRGE: ISEI</a>
+<b>Funding:<b> UW-Madison OVCRGE: ISEI
 <br />
 <br />
 </details>
@@ -37,8 +37,8 @@ layout: homepage
 
 <p>This project focuses on the unequal and unaddressed impact of climate change on communities of color, emphasizing the need for climate justice. It highlights the underrepresentation of these communities in social and digital discussions due to communication barriers. Using carbon-dioxide policy as a case study, the project aims to answer the research question: "How can deliberation and digital crowdsourcing designs be used to engage and amplify the voices of communities of color in carbon-dioxide policymaking?"</p> 
 
-<b>PIs:</b> Corey Jackson and Kaiping Chen <br />
-<b>Funding:<b><a href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative Foundation</a>
+<b>PIs:</b> Kaiping Chen and Corey Jackson <br />
+<b>Funding:<b> Chan Zuckerberg Initiative Foundation
 <br />
 <br />
 
@@ -57,7 +57,7 @@ layout: homepage
 <p>This project addresses the challenge of identifying causal connections in large datasets resulting from the increased use of automated data collection instruments. While data correlation can be observed, determining causality remains a complex issue. Human experts, while helpful, have limitations in handling vast amounts of data. The project proposes to involve non-expert volunteers in analyzing scientific data by developing a human-centered computing system. The hypothesis is that by providing background knowledge and improved machine processing of data, even novices can contribute to identifying meaningful and potentially causal connections, thus enhancing the value of citizen science in data analysis.</p>
 
 <b>PIs:</b> Carsten Østerlund (Syracuse University), Kevin Crowston (Syracuse University), Aggelos Katsaggelos (Northwestern University), Vicky Kalogera (Northwestern University), Marissa Walker (Christopher Newport University), and Corey Jackson<br />
-<b>Funding: U.S. National Science Foundation 
+<b>Funding:</b> U.S. National Science Foundation 
 <br />
 <br />
 {% include_relative _includes/publications_int.md %}
@@ -79,6 +79,8 @@ layout: homepage
 <p>This research aims to mitigate algorithmic bias in machine learning through a socio-technical framework applied to algorithmic audits. The project aims to cultivate collaboration between machine learning developers and the broader public, with the objective of minimizing adverse outcomes for all demographic groups arising from the application of machine learning in various decision-making contexts. The project undertakes the task of redefining fairness, acknowledging its inherent contextuality and adaptability, while actively integrating public opinions and attitudes into the process of algorithmic audits. This project positions fairness as a multifaceted phenomenon with social, historical, contextual, and geographical dimensions.</p>
 <br />
 <br />
+<b>PIs:</b> Corey Jackson<br />
+<b>Funding:</b> NA 
 
 {% include_relative _includes/publications_soc.md %}
 <br />
