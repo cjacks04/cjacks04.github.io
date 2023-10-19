@@ -45,7 +45,7 @@ This project focuses on the unequal and unaddressed impact of climate change on 
 
 ### Intelligent support for non-experts to navigate large information spaces (2020-Current)
 
-<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/zooniverse.png#left"
+<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/mockup.png#left"
      alt="The Zooniverse homepage"
      style="float: left; margin-right: 10px;"
      width="250" 
