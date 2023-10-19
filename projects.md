@@ -20,30 +20,13 @@ layout: homepage
 This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges.
 
 **PIs**: *Corey Jackson* and Kaiping Chen  
-**Funding Source**: [UW-Madison OVCRGE: ISEI](https://research.wisc.edu/increasing-social-and-economic-inclusion-2/) 
+**Funding Source**: [UW-Madison OVCRGE: ISEI](https://research.wisc.edu/increasing-social-and-economic-inclusion-2/ 
 </details>
-
-
-
-### Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)
-
-<img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-unsplash.jpg#left"
-     alt="Protest in front of building"
-     style="float: left; margin-right: 10px;"
-     width="100" 
-     height="150"
-     />
-
-This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges.
-
-**PIs**: *Corey Jackson* and Kaiping Chen  
-**Funding Source**: [UW-Madison OVCRGE: ISEI](https://research.wisc.edu/increasing-social-and-economic-inclusion-2/)  
-
 
 <hr style="border:3px mediumseagreen;">
 
-
-### Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)
+<details>
+<summary><b>Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)</b></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/hexagon-3392236_640.jpg#left"
      alt="Digital connections"
@@ -56,12 +39,12 @@ This project focuses on the unequal and unaddressed impact of climate change on 
 
 **PIs**: Kaiping Chen and *Corey Jackson*   
 **Funding Source**: [Chan Zuckerberg Initiative](https://chanzuckerberg.com/)  
-
+</details>
 
 <hr style="border:3px gray">
 
-
-### Intelligent support for non-experts to navigate large information spaces (2020-Current)
+<details>
+<summary><b>Intelligent support for non-experts to navigate large information spaces (2020-Current)</b></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/mockup.png#left"
      alt="The Zooniverse homepage"
@@ -77,12 +60,12 @@ This project addresses the challenge of identifying causal connections in large 
 
 
 {% include_relative _includes/publications_int.md %}
+</details>
 
+<hr style="border:3px gray">
 
-<hr style="border:3px orange">
-
-
-### Socio-technical audits in machine learning (2022-Current)
+<details>
+<summary><b>Socio-technical audits in machine learning (2022-Current)</b></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/machine-learning.png#left"
      alt="Digital connections"
@@ -97,6 +80,7 @@ This research aims to mitigate algorithmic bias in machine learning through a so
 **Funding Source**: NA  
 
 {% include_relative _includes/publications_soc.md %}
+</details>
 
 
 
