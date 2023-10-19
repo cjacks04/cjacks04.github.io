@@ -17,10 +17,11 @@ layout: homepage
      height="150"
      />
 
-This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges.
+This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges.  
 
-**PIs**: *Corey Jackson* and Kaiping Chen  
-**Funding Source**: [UW-Madison OVCRGE: ISEI](https://research.wisc.edu/increasing-social-and-economic-inclusion-2/ 
+
+<b>PIs</b>: *Corey Jackson* and Kaiping Chen  
+<b>Funding Source<b>: <a href="https://research.wisc.edu/increasing-social-and-economic-inclusion-2/">UW-Madison OVCRGE: ISEI</a>
 </details>
 
 <hr style="border:3px mediumseagreen;">
