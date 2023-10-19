@@ -8,7 +8,7 @@ layout: homepage
 # Current Projects
 
 <details>
-<summary><h2><b>Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)</b></h2></summary>
+<h3><summary><b>Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)</b></summary></h3>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-unsplash.jpg#left"
      alt="Protest in front of building"
@@ -27,7 +27,7 @@ This project aims to develop innovative digital tools and practices to boost civ
 <hr style="border:3px mediumseagreen;">
 
 <details>
-<summary><h3><b>Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)</b></h3></summary>
+<h3><summary><b>Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)</b></summary></h3>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/hexagon-3392236_640.jpg#left"
      alt="Digital connections"
@@ -45,7 +45,7 @@ This project focuses on the unequal and unaddressed impact of climate change on 
 <hr style="border:3px gray">
 
 <details>
-<summary><b>Intelligent support for non-experts to navigate large information spaces (2020-Current)</b></summary>
+<h3><summary><b>Intelligent support for non-experts to navigate large information spaces (2020-Current)</b></summary></h3>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/mockup.png#left"
      alt="The Zooniverse homepage"
@@ -66,7 +66,7 @@ This project addresses the challenge of identifying causal connections in large 
 <hr style="border:3px gray">
 
 <details>
-<summary><b>Socio-technical audits in machine learning (2022-Current)</b></summary>
+<h3><summary><b>Socio-technical audits in machine learning (2022-Current)</b></summary></h3>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/machine-learning.png#left"
      alt="Digital connections"
