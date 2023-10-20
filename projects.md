@@ -8,7 +8,7 @@ layout: homepage
 # Current Projects
 
 <details>
-<summary><h3>Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)</h3></summary>
+<summary><h3>Amplifying Black and Latinx Voices in Policy Discussions (2023-Current)</h3></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-unsplash.jpg#left"
      alt="Protest in front of building"
@@ -17,7 +17,12 @@ layout: homepage
      height="150"
      />
 
-<p>This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges.</p> 
+Funding: Chan Zuckerberg Initiative Foundation <br />
+
+<p>This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges.</p>
+
+<b>PIs:</b> Kaiping Chen and Corey Jackson <br />
+<b>Funding:</b> UW-Madison OVCRGE: ISEI <br />
 </details>
 
 <details>
