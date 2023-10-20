@@ -8,6 +8,7 @@ layout: homepage
 # Current Projects
 
 <details>
+
 <summary><h3><b>Amplifying the Voices of Black and Latinx Communities in Environmental Policy Discussions (2023-Current)</b></h3></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-unsplash.jpg#left"
@@ -23,9 +24,7 @@ layout: homepage
 <b>Funding:<b> UW-Madison OVCRGE: ISEI
 <br />
 <br />
-</details>
-<br />
-<details>
+
 <summary><h3><b>Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)</b></h3></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/hexagon-3392236_640.jpg#left"
@@ -42,9 +41,6 @@ layout: homepage
 <br />
 <br />
 
-</details>
-<br />
-<details>
 <summary><h3><b>Intelligent support for non-experts to navigate large information spaces (2020-Current)</b></h3></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/mockup.png#left"
@@ -64,9 +60,6 @@ layout: homepage
 <br />
 <br />
 
-</details>
-<br />
-<details>
 <summary><h3><b>Socio-technical audits in machine learning (2022-Current)</b></h3></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/machine-learning.png#left"
