@@ -7,8 +7,7 @@ layout: homepage
 
 # Current Projects
 
-<details>
-<summary><h3>Amplifying Black and Latinx Voices in Policy Discussions (2023-Current)</h3></summary>
+<details><summary><h2>Amplifying Black and Latinx Voices in Policy Discussions (2023-Current)</h2></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-unsplash.jpg#left"
      alt="Protest in front of building"
@@ -23,8 +22,7 @@ layout: homepage
 <b>Funding:</b><a href="https://research.wisc.edu/increasing-social-and-economic-inclusion-2/"> UW-Madison OVCRGE: ISEI</a><br />
 <br />
 </details>
-<details>
- <summary><h3>In-Person deliberation and Digital Crowdsourcing for CO2 Policy (2022-Current)</h3></summary>
+<details><summary><h2>In-Person Deliberation and Digital Crowdsourcing for CO2 Policy (2022-Current)</h2></summary>
  
  <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/hexagon-3392236_640.jpg#left"
      alt="Digital connections"
@@ -39,8 +37,7 @@ layout: homepage
 <b>Funding:</b><a href="https://chanzuckerberg.com/"> Chan Zuckerberg Initiative</a><br />
 <br />
 </details>
-<details>
- <summary><h3>Intelligent support for non-experts to navigate large information spaces (2020-Current)</h3></summary>
+<details><summary><h2>Intelligent Support for Non-Experts in Citizen Science (2020-Current)</h2></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/mockup.png#left"
      alt="The Zooniverse homepage"
@@ -59,7 +56,7 @@ layout: homepage
 </details>
 
 <details>
-<summary><h3>Socio-technical audits in machine learning (2022-Current)</h3></summary>
+<summary><h3>Socio-Technical Audits in Machine Learning (2022-Current)</h3></summary>
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/machine-learning.png#left"
      alt="Digital connections"
      style="float: left; margin-right: 10px;"
