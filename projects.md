@@ -24,7 +24,7 @@ layout: homepage
 <br />
 <br />
 </details>
-
+<br />
 <details>
 <summary><h3><b>Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)</b></h3></summary>
 
@@ -43,7 +43,7 @@ layout: homepage
 <br />
 
 </details>
-
+<br />
 <details>
 <summary><h3><b>Intelligent support for non-experts to navigate large information spaces (2020-Current)</b></h3></summary>
 
@@ -65,7 +65,7 @@ layout: homepage
 <br />
 
 </details>
-
+<br />
 <details>
 <summary><h3><b>Socio-technical audits in machine learning (2022-Current)</b></h3></summary>
 
