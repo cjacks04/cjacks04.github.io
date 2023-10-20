@@ -7,7 +7,7 @@ layout: homepage
 
 # Current Projects
 
-<details><summary><h2>Amplifying Black and Latinx Voices in Policy Discussions (2023-Current)</h2></summary>
+<details><summary><h2>Amplifying Black and Latinx Voices in Policy Discussions</h2></summary>
 
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/katie-rodriguez-unsplash.jpg#left"
      alt="Protest in front of building"
