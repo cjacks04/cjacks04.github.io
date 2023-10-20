@@ -3,10 +3,10 @@
 <div class="publications">
 <ol class="bibliography">
 
-	<li>
+<li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/gs2.png" style="width:600px;height:150px;">
+    <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/gs2.png" style="width:650px;height:150px;">
             <abbr class="badge">arXiv</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">

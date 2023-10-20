@@ -6,7 +6,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/pexels-google-deepmind.jpg">
+    <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/pexels-google-deepmind.jpg" style="width:650px;height:150px;">
             <abbr class="badge">CSCW</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
