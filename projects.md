@@ -17,8 +17,6 @@ layout: homepage
      height="150"
      />
 
-Funding: Chan Zuckerberg Initiative Foundation <br />
-
 <p>This project aims to develop innovative digital tools and practices to boost civic engagement in underrepresented communities, specifically in the context of community deliberation and advocacy in policymaking, with a focus on environmental issues. It seeks to answer questions about the current capabilities, data needs, and trust-building in this area. The project leverages diverse expertise in human-centered design, science communication, data science, and environmental policymaking to tackle these challenges.</p>
 
 <b>PIs:</b> Kaiping Chen and Corey Jackson <br />
@@ -26,7 +24,7 @@ Funding: Chan Zuckerberg Initiative Foundation <br />
 </details>
 
 <details>
- <summary><h3>Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)</h3></summary>
+ <summary><h3>In-Person deliberation and Digital Crowdsourcing for CO2 Policy (2022-Current)</h3></summary>
  
  <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/hexagon-3392236_640.jpg#left"
      alt="Digital connections"
