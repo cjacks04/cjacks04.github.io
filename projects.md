@@ -22,8 +22,8 @@ layout: homepage
 
 <b>PIs:</b> Corey Jackson and Kaiping Chen <br />
 <b>Funding:<b> UW-Madison OVCRGE: ISEI
-<br />
-<br />
+
+<details>
 
 <summary><h3><b>Coupling deliberation and digital crowdsourcing to amplify and engage marginalized communities in co-creating solutions for carbon-dioxide policies (2022-Current)</b></h3></summary>
 
