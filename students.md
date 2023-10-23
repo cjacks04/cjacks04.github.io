@@ -20,11 +20,8 @@ blockquote {
 
 
 
-|                                       |                                       |                                       |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/students/ellie-jeong.jpg" width="250" height="250"> | <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/students/tallal-ahmad.jpg" width="200" height="250"> | <img src="" width="250" height="250"> |
-| <img src="" width="200" height="200"> | <img src="" width="200" height="200"> | <img src="" width="200" height="200"> |
-
+| <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/students/ellie-jeong.jpg" width="250" height="250"> | <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/students/tallal-ahmad.jpg" width="250" height="250"> | <img src="" width="250" height="250"> |
 
 # Former Students 
 
