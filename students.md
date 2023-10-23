@@ -5,7 +5,7 @@ layout: homepage
 
 [Home](https://coreybjackson.com)
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <style>
@@ -40,8 +40,8 @@ layout: homepage
 
 
 
-<body>
-# Current Students 
+<body>    
+<h2> Current Students </h2> 
     <div class="image-grid">
         <!-- Grid Item 1 -->
         <div class="grid-item">
@@ -56,7 +56,7 @@ layout: homepage
    </div>
 
 
-# Former Students 
+<h2> Former Students </h2>  
 
 
 </body>
