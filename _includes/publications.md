@@ -3,6 +3,26 @@
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/gs2.png" style="width:650px;height:150px;">
+            <abbr class="badge">arXiv</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="">Gravity Spy: Lessons Learned and a Path Forward</a></div>
+      <div class="author">Michael Zevin, <strong>Corey Jackson</strong>, Zoheyr Doctor, Yunan Wu, Carsten Østerlund, L Clifton Johnson, Christopher PL Berry et al.</div>
+      <div class="periodical"><em>arXiv preprint arXiv:2308.15530.</em>
+      </div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
