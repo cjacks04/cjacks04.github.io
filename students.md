@@ -41,22 +41,24 @@ layout: homepage
 
 
 <body>    
-<h2> Current Students </h2> 
+<h2> Ph.D Students </h2> 
     <div class="image-grid">
         <!-- Grid Item 1 -->
         <div class="grid-item">
             <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/students/tallal-ahmad.jpg" alt="Image of Tallal Ahmad" width="250" height="250" >
-            <p class="caption">Tallal Ahmad, Ph.D. Student</p>
+            <p class="caption">Tallal Ahmad</p>
         </div>
         <!-- Grid Item 2 -->
         <div class="grid-item">
             <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/students/ellie-jeong.jpg" alt="Image of Ellie Jeong" width="250" height="250">
-            <p class="caption">Ellie Jeong, Ph.D. Student</p>
+            <p class="caption">Ellie Jeong</p>
         </div>
    </div>
 
 
-<h2> Former Students </h2>  
+<h2> M.S. & M.A. Students </h2>  
+
+<h2> Undregraduate Students </h2>  
 
 
 </body>
