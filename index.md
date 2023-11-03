@@ -19,6 +19,8 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ## News
 
+- **[Nov. 2023]** Research with my collaborator [Kaiping Chen](https://www.kaipingchen.com/) is highlighted in the November issue of Jottings - [Research spotlight: Harnessing community and technology for equitable environmental policy](https://ischool.wisc.edu/2023/10/31/research-spotlight-harnessing-community-and-technology-for-equitable-environmental-policy/)
+
 - **[Oct. 2023]** Our position paper entitled "Re-imagining Fairness in Machine Learning: A Framework for Building in Socio-cultural and Contextual Awareness" (with [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) and [Devansh Saxena](https://devsaxena.info/)) will be presented in the [Supporting User Engagement in Testing, Auditing, and Contesting AI](https://cscw-user-ai-auditing.github.io/) workshop at CSCW 2023.
 
 - **[June. 2023]** I presented our paper (with UW iSchool Phd student co-authors [Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) and [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home)) entitled "Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects"  at [Communities and Technologies 2023](https://2023.comtech.community/). 
@@ -31,7 +33,7 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 - **[Mar. 2023]** I gave a talk at the [LSC's Science Communication Colloquium] entitled - Citizen science: Supporting Advanced work through design. 
 
-- **[Feb. 2023]** Research with my collaborator at UW-Madison Life Sciences Communication [Kaiping Chen](https://www.kaipingchen.com/) is highlights in the The Badger Herald - [UW partners with local organizations representing Black, Latinx voices in environmental conservation for research initiative](https://badgerherald.com/news/2023/02/15/uw-partners-with-local-organizations-representing-black-latinx-voices-in-environmental-conservation-for-research-initiative/![image](https://user-images.githubusercontent.com/2421233/235491090-b1fdc0ab-a729-4182-9866-d861fbda311c.png)
+- **[Feb. 2023]** Research with my collaborator at UW-Madison Life Sciences Communication [Kaiping Chen](https://www.kaipingchen.com/) is highlighted in the The Badger Herald - [UW partners with local organizations representing Black, Latinx voices in environmental conservation for research initiative](https://badgerherald.com/news/2023/02/15/uw-partners-with-local-organizations-representing-black-latinx-voices-in-environmental-conservation-for-research-initiative/![image](https://user-images.githubusercontent.com/2421233/235491090-b1fdc0ab-a729-4182-9866-d861fbda311c.png)
 ). 
 
 - **[Jan. 2023]** Our paper (along with collaborators from Syracuse University) entitled "Design principles for background knowledge to enhance learning in citizen science" has been accepted to [iConference 2023](https://www.ischools.org/iconference). 
