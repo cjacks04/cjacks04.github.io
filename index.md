@@ -19,6 +19,8 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ## News
 
+- **[Nov. 2023]** Our paper, "How Personal Value Orientations Influence on Behaviors in Digital Citizen Science" has been accepted [CSCW 2024](https://cscw.acm.org/2024/)
+
 - **[Nov. 2023]** Research with my collaborator [Kaiping Chen](https://www.kaipingchen.com/) is highlighted in the November issue of Jottings - [Research spotlight: Harnessing community and technology for equitable environmental policy](https://ischool.wisc.edu/2023/10/31/research-spotlight-harnessing-community-and-technology-for-equitable-environmental-policy/)
 
 - **[Oct. 2023]** Our position paper entitled "Re-imagining Fairness in Machine Learning: A Framework for Building in Socio-cultural and Contextual Awareness" (with [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) and [Devansh Saxena](https://devsaxena.info/)) will be presented in the [Supporting User Engagement in Testing, Auditing, and Contesting AI](https://cscw-user-ai-auditing.github.io/) workshop at CSCW 2023.
