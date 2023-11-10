@@ -64,5 +64,26 @@
 
 <br>
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/values.png">
+            <abbr class="badge">iConf</abbr>
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="">How Personal Value Orientations Influence on Behaviors in Digital Citizen Science</a></div>
+      <div class="author">Eunmi (Ellie) Jeong, <strong>Corey Jackson</strong>, Liz Dowthwaite, Cliff Johnson, Laura Trouille</div>
+      <div class="periodical"><em>CSCW '24: Proceedings of the ACM on human-computer interaction.</em>
+      </div>
+    <div class="links">
+      <a href="http://coreybjackson.com/papers/Values_and_Behaviors_CSCW24_.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<br>
+
 </ol>
 </div>
