@@ -5,7 +5,7 @@
 
 <li>
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 7px;padding-left: 7px;">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 2px;padding-left: 2px;">
     <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/values.png">
             <abbr class="badge">CSCW</abbr>
   </div>
