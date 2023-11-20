@@ -19,6 +19,8 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ## News
 
+- **[Nov. 2023]** Our poster, "Learning About Life in the US: A Pilot Study on the Information Behavior of Nigerian Diasporan" has been accepted for presentation at [iConference 2024](https://www.ischools.org/iconference)
+
 - **[Nov. 2023]** Our paper, "How Personal Value Orientations Influence on Behaviors in Digital Citizen Science" has been accepted to [CSCW 2024](https://cscw.acm.org/2024/)
 
 - **[Nov. 2023]** Research with my collaborator [Kaiping Chen](https://www.kaipingchen.com/) is highlighted in the November issue of Jottings - [Research spotlight: Harnessing community and technology for equitable environmental policy](https://ischool.wisc.edu/2023/10/31/research-spotlight-harnessing-community-and-technology-for-equitable-environmental-policy/)
