@@ -57,5 +57,6 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 ### Former 
 Xin Bu, Yiping He, Shihao Yang, Pragyan Das, Weiyu (Vincent) Kong, Samantha Lee, Xucen Liao
 
+If you're interested in working with me, please reach out to me at cbjackson2[at]wisc.edu. You should also take a look at my [Compact of Expectations](https://docs.google.com/document/d/1AtuLPtfpGkzolgKeKnDy2fQ8rIdiRdgWKloEqOmxFpo/edit?usp=sharing) to learn more about how I work with students. 
 
 {% include_relative _includes/services.md %}
