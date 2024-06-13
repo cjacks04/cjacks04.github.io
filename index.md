@@ -20,7 +20,7 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 ## News
 
 
-- **[May. 2024]** Research with my collaborator [Kaiping Chen](https://www.kaipingchen.com/) was featured in The Badger Hearly [Study shows marginalized groups’ views of environmental justice](https://badgerherald.com/news/2024/05/08/uw-researchers-reveal-marginalized-communities-perceptions-of-environmental-justice/).   
+- **[May. 2024]** Research with my collaborator [Kaiping Chen](https://www.kaipingchen.com/) was featured in The Badger Herald -[Study shows marginalized groups’ views of environmental justice](https://badgerherald.com/news/2024/05/08/uw-researchers-reveal-marginalized-communities-perceptions-of-environmental-justice/).   
 
 
 - **[May. 2024]** I wrote an article in the Wisconsin State Journal describing my background shaped my research trajectory and current proejcts at UW - [The digital town hall](https://madison.com/exclusive/fueling-discovery/the-digital-town-hall/article_bf869edc-0ebc-11ef-ad6f-4b35d0c90689.html).   
