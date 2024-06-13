@@ -19,30 +19,14 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ## News
 
-- **[Nov. 2023]** Our poster, "Learning About Life in the US: A Pilot Study on the Information Behavior of Nigerian Diasporan" has been accepted for presentation at [iConference 2024](https://www.ischools.org/iconference)
 
-- **[Nov. 2023]** Our paper, "How Personal Value Orientations Influence on Behaviors in Digital Citizen Science" has been accepted to [CSCW 2024](https://cscw.acm.org/2024/)
+- **[May. 2024]** Research with my collaborator [Kaiping Chen](https://www.kaipingchen.com/) was featured in The Badger Hearly [Study shows marginalized groups’ views of environmental justice](https://badgerherald.com/news/2024/05/08/uw-researchers-reveal-marginalized-communities-perceptions-of-environmental-justice/).   
 
-- **[Nov. 2023]** Research with my collaborator [Kaiping Chen](https://www.kaipingchen.com/) is highlighted in the November issue of Jottings - [Research spotlight: Harnessing community and technology for equitable environmental policy](https://ischool.wisc.edu/2023/10/31/research-spotlight-harnessing-community-and-technology-for-equitable-environmental-policy/)
 
-- **[Oct. 2023]** Our position paper entitled "Re-imagining Fairness in Machine Learning: A Framework for Building in Socio-cultural and Contextual Awareness" (with [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) and [Devansh Saxena](https://devsaxena.info/)) will be presented in the [Supporting User Engagement in Testing, Auditing, and Contesting AI](https://cscw-user-ai-auditing.github.io/) workshop at CSCW 2023.
+- **[May. 2024]** I wrote an article in the Wisconsin State Journal describing my background shaped my research trajectory and current proejcts at UW - [The digital town hall](https://madison.com/exclusive/fueling-discovery/the-digital-town-hall/article_bf869edc-0ebc-11ef-ad6f-4b35d0c90689.html).   
 
-- **[June. 2023]** I presented our paper (with UW iSchool Phd student co-authors [Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) and [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home)) entitled "Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects"  at [Communities and Technologies 2023](https://2023.comtech.community/). 
 
-- **[May. 2023]** My Co-Investigator and I were awarded a UW-Madison VCRGE grant under the Increasing Social and Economic Inclusion program. Read more here: [Increasing Social and Economic Inclusion (ISEI)](https://research.wisc.edu/increasing-social-and-economic-inclusion-2/)
-
-- **[Apr. 2023]** I gave a talk at the [Robert F. and Jean E. Holtz Center](https://sts.wisc.edu/) entitled - [Interlocutors: Carving Out a Role for Information Professionals in Citizen Science]( https://sts.wisc.edu/event/corey-jackson-2/). 
-
-- **[Apr. 2023]** Our paper (with UW iSchool Phd student co-authors [Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) and [Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home)) entitled "Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects" has been accepted at [Communities and Technologies 2023](https://2023.comtech.community/). 
-
-- **[Mar. 2023]** I gave a talk at the [LSC's Science Communication Colloquium] entitled - Citizen science: Supporting Advanced work through design. 
-
-- **[Feb. 2023]** Research with my collaborator at UW-Madison Life Sciences Communication [Kaiping Chen](https://www.kaipingchen.com/) is highlighted in the The Badger Herald - [UW partners with local organizations representing Black, Latinx voices in environmental conservation for research initiative](https://badgerherald.com/news/2023/02/15/uw-partners-with-local-organizations-representing-black-latinx-voices-in-environmental-conservation-for-research-initiative/![image](https://user-images.githubusercontent.com/2421233/235491090-b1fdc0ab-a729-4182-9866-d861fbda311c.png)
-). 
-
-- **[Jan. 2023]** Our paper (along with collaborators from Syracuse University) entitled "Design principles for background knowledge to enhance learning in citizen science" has been accepted to [iConference 2023](https://www.ischools.org/iconference). 
-
-- **[Jan. 2023]** Our poster (along with collaborators from Syracuse University) entitled ["Advanced work on user-generated content systems: Theory-driven method development"](https://www.ideals.illinois.edu/items/126404) has been accepted to [iConference 2023](https://www.ischools.org/iconference).   
+- **[Apr. 2024]** Our poster, "Learning About Life in the US: A Pilot Study on the Information Behavior of Nigerian Diasporan" was among the finalist for The 2024 iConference Best Poster Award.   
 
 
 {% include_relative _includes/publications.md %}
@@ -50,13 +34,15 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ## Students 
 
-### Current 
-[Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) (UW-Madison, Ph.D. Advisee), 
-[Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) (UW-Madison, Ph.D. Advisee), [Corey Black](https://www.linkedin.com/in/corey-black-53667055) (UW-Madison, Masters student in Library and Information Studies), [Stephen Ling](https://www.linkedin.com/in/stephen-ling-40575111b) (UW-Madison, Undergraduate in Statistics, Computer Science, Economics), [Arden Wang](https://ardentwang.github.io/) (UW-Madison, Undergraduate in Computer Science), Yueming Xu (UW-Madison, Undergraduate in Data Science), Stephen Ling (UW-Madison, Undergraduate in Data Science), Kendall Walch (UW-Madison, Undergraduate in Data Science)
-
-### Former 
-Xin Bu, Yiping He, Shihao Yang, Pragyan Das, Weiyu (Vincent) Kong, Samantha Lee, Xucen Liao
-
 If you're interested in working with me, please reach out to me at cbjackson2[at]wisc.edu. You should also take a look at my [Compact of Expectations](https://docs.google.com/document/d/1AtuLPtfpGkzolgKeKnDy2fQ8rIdiRdgWKloEqOmxFpo/edit?usp=sharing) to learn more about how I work with students. 
+
+### Current Student Collaborators
+[Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) (UW-Madison, Ph.D. Advisee), 
+[Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) (UW-Madison, Ph.D. Advisee), [Corey Black](https://www.linkedin.com/in/corey-black-53667055) (UW-Madison, Masters student in Library and Information Studies), 
+
+### Former Student Collaborators
+Xin Bu, Yiping He, Shihao Yang, Pragyan Das, Weiyu (Vincent) Kong, Samantha Lee, Xucen Liao, [Stephen Ling](https://www.linkedin.com/in/stephen-ling-40575111b), [Arden Wang](https://ardentwang.github.io/), Yueming Xu, Kendall Walch (UW-Madison, Undergraduate in Data Science)
+
+
 
 {% include_relative _includes/services.md %}
