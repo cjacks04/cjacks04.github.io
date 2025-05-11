@@ -20,14 +20,15 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ## News
 
-- **[May 2025]** My paper on Language Learning in Virtual Citizen Science was accepted and will be presented at [ICWSM'25](https://www.icwsm.org/2025/index.html). A short summary is available here: [How Learning a Project’s Language Helps Newcomers Stick Around in Online Science Communities](https://medium.com/uw-madison-madcollab-research/how-learning-a-projects-language-helps-newcomers-stick-around-in-online-science-communities-619a24bf9542).    
+- **[May 2025]** A new paper on language learning in virtual citizen science was accepted and will be presented at [ICWSM'25](https://www.icwsm.org/2025/index.html). Read the summary: [How Learning a Project’s Language Helps Newcomers Stick Around in Online Science Communities](https://medium.com/uw-madison-madcollab-research/how-learning-a-projects-language-helps-newcomers-stick-around-in-online-science-communities-619a24bf9542).    
 
-- **[May 2025]** The Information School at Syracuse University wrote a piece on my academic journey. Check it out here: [Syracuse iSchool Grad Shares His Wisdom In the Halls of Wisconsin-Madison iSchool](https://ischool.syracuse.edu/syracuse-ischool-grad-shares-his-wisdom-in-the-halls-of-wisconsin-madison-ischool/).   
+- **[May 2025]** The Information School at Syracuse University wrote a piece on my academic journey. Read here: [Syracuse iSchool Grad Shares His Wisdom In the Halls of Wisconsin-Madison iSchool](https://ischool.syracuse.edu/syracuse-ischool-grad-shares-his-wisdom-in-the-halls-of-wisconsin-madison-ischool/).   
 
-- **[April 2025]** I was in Washington D.C. (as an organizer/participant/panelist) in the [Computing Community Consortium](https://cra.org/ccc/) Workshop [Grand Challenges for the Convergence of Computational and Citizen Science Research](https://cra.org/ccc/events/grand-challenges-for-the-convergence-of-computational-and-citizen-science-research/#overview).   
+- **[April 2025]** In Washington D.C. (as an organizer/participant/panelist) in the [Computing Community Consortium](https://cra.org/ccc/) Workshop [Grand Challenges for the Convergence of Computational and Citizen Science Research](https://cra.org/ccc/events/grand-challenges-for-the-convergence-of-computational-and-citizen-science-research/#overview).   
 
+- **[November 2024]** A panelist at the [UW-Madison Diversity Forum](https://diversityforum.wisc.edu/) session [What Does Diversity Science Say About Belonging & Community?](https://diversity.wisc.edu/2024/11/diversity-forum-weaves-threads-of-belonging-to-build-community/). Watch the [recording](https://diversityforum.wisc.edu/session/2999/). 
 
-
+- **[August 2024]** Invited to speak in the [Institute for Diversity Science](https://ids.wisc.edu/) webinar series. I spoke about Bias and Equity in AI. Watch the [webinar](https://ids.wisc.edu/2024/07/17/webinar-bias-and-equity-in-ai/). 
 
 {% include_relative _includes/publications.md %}
 
