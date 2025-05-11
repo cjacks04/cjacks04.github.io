@@ -3,14 +3,15 @@ layout: homepage
 ---
 
 ## About Me
+Dr. Corey Jackson is an Assistant Professor in the [The Information School](https://ischool.wisc.edu/) at the University of Wisconsin–Madison, where he co-directs the [Collaborative Computing Group](https://collab.ischool.wisc.edu/), an interdisciplinary research lab that investigates how people interact with sociotechnical systems in the context of science, governance, and public life. His research draws from the fields of human-computer interaction (HCI), computer-supported cooperative work (CSCW), and responsible AI, with a particular emphasis on designing systems that enable greater transparency, accountability, and democratic participation in emerging technologies.
 
-I am an Assistant Professor in the [The Information School](https://ischool.wisc.edu/) at the University of Wisconsin, Madison. I co-direct the [Collaborative Computing Group](https://collab.ischool.wisc.edu/). I am also a faculty affiliate in the [UW-Madison Robert & Jean Holtz Center for Science and Technology Studies](https://sts.wisc.edu), the [UW-Madison Institute for Diversity Science](https://ids.wisc.edu), and the [UW-Madison Data Science Institute](https://datascience.wisc.edu/institute/). I received a PhD in Information Science and Technology (2019) from the [Information School](https://ischool.syr.edu/) at [Syracuse University](https://www.syracuse.edu/). After my PhD, I spent one year as a teaching postdoc in Berkeley's Master's in Data Science ([MIDS](https://ischoolonline.berkeley.edu/)) program. 
+Dr. Jackson’s work explores how non-experts engage in complex technical domains—such as artificial intelligence, environmental monitoring, and digital governance—and how technologies can be reimagined to amplify public understanding and collective oversight. His recent projects include developing community-based AI audit tools, studying the learning behaviors of software developers using generative AI, and collaborating with citizen science groups to enhance participation in environmental justice initiatives.
 
-My area of research lies at the intersection of Computer Supported Collaborative Work (CSCW) and human-centered design/computing. My work investigates the approaches to enhancing contribution by crowds in online environments. Using mixed-methods approaches and data science techniques, I investigations how people (''the crowd'') contributes to and participates in virtual citizen science. Prior research projects have included: studying the motivations of volunteer crowd workers, investigating learning behaviors, using theory-based motivational cues to enhance pariticpation, and investigating the coordinative mechanisms of knowledge production.  
+He has received funding from the National Science Foundation ([HCC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1755628&HistoricalAwards=false)), the [Rockefeller Foundation](https://www.rockefellerfoundation.org), the [Chan Zuckerberg Initiative](https://chanzuckerberg.com), and the [UW-Madison Office of the Vice Chancellor for Research and Graduate Education](https://research.wisc.edu/funding/) to support research at the convergence of civic technology, data governance, and public sector innovation. His scholarship appears in top venues such as *ACM Conference On Computer-Supported Cooperative Work And Social Computing*, the *Journal of the Association for Information Systems*, and *Computers in Human Behavior* and he regularly reviews for and contributes to interdisciplinary research communities.
 
- Ongoing research considers approaches to diversity the crowd in various contexts. This work involves research using participatory design to re-imagine how new systems and digital tools might enhance approaches to involve underrepresented groups in informing and shaping environmental policy. Additional projects focus on approaches to enhance and diversify definitions of fairness in machine learning audits.  
+At UW–Madison, Dr. Jackson teaches courses in Interaction Design, User Experience, and Digital Information. He also he mentors both undergraduate and graduate students, including several Ph.D. advisees. 
 
-My research has been published in leading conferences and journals in HCI such as *ACM Conference On Computer-Supported Cooperative Work And Social Computing*, the *Journal of the Association for Information Systems*, and *Computers in Human Behavior*. The research has been funded by the National Science Foundation ([HCC](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1755628&HistoricalAwards=false)), the [Rockefeller Foundation](https://www.rockefellerfoundation.org), the [Chan Zuckerberg Initiative](https://chanzuckerberg.com), and the [UW-Madison Office of the Vice Chancellor for Research and Graduate Education](https://research.wisc.edu/funding/). 
+He earned his Ph.D. from [Syracuse University](https://www.syracuse.edu/), where his dissertation focused on evaluating motivation in digital citizen science. After earning his Ph.D., he was a teaching postdoc in Berkeley's Master's in Data Science ([MIDS](https://ischoolonline.berkeley.edu/)) program. His current work examines how everyday people shape and evaluate algorithmic systems and how we might design computational infrastructure that supports social responsibility, inclusion, and democratic governance.
 
 
 ## Projects 
@@ -19,14 +20,13 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ## News
 
+- **[May 2025]** My paper on Language Learning in Virtual Citizen Science was accepted and will be presented at [ICWSM'25](https://www.icwsm.org/2025/index.html). A short summary is available here: [How Learning a Project’s Language Helps Newcomers Stick Around in Online Science Communities](https://medium.com/uw-madison-madcollab-research/how-learning-a-projects-language-helps-newcomers-stick-around-in-online-science-communities-619a24bf9542).    
 
-- **[May. 2024]** Research with my collaborator [Kaiping Chen](https://www.kaipingchen.com/) was featured in The Badger Herald -[Study shows marginalized groups’ views of environmental justice](https://badgerherald.com/news/2024/05/08/uw-researchers-reveal-marginalized-communities-perceptions-of-environmental-justice/).   
+- **[May 2025]** The Information School at Syracuse University wrote a piece on my academic journey. Check it out here: [Syracuse iSchool Grad Shares His Wisdom In the Halls of Wisconsin-Madison iSchool](https://ischool.syracuse.edu/syracuse-ischool-grad-shares-his-wisdom-in-the-halls-of-wisconsin-madison-ischool/).   
+
+- **[April 2025]** I was in Washington D.C. (as an organizer/participant/panelist) in the [Computing Community Consortium](https://cra.org/ccc/) Workshop [Grand Challenges for the Convergence of Computational and Citizen Science Research](https://cra.org/ccc/events/grand-challenges-for-the-convergence-of-computational-and-citizen-science-research/#overview).   
 
 
-- **[May. 2024]** I wrote an article in the Wisconsin State Journal describing my background shaped my research trajectory and current proejcts at UW - [The digital town hall](https://madison.com/exclusive/fueling-discovery/the-digital-town-hall/article_bf869edc-0ebc-11ef-ad6f-4b35d0c90689.html).   
-
-
-- **[Apr. 2024]** Our poster, "Learning About Life in the US: A Pilot Study on the Information Behavior of Nigerian Diasporan" was among the finalist for The 2024 iConference Best Poster Award.   
 
 
 {% include_relative _includes/publications.md %}
@@ -36,12 +36,9 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 If you're interested in working with me, please reach out to me at cbjackson2[at]wisc.edu. You should also take a look at my [Compact of Expectations](https://docs.google.com/document/d/1AtuLPtfpGkzolgKeKnDy2fQ8rIdiRdgWKloEqOmxFpo/edit?usp=sharing) to learn more about how I work with students. 
 
-### Current Student Collaborators
-[Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) (UW-Madison, Ph.D. Advisee), 
-[Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) (UW-Madison, Ph.D. Advisee), [Corey Black](https://www.linkedin.com/in/corey-black-53667055) (UW-Madison, Masters student in Library and Information Studies), 
-
-### Former Student Collaborators
-Xin Bu, Yiping He, Shihao Yang, Pragyan Das, Weiyu (Vincent) Kong, Samantha Lee, Xucen Liao, [Stephen Ling](https://www.linkedin.com/in/stephen-ling-40575111b), [Arden Wang](https://ardentwang.github.io/), Yueming Xu, Kendall Walch (UW-Madison, Undergraduate in Data Science)
+### Current Students
+[Tallal Ahmad](https://sites.google.com/view/tallal-ahmad/home) (Thesis Advisee), 
+[Ellie Jeong](https://ejeong7.wixsite.com/elliejeong) (Thesis Advisee), Srijan Pandey (Thesis Advisee). 
 
 
 
