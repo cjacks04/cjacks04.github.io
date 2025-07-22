@@ -88,6 +88,27 @@
 
       {{ content }}
 
+      <div class="accordion">
+        <div class="accordion-item">
+          <button class="accordion-header">Research Papers</button>
+              <div class="accordion-body">
+                <ul>
+                    <li><a href="https://example.com/paper1.pdf" target="_blank">Paper Title One</a></li>
+                    <li><a href="https://example.com/paper2.pdf" target="_blank">Paper Title Two</a></li>
+              <!-- Add more papers as needed -->
+                </ul>
+              </div>
+            </div>
+
+        <div class="accordion-item">
+          <button class="accordion-header">Projects</button>
+              <div class="accordion-body">
+              {% include_relative projects.html %}
+              </div>
+        </div>
+      </div>
+
+
       <br>
 
       {% if site.enable_footnote %}
@@ -110,5 +131,16 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+
+    <script>
+      document.querySelectorAll('.accordion-header').forEach(header => {
+      header.addEventListener('click', function () {
+      const item = this.parentElement;
+      item.classList.toggle('active');
+      });
+      });
+    </script>
+
+
   </body>
 </html>
