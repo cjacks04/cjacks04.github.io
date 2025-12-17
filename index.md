@@ -19,6 +19,10 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ## News
 
+- **[Dec 2025]** Our paper 'Beyond Bias Detection: Non-Expert Auditors and Normative Reasoning in AI Oversight' has been accepted to [CSCW'26](https://cscw.acm.org/2026/). Read the summary: [Are non-experts good auditors]().  
+
+- **[Oct 2025]** Our paper 'Leveling Up or Dropping Out: Searching for Learning Routines in Crowdsourced Environments' has been accepted and presented at [CSCW'25](). Read the summary: [Learning Routines in Social Computing Systems]().  
+
 - **[May 2025]** A new paper on language learning in virtual citizen science was accepted and will be presented at [ICWSM'25](https://www.icwsm.org/2025/index.html). Read the summary: [How Learning a Project’s Language Helps Newcomers Stick Around in Online Science Communities](https://medium.com/uw-madison-madcollab-research/how-learning-a-projects-language-helps-newcomers-stick-around-in-online-science-communities-619a24bf9542).    
 
 - **[May 2025]** The Information School at Syracuse University wrote a piece on my academic journey. Read here: [Syracuse iSchool Grad Shares His Wisdom In the Halls of Wisconsin-Madison iSchool](https://ischool.syracuse.edu/syracuse-ischool-grad-shares-his-wisdom-in-the-halls-of-wisconsin-madison-ischool/).   
