@@ -19,7 +19,7 @@ Check out my [Current Projects](https://coreybjackson.com/projects.html)
 
 ## News
 
-- **[Dec 2025]** Our paper 'Beyond Bias Detection: Non-Expert Auditors and Normative Reasoning in AI Oversight' has been accepted to [CSCW'26](https://cscw.acm.org/2026/). Read the summary: [Are non-experts good auditors]().  
+- **[Dec 2025]** Our paper 'Beyond Bias Detection: Non-Expert Auditors and Normative Reasoning in AI Oversight' has been accepted to [CSCW'26](https://cscw.acm.org/2026/). Read the summary: [How everyday people can spot risks that expert AI audits might miss](https://medium.com/uw-madison-madcollab-research/how-everyday-people-can-spot-risks-that-expert-ai-audits-might-miss-57ba44f8dd6a).  
 
 - **[Oct 2025]** Our paper 'Leveling Up or Dropping Out: Searching for Learning Routines in Crowdsourced Environments' has been accepted and presented at [CSCW'25](). Read the summary: [Learning Routines in Social Computing Systems]().  
 
