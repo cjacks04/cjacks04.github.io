@@ -15,7 +15,7 @@ He earned his Ph.D. from [Syracuse University](https://www.syracuse.edu/), where
 
 ## Projects 
 
-{% include projects.md %}
+<!-- {% include projects.md %} --> 
 
 
 ## News
@@ -36,7 +36,7 @@ He earned his Ph.D. from [Syracuse University](https://www.syracuse.edu/), where
 
 <!-- {% include_relative _includes/publications.md %} -->
 
-{% include publications.md %}
+<!--{% include publications.md %} -->
 
 ## Students 
 
