@@ -15,6 +15,7 @@ He earned his Ph.D. from [Syracuse University](https://www.syracuse.edu/), where
 
 ## Projects 
 
+{% include projects.md %}
 
 
 ## News
@@ -33,8 +34,9 @@ He earned his Ph.D. from [Syracuse University](https://www.syracuse.edu/), where
 
 - **[August 2024]** Invited to speak in the [Institute for Diversity Science](https://ids.wisc.edu/) webinar series. I spoke about Bias and Equity in AI. Watch the [webinar](https://ids.wisc.edu/2024/07/17/webinar-bias-and-equity-in-ai/). 
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
+{% include publications.md %}
 
 ## Students 
 
