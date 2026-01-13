@@ -15,7 +15,7 @@ He earned his Ph.D. from [Syracuse University](https://www.syracuse.edu/), where
 
 ## Projects 
 
-Check out my [Current Projects](https://coreybjackson.com/projects.html)
+
 
 ## News
 
