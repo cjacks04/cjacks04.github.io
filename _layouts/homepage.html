@@ -17,6 +17,9 @@
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <script src="{{ '/assets/js/accordion.js' | relative_url }}"></script>
+
+
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
@@ -89,24 +92,23 @@
       {{ content }}
 
       <div class="accordion">
-        <div class="accordion-item">
-          <button class="accordion-header">Research Papers</button>
-              <div class="accordion-body">
-                <ul>
-                    <li><a href="https://example.com/paper1.pdf" target="_blank">Paper Title One</a></li>
-                    <li><a href="https://example.com/paper2.pdf" target="_blank">Paper Title Two</a></li>
-              <!-- Add more papers as needed -->
-                </ul>
-              </div>
-            </div>
 
         <div class="accordion-item">
-          <button class="accordion-header">Projects</button>
-              <div class="accordion-body">
-                    <li><a href="https://example.com/paper1.pdf" target="_blank">Paper Title One</a></li>
-              </div>
+            <button class="accordion-header">Publications</button>
+          <div class="accordion-body">
+          {% include home_publications.html %}
+          </div>
+
+        </div>
+
+      <div class="accordion-item">
+            <button class="accordion-header">Research Projects</button>
+        <div class="accordion-body">
+          {% include home_projects.html %}
         </div>
       </div>
+
+    </div>
 
 
       <br>
