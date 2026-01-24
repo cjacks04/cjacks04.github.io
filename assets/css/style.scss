@@ -3,33 +3,34 @@
 
 @import "minimal-light";
 
-.accordion {
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  margin-top: 2em;
-}
+/* Accordion */
 
-.accordion-item {
-  border-top: 1px solid #ccc;
-}
-
-.accordion-header {
-  background: #f7f7f7;
-  border: none;
-  width: 100%;
-  text-align: left;
-  padding: 1em;
-  font-weight: bold;
-  cursor: pointer;
-}
-
-.accordion-body {
+.accordion-item .accordion-body {
   display: none;
-  padding: 1em;
-  background: #fff;
+  padding: 0.5rem 0 1rem 0;
 }
 
 .accordion-item.active .accordion-body {
   display: block;
+}
+
+.accordion-header {
+  background: none;
+  border: none;
+  font-size: 1.05rem;
+  font-weight: 600;
+  text-align: left;
+  cursor: pointer;
+  padding: 0.4rem 0;
+}
+
+.accordion-header::after {
+  content: "▸";
+  float: right;
+  transition: transform 0.2s ease;
+}
+
+.accordion-item.active .accordion-header::after {
+  transform: rotate(90deg);
 }
 
