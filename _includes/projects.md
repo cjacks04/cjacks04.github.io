@@ -54,7 +54,6 @@ layout: homepage
 <b>Period:</b> 2020-Current <br />
 <b>Funding:</b><a href=""> U.S. National Science Foundation</a><br />
 <br />
-{% include_relative _includes/publications_int.md %}
 <br />
 </details>
 
@@ -73,7 +72,6 @@ layout: homepage
 <b>Funding:</b> NA <br />
 
 <br />
-{% include_relative _includes/publications_soc.md %}
 <br />
 </details>
 
