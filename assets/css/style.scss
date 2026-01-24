@@ -34,3 +34,29 @@
   transform: rotate(90deg);
 }
 
+/* Accordion */
+.accordion-body { display: none; }
+.accordion-item.active .accordion-body { display: block; }
+
+.accordion-header {
+  width: 100%;
+  background: transparent;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  padding: 0.5rem 0;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.accordion-header::after {
+  content: "▸";
+  float: right;
+  transition: transform 0.2s ease;
+}
+
+.accordion-item.active .accordion-header::after {
+  transform: rotate(90deg);
+}
+
+
