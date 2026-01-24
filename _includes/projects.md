@@ -2,9 +2,6 @@
 layout: homepage
 ---
 
-[Home](https://coreybjackson.com)
-
-
 # Current Projects
 
 <details><summary><h2>Amplifying Black and Latinx Voices in Policy Discussions</h2></summary>
@@ -58,6 +55,7 @@ layout: homepage
 </details>
 
 <details><summary><h2>Socio-Technical Audits of Machine Learning Algorithms</h2></summary>
+
 <img src="https://raw.githubusercontent.com/cjacks04/cjacks04.github.io/main/assets/img/ucd.jpg#left"
      alt="Digital connections"
      style="float: left; margin-right: 10px;"

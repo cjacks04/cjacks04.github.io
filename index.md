@@ -2,8 +2,6 @@
 layout: homepage
 ---
 
-## About
-
 I am an Assistant Professor at the University of Wisconsin-Madison [The Information School](https://ischool.wisc.edu/), where I lead research at the intersection of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), and social computing. My work focuses on designing and analyzing socio-technical systems that enhance collective competence, foster motivation, and integrate diverse perspectives into high-stakes decision-making contexts.
 
 ### Educational Background
@@ -17,9 +15,9 @@ I hold a multidisciplinary academic foundation that informs my approach to infor
 ### Research Interests
 My research agenda is broadly centered on two fundamental challenges in modern online collaboration:  
 
-Augmented Expertise: How we can cultivate specialized expertise among distributed, non-expert users (such as citizen scientists) through adaptive scaffolding and hybrid intelligence systems.
+- **Augmented Expertise**: How we can cultivate specialized expertise among distributed, non-expert users (such as citizen scientists) through adaptive scaffolding and hybrid intelligence systems.
 
-Algorithmic and Data Justice: How to ensure that data-driven and algorithmic systems in the public sector operate equitably and reflect community values rather than reinforcing systemic biases.
+- **Algorithmic and Data Justice**: How to ensure that data-driven and algorithmic systems in the public sector operate equitably and reflect community values rather than reinforcing systemic biases.
 
 I employ an integrated methodology that bridges large-scale computational analysis of digital trace data with qualitative ethnography and community-engaged design.
 
