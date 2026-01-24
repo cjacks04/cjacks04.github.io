@@ -60,3 +60,16 @@
 }
 
 
+/* Project dropdown arrow alignment */
+.project-summary {
+  font-size: 1.25rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: list-item;   /* keeps the arrow inline */
+}
+
+details > summary::marker {
+  font-size: 1.25rem;
+}
+
+
