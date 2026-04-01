@@ -1,0 +1,44 @@
+
+.page-content,
+.wrapper,
+.container {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.8rem;
+}
+
+h2 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.6rem;
+}
+
+p, li {
+  line-height: 1.7;
+}
+
+.publications ol.bibliography {
+  list-style: none;
+  padding-left: 0;
+}
+
+.publications ol.bibliography li {
+  margin-bottom: 1.15rem;
+}
+
+.publications .year {
+  font-weight: 600;
+  margin-top: 2rem;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
