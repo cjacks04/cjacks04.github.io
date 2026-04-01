@@ -12,13 +12,25 @@ I work with students in HCI, CSCW, responsible AI, and civic technology.
 
 ## Current Students
 
-(Add names)
+### Doctoral
+Eunmi Ellie Jeong
+Tallal Ahmad
+Srijan Pandey
+
+
+### Master
+
+
+### Undergraduate
+Todd Reilly France
+Nia David
+Akshana Jose Ebenezer
+Sophia Mary Helen Darras
 
 ---
 
 ## Alumni
-
-(Add names)
+Natalie Wu
 
 ---
 
