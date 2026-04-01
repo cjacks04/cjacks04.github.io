@@ -1,27 +1,21 @@
 ---
-layout: default
-title: Research
-permalink: /research/
+layout: page
+title: Media
+permalink: /media/
 ---
 
-# Research
+<div class="callout-box">
+  <strong>Talks, interviews, and public-facing work</strong> related to my research appear here.
+</div>
 
-My research examines how people interact with complex information systems and how those systems shape public, institutional, and community life.
+## Invited Talks
 
----
+- Add talks here
 
-## Responsible and Public Sector AI
+## Media Coverage
 
-I study how AI systems are evaluated and governed in public contexts, including participatory auditing and fairness.
+- Add articles, interviews, or press coverage here
 
-## Civic Technology and Participation
+## Public Writing
 
-I explore how communities contribute knowledge and participate in technical systems.
-
-## Environmental Justice and Data
-
-I examine how community perceptions align with institutional environmental indicators.
-
-## Human–AI Collaboration
-
-I study learning and decision-making in systems combining human and machine intelligence.
+- Add essays, blog posts, or public scholarship here

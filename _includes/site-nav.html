@@ -1,0 +1,13 @@
+<nav class="top-nav">
+  <div class="top-nav-inner">
+    <a class="site-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+    <div class="nav-links">
+      <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
+      <a href="{{ '/research/' | relative_url }}" class="{% if page.url == '/research/' %}active{% endif %}">Research</a>
+      <a href="{{ '/publications/' | relative_url }}" class="{% if page.url == '/publications/' %}active{% endif %}">Publications</a>
+      <a href="{{ '/students/' | relative_url }}" class="{% if page.url == '/students/' %}active{% endif %}">Students</a>
+      <a href="{{ '/media/' | relative_url }}" class="{% if page.url == '/media/' %}active{% endif %}">Media</a>
+    </div>
+  </div>
+</nav>

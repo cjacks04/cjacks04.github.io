@@ -1,45 +1,40 @@
 ---
-layout: default
+layout: page
 title: Students
 permalink: /students/
 ---
 
-# Students
+<div class="callout-box">
+  <strong>Current Lab Members:</strong> For a complete roster including interns and collaborators, contact me directly or see linked project pages.
+</div>
 
-I work with students in HCI, CSCW, responsible AI, and civic technology.
+<div class="quick-nav-box">
+  <h3>Quick Navigation</h3>
+  <div class="quick-nav-links">
+    <a href="#current-students">Current Students</a>
+    <a href="#alumni">Alumni</a>
+  </div>
+</div>
 
----
+## Current Students {#current-students}
 
-## Current Students
+### Doctoral Students
 
-### Doctoral
-Eunmi Ellie Jeong
-Tallal Ahmad
-Srijan Pandey
+- Eunmi Ellie Jeong
+- Tallal Ahmad
+- Srijan Pandey
 
+### Undergraduate Researchers
 
-### Master
+- Todd Reilly France
+- Nia David
+- Akshana Jose Ebenezer
+- Sophia Mary Helen Darras
 
+## Alumni {#alumni}
 
-### Undergraduate
-Todd Reilly France
-Nia David
-Akshana Jose Ebenezer
-Sophia Mary Helen Darras
-
----
-
-## Alumni
-Natalie Wu
-
----
+- Natalie Wu
 
 ## Prospective Students
 
-I am interested in students working on:
-
-- Public sector AI  
-- Civic technology  
-- Participatory design  
-- Environmental justice  
-- Human–AI collaboration  
+I am interested in students working on public sector AI, civic technology, participatory design, environmental justice, and human–AI collaboration.
