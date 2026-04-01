@@ -1,3 +1,16 @@
+- title: "Folksonomies in Crowdsourcing: A Cross-Project Comparison"
+  year: 2026
+  authors: "Alexander O. Smith, Julia Bullard, Corey Jackson, Kevin Crowston, and Carsten Österlund"
+  venue: "Computer Supported Cooperative Work"
+  type: "Journal"
+  topics:
+    - crowdsourcing
+    - folksonomies
+    - social computing
+  note: "This paper compares how folksonomies develop and function across different crowdsourcing projects."
+  links:
+    - https://doi.org/10.1007/s10606-026-09537-5
+
 - title: "Leveling Up or Dropping Out: Searching for Learning Routines in Crowdsourced Environments"
   year: 2025
   authors: "Corey Jackson, Carsten Österlund, Anand Vamsi, Alexander Owen Smith, and Kevin Crowston"
@@ -7,64 +20,113 @@
     - crowdsourcing
     - learning
     - social computing
-  note: "This paper examines how people develop and sustain learning routines in crowdsourced environments."
-  links: []
+  note: "This paper examines how participants develop and sustain learning routines in crowdsourced environments."
+  links:
+    - https://doi.org/10.1145/3757489
 
-- title: "Please Say “Shibboleth”: Socialization Through Language Adoption in Virtual Citizen Science"
-  year: 2025
-  authors: "Corey Jackson"
-  venue: "Proceedings of the International AAAI Conference on Web and Social Media"
+- title: "Design Principles for Background Knowledge to Enhance Learning in Citizen Science"
+  year: 2023
+  authors: "Kevin Crowston, Corey Jackson, Isabella Corieri, and Carsten Österlund"
+  venue: "iConference"
   type: "Conference"
   topics:
-    - language
     - citizen science
-  note: "This paper explores how shared language supports socialization and participation in virtual citizen science."
-  links: []
+    - learning
+    - design
+  note: "This paper proposes design principles for incorporating background knowledge to improve learning outcomes in citizen science systems."
+  links:
+    - https://doi.org/10.1007/978-3-031-28032-0_43
 
-- title: "How Personal Value Orientations Influence Behaviors in Digital Citizen Science"
-  year: 2024
-  authors: "Eunmi Jeong, Corey Jackson, Liz Dowthwaite, Cliff Johnson, and Laura Trouille"
-  venue: "Proceedings of the ACM on Human-Computer Interaction"
-  type: "Journal / Conference"
-  topics:
-    - citizen science
-    - values
-  note: "This paper examines how value orientations shape participation and behavior in digital citizen science."
-  links: []
-
-- title: "Gravity Spy: Lessons Learned and a Path Forward"
-  year: 2024
-  authors: "Michael Zevin, Corey B. Jackson, Zoheyr Doctor, Yunan Wu, Carsten Österlund, and colleagues"
-  venue: "The European Physical Journal Plus"
+- title: "Teaching Citizen Scientists to Categorize Glitches Using Machine Learning Guided Training"
+  year: 2020
+  authors: "Corey Jackson, Carsten Österlund, Kevin Crowston, Mahboobeh Harandi, Sarah Allen, Sara Bahaadini, Scotty Coughlin, Vicky Kalogera, Aggelos Katsaggelos, Shane Larson, Neda Rohani, Joshua Smith, Laura Trouille, and Michael Zevin"
+  venue: "Computers in Human Behavior"
   type: "Journal"
   topics:
     - citizen science
-    - human-AI collaboration
-  note: "This paper reflects on the development of Gravity Spy and outlines lessons for future human–AI collaboration systems."
-  links: []
+    - machine learning
+    - training
+  note: "This paper explores how machine learning can guide training processes for citizen scientists performing classification tasks."
+  links:
+    - https://doi.org/10.1016/j.chb.2019.106198
+
+- title: "Building an Apparatus: Refractive, Reflective, and Diffractive Readings of Trace Data"
+  year: 2020
+  authors: "Carsten Österlund, Kevin Crowston, and Corey Jackson"
+  venue: "Journal of the Association for Information Systems"
+  type: "Journal"
+  topics:
+    - trace data
+    - methodology
+    - information science
+  note: "This paper introduces conceptual approaches for interpreting trace data in sociotechnical systems."
+  links:
+    - https://aisel.aisnet.org/jais/vol21/iss1/10
 
 - title: "Shifting Forms of Engagement: Volunteer Learning in Online Citizen Science"
   year: 2020
-  authors: "Corey B. Jackson, Carsten Österlund, Kevin Crowston, Mahboobeh Harandi, and Laura Trouille"
+  authors: "Corey Jackson, Carsten Österlund, Kevin Crowston, Mahboobeh Harandi, and Laura Trouille"
   venue: "Proceedings of the ACM on Human-Computer Interaction"
   type: "Journal / Conference"
   topics:
     - citizen science
     - learning
-  note: "This paper examines how volunteer engagement changes over time in online citizen science systems."
-  links: []
+    - participation
+  note: "This paper examines how volunteer engagement evolves over time in online citizen science platforms."
+  links:
+    - https://doi.org/10.1145/3392841
 
-- title: "Teaching Citizen Scientists to Categorize Glitches Using Machine Learning Guided Training"
+- title: "Knowledge Tracing to Model Learning in Online Citizen Science Projects"
   year: 2020
-  authors: "Corey Jackson, Carsten Österlund, Kevin Crowston, Mahboobeh Harandi, and colleagues"
-  venue: "Computers in Human Behavior"
+  authors: "Kevin Crowston, Shane Larson, Neda Rohani, Joshua Smith, Laura Trouille, Michael Zevin, Carsten Österlund, Tae Kyoung Lee, Corey Jackson, Mahboobeh Harandi, Sarah Allen, Sara Bahaadini, Scott Coughlin, and Aggelos Katsaggelos"
+  venue: "IEEE Transactions on Learning Technologies"
   type: "Journal"
   topics:
-    - machine learning
-    - training
+    - learning analytics
     - citizen science
-  note: "This paper studies how machine-learning-guided training can support classification work in citizen science."
-  links: []
+    - modeling
+  note: "This paper applies knowledge tracing methods to understand learning processes in citizen science environments."
+  links:
+    - https://doi.org/10.1109/TLT.2019.2936480
+
+- title: "Methodological Reinforcements: Investigating Work Through Trace Data and Text"
+  year: 2020
+  authors: "Corey Jackson, Laura Anderson, and Cheryl Kieliszewski"
+  venue: "AHFE Conference"
+  type: "Conference"
+  topics:
+    - methodology
+    - trace data
+    - qualitative methods
+  note: "This paper explores methodological approaches for studying work using trace data and textual analysis."
+  links:
+    - https://doi.org/10.1007/978-3-030-51057-2_11
+
+- title: "The Genie in the Bottle: Different Stakeholders, Different Interpretations of Machine Learning"
+  year: 2020
+  authors: "Mahboobeh Harandi, Kevin Crowston, Corey Jackson, and Carsten Österlund"
+  venue: "HICSS"
+  type: "Conference"
+  topics:
+    - machine learning
+    - interpretation
+    - stakeholders
+  note: "This paper examines how different stakeholders interpret and understand machine learning systems."
+  links:
+    - https://hdl.handle.net/10125/64461
+
+- title: "Linguistic Changes in Online Citizen Science: A Structurational Perspective"
+  year: 2019
+  authors: "Corey Jackson, Carsten Österlund, Mahboobeh Harandi, Dhruv Kharwar, and Kevin Crowston"
+  venue: "ICIS"
+  type: "Conference"
+  topics:
+    - citizen science
+    - language
+    - social computing
+  note: "This paper analyzes how language evolves within online citizen science communities."
+  links:
+    - https://aisel.aisnet.org/icis2019/crowds_social/crowds_social/28
 
 - title: "Folksonomies to Support Coordination and Coordination of Folksonomies"
   year: 2018
@@ -74,17 +136,152 @@
   topics:
     - folksonomies
     - coordination
-    - CSCW
-  note: "This paper examines how folksonomies emerge and support coordination in distributed collaborative systems."
-  links: []
+    - crowdsourcing
+  note: "This paper explores how folksonomies support coordination in collaborative systems."
+  links:
+    - https://doi.org/10.1007/s10606-018-9327-z
 
-- title: "Addressing the Privacy Paradox Through Personalized Privacy Notifications"
+- title: "Addressing the Privacy Paradox through Personalized Privacy Notifications"
   year: 2018
-  authors: "Corey B. Jackson and Yang Wang"
+  authors: "Corey Jackson and Yang Wang"
   venue: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
-  type: "Journal"
+  type: "Journal / Conference"
   topics:
     - privacy
     - personalization
-  note: "This paper studies how personalized privacy notifications can better support user decision-making."
-  links: []
+    - HCI
+  note: "This paper investigates personalized privacy notifications as a way to address the privacy paradox."
+  links:
+    - https://doi.org/10.1145/3214271
+
+- title: "Did They Login?: Patterns of Anonymous Contributions in Online Communities"
+  year: 2018
+  authors: "Corey Jackson, Kevin Crowston, and Carsten Österlund"
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal / Conference"
+  topics:
+    - online communities
+    - anonymity
+    - participation
+  note: "This paper examines patterns of anonymous contributions in online communities."
+  links:
+    - https://doi.org/10.1145/3274346
+
+
+
+- title: "Folksonomies in Crowdsourcing: A Cross-Project Comparison"
+  year: 2026
+  authors: "Alexander O. Smith, Julia Bullard, Corey Jackson, Kevin Crowston, and Carsten Österlund"
+  venue: "Computer Supported Cooperative Work"
+  type: "Journal"
+  topics: [crowdsourcing, folksonomies, social computing]
+  note: "Compares how folksonomies develop and function across crowdsourcing systems."
+  links: ["https://doi.org/10.1007/s10606-026-09537-5"]
+
+- title: "Leveling Up or Dropping Out: Searching for Learning Routines in Crowdsourced Environments"
+  year: 2025
+  authors: "Corey Jackson, Carsten Österlund, Anand Vamsi, Alexander Owen Smith, and Kevin Crowston"
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal / Conference"
+  topics: [crowdsourcing, learning, social computing]
+  note: "Examines how participants develop and sustain learning routines in crowdsourced systems."
+  links: ["https://doi.org/10.1145/3757489"]
+
+- title: "Design Principles for Background Knowledge to Enhance Learning in Citizen Science"
+  year: 2023
+  authors: "Kevin Crowston, Corey Jackson, Isabella Corieri, and Carsten Österlund"
+  venue: "iConference"
+  type: "Conference"
+  topics: [citizen science, learning, design]
+  note: "Introduces design principles to support learning in citizen science platforms."
+  links: ["https://doi.org/10.1007/978-3-031-28032-0_43"]
+
+- title: "Teaching Citizen Scientists to Categorize Glitches Using Machine Learning Guided Training"
+  year: 2020
+  authors: "Corey Jackson, Carsten Österlund, Kevin Crowston, et al."
+  venue: "Computers in Human Behavior"
+  type: "Journal"
+  topics: [citizen science, machine learning, training]
+  note: "Explores ML-guided training approaches for citizen science classification tasks."
+  links: ["https://doi.org/10.1016/j.chb.2019.106198"]
+
+- title: "Building an Apparatus: Refractive, Reflective, and Diffractive Readings of Trace Data"
+  year: 2020
+  authors: "Carsten Österlund, Kevin Crowston, and Corey Jackson"
+  venue: "Journal of the Association for Information Systems"
+  type: "Journal"
+  topics: [trace data, methodology, information science]
+  note: "Conceptual approaches for interpreting trace data in sociotechnical systems."
+  links: ["https://aisel.aisnet.org/jais/vol21/iss1/10"]
+
+- title: "Shifting Forms of Engagement: Volunteer Learning in Online Citizen Science"
+  year: 2020
+  authors: "Corey Jackson, Carsten Österlund, Kevin Crowston, et al."
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal / Conference"
+  topics: [citizen science, learning, participation]
+  note: "Examines how engagement evolves over time in citizen science communities."
+  links: ["https://doi.org/10.1145/3392841"]
+
+- title: "Knowledge Tracing to Model Learning in Online Citizen Science Projects"
+  year: 2020
+  authors: "Kevin Crowston, Shane Larson, Corey Jackson, et al."
+  venue: "IEEE Transactions on Learning Technologies"
+  type: "Journal"
+  topics: [learning analytics, citizen science, modeling]
+  note: "Applies knowledge tracing to model learning in citizen science systems."
+  links: ["https://doi.org/10.1109/TLT.2019.2936480"]
+
+- title: "Methodological Reinforcements: Investigating Work Through Trace Data and Text"
+  year: 2020
+  authors: "Corey Jackson, Laura Anderson, and Cheryl Kieliszewski"
+  venue: "AHFE Conference"
+  type: "Conference"
+  topics: [methodology, trace data, qualitative]
+  note: "Explores methodological approaches using trace data and textual analysis."
+  links: ["https://doi.org/10.1007/978-3-030-51057-2_11"]
+
+- title: "The Genie in the Bottle: Different Stakeholders, Different Interpretations of Machine Learning"
+  year: 2020
+  authors: "Mahboobeh Harandi, Kevin Crowston, Corey Jackson, and Carsten Österlund"
+  venue: "HICSS"
+  type: "Conference"
+  topics: [machine learning, stakeholders, interpretation]
+  note: "Examines how stakeholders differently interpret machine learning systems."
+  links: ["https://hdl.handle.net/10125/64461"]
+
+- title: "Linguistic Changes in Online Citizen Science: A Structurational Perspective"
+  year: 2019
+  authors: "Corey Jackson, Carsten Österlund, et al."
+  venue: "ICIS"
+  type: "Conference"
+  topics: [citizen science, language, social computing]
+  note: "Analyzes language evolution in citizen science communities."
+  links: ["https://aisel.aisnet.org/icis2019/crowds_social/crowds_social/28"]
+
+- title: "Folksonomies to Support Coordination and Coordination of Folksonomies"
+  year: 2018
+  authors: "Corey Jackson, Kevin Crowston, Carsten Österlund, and Mahboobeh Harandi"
+  venue: "Computer Supported Cooperative Work"
+  type: "Journal"
+  topics: [folksonomies, coordination, crowdsourcing]
+  note: "Explores how folksonomies enable coordination in collaborative systems."
+  links: ["https://doi.org/10.1007/s10606-018-9327-z"]
+
+- title: "Addressing the Privacy Paradox through Personalized Privacy Notifications"
+  year: 2018
+  authors: "Corey Jackson and Yang Wang"
+  venue: "IMWUT / UbiComp"
+  type: "Journal / Conference"
+  topics: [privacy, personalization, HCI]
+  note: "Investigates personalized privacy notifications to address user behavior gaps."
+  links: ["https://doi.org/10.1145/3214271"]
+
+- title: "Did They Login?: Patterns of Anonymous Contributions in Online Communities"
+  year: 2018
+  authors: "Corey Jackson, Kevin Crowston, and Carsten Österlund"
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal / Conference"
+  topics: [online communities, anonymity, participation]
+  note: "Examines patterns of anonymous participation in online communities."
+  links: ["https://doi.org/10.1145/3274346"]
