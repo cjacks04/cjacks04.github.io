@@ -64,11 +64,6 @@ scholar:
   order: descending
   replace_strings: true
 
-  - name: Build with Jekyll
-  run: bundle exec jekyll build --trace --baseurl "${{ steps.pages.outputs.base_path }}"
-  env:
-    JEKYLL_ENV: production
-
 collections:
   pages:
     output: true
