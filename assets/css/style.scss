@@ -1,5 +1,4 @@
 ---
----
 
 @import "minimal-light";
 
@@ -108,3 +107,11 @@ p, li {
   margin-top: 2rem;
 }
 
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
