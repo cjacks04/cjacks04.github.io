@@ -14,8 +14,8 @@ My research spans human-computer interaction, computer-supported cooperative wor
 
 {% bibliography --query @*[selected=true] %}
 
-## Full Publication List
+## All Publications
 
-{% bibliography --query @*[selected!=true] %}
+{% bibliography %}
 
 </div>
