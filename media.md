@@ -26,7 +26,7 @@ permalink: /media/
 
 ## Media Coverage
 
-- **Institute for Diversity Science** “Byars-Winston, Isadore, Jackson, and Meuris present at 2024 Diversity Forum”
+- **Institute for Diversity Science** [“Byars-Winston, Isadore, Jackson, and Meuris present at 2024 Diversity Forum”](https://ids.wisc.edu/2024/10/17/byars-winston-isadore-jackson-and-meuris-to-present-at-2024-diversity-forum/)
 
 - **The Badger Herald**  “Study shows marginalized groups’ views of environmental justice”
 

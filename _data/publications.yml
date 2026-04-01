@@ -1,3 +1,14 @@
+- title: "Seeing like a community: Public perceptions of data use in government"
+  year: 2026
+  authors: "Ellie Jeong, Corey Jackson, Srijan Pandey, and Kaiping Chen"
+  venue: "Human Factors in Computing Systems"
+  type: "Journal"
+  topics:
+    - civic tech
+  note: "This paper compares how folksonomies develop and function across different crowdsourcing projects."
+  links:
+    - 
+
 - title: "Folksonomies in Crowdsourcing: A Cross-Project Comparison"
   year: 2026
   authors: "Alexander O. Smith, Julia Bullard, Corey Jackson, Kevin Crowston, and Carsten Österlund"
@@ -10,6 +21,64 @@
   note: "This paper compares how folksonomies develop and function across different crowdsourcing projects."
   links:
     - https://doi.org/10.1007/s10606-026-09537-5
+
+- title: "Beyond bias detection: Community auditors and normative reasoning in AI oversight"
+  year: 2026
+  authors: "Corey Jackson, Tallal Ahmad, Shelcia Raj and Natalie Wu"
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal"
+  topics:
+    - artificial intelligence
+  note: ""
+  links:
+    - 
+
+- title: "Trace methods: Probing the apparatus"
+  year: 2026
+  authors: "Carsten Österlund, Corey Jackson"
+  venue: "Digital trace data research in information systems: Foundations, methods, and applications"
+  type: "Book Chapter"
+  topics:
+    - digital trace data
+    - methods
+  note: ""
+  links:
+    - https://link.springer.com/chapter/10.1007/978-3-032-05497-5_5 
+
+- title: "Communicating biodiversity data restriction rationales: Balancing specificity with practical and ethical considerations"
+  year: 2025
+  authors: "Carsten Österlund and Corey Jackson"
+  venue: "Citizen Science: Theory and Practice"
+  type: "Journal"
+  topics:
+    - citizen science
+  note: ""
+  links: 
+    - https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.899
+
+- title: "Advancing glitch classification in Gravity Spy: Multi-view fusion with attention-based machine learning for Advanced LIGO’s fourth observing run"
+  year: 2025
+  authors: "Yunan Wu, Michael Zevin, Christopher P L Berry, Kevin Crowston, Carsten Østerlund, Zoheyr Doctor, Sharan Banagiri, Corey B Jackson, Vicky Kalogera and Aggelos K Katsaggelos"
+  venue: "Classical and Quantum Gravity"
+  type: "Journal"
+  topics:
+    - citizen science
+  note: ""
+  links: 
+    - https://iopscience.iop.org/article/10.1088/1361-6382/adf58b
+
+- title: "Please say “Shibboleth”: Socialization through language adoption in virtual citizen science"
+  year: 2025
+  authors: "Corey Jackson"
+  venue: "International AAAI Conference on Web and Social Media "
+  type: "Conference"
+  topics:
+    - crowdsourcing
+    - language socialization
+    - social computing
+  note: ""
+  links:
+    - https://ojs.aaai.org/index.php/ICWSM/article/view/35851 
 
 - title: "Leveling Up or Dropping Out: Searching for Learning Routines in Crowdsourced Environments"
   year: 2025
@@ -24,6 +93,47 @@
   links:
     - https://doi.org/10.1145/3757489
 
+- title: "Supporting Human and Machine Co-Learning in Citizen Science: Lessons From Gravity Spy"
+  year: 2024
+  authors: "Carsten Østerlund, Kevin Crowston, Corey B. Jackson, Yunan Wu, Alexander O. Smith, and Aggelos K. Katsaggelo"
+  venue: "Citizen Science: Theory and Practice"
+  type: "Journal"
+  topics:
+    - crowdsourcing
+    - learning
+    - social computing
+  note: ""
+  links:
+    - https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.738
+
+- title: "How Personal Value Orientations Influence on Behaviors in Digital Citizen Science"
+  year: 2024
+  authors: "Eunmi (Ellie) Jeong, Corey Jackson, Liz Dowthwaite, Cliff Johnson, Laura Trouille"
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal"
+  topics:
+    - crowdsourcing
+    - learning
+    - social computing
+  note: ""
+  links:
+    - https://dl.acm.org/doi/10.1145/3637341
+
+
+- title: "Folksonomies in Crowdsourcing Platforms: Three Tensions Associated with the Development of Shared Language in Distributed Groups"
+  year: 2024
+  authors: "Julia Bullard, Kevin Crowston, Corey Jackson, Alexander O. Smith and Carsten Österlund"
+  venue: "European Conference on Computer-Supported Cooperative Work"
+  type: "Conference"
+  topics:
+    - citizen science
+    - learning
+    - design
+  note: ""
+  links:
+    - https://dl.eusset.eu/items/3f515448-de88-461d-917f-088f6ea78a91
+
+
 - title: "Design Principles for Background Knowledge to Enhance Learning in Citizen Science"
   year: 2023
   authors: "Kevin Crowston, Corey Jackson, Isabella Corieri, and Carsten Österlund"
@@ -36,6 +146,46 @@
   note: "This paper proposes design principles for incorporating background knowledge to improve learning outcomes in citizen science systems."
   links:
     - https://doi.org/10.1007/978-3-031-28032-0_43
+
+- title: "Gravity Spy: Lessons Learned and a Path Forward"
+  year: 2023
+  authors: "Michael Zevin, Corey B. Jackson, Zoheyr Doctor, Yunan Wu, Carsten Østerlund, L. Clifton Johnson, Christopher P. L. Berry, Kevin Crowston, Scott B. Coughlin, Vicky Kalogera, Sharan Banagiri, Derek Davis, Jane Glanzer, Renzhi Hao, Aggelos K. Katsaggelos, Oli Patane, Jennifer Sanchez, Joshua Smith, Siddharth Soni, Laura Trouille, Marissa Walker, Irina Aerith, Wilfried Domainko, Victor-Georges Baranowski, Gerhard Niklasch & Barbara Téglás"
+  venue: "The European Physical Journal Plus "
+  type: "Journal"
+  topics:
+    - citizen science
+    - learning
+    - design
+  note: ""
+  links:
+    - https://link.springer.com/article/10.1140/epjp/s13360-023-04795-4
+
+- title: "Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects"
+  year: 2023
+  authors: "Eunmi (Ellie) Jeong, Corey Jackson, Liz Dowthwaite, Tallal Ahmad, Laura Trouille"
+  venue: "International Conference on Communities and Technologies"
+  type: "Conference"
+  topics:
+    - citizen science
+    - learning
+    - design
+  note: ""
+  links:
+    - https://dl.acm.org/doi/10.1145/3593743.3593782
+
+- title: "Discovering features in gravitational-wave data through detector characterization, citizen science, and machine learning"
+  year: 2021
+  authors: "S Soni, C P L Berry, S B Coughlin, M Harandi, C B Jackson, K Crowston, C Østerlund, O Patane, A K Katsaggelos, L Trouille, V-G Baranowski, W F Domainko, K Kaminski, M A Lobato Rodriguez, U Marciniak, P Nauta, G Niklasch, R R Rote, B Téglás, C Unsworth and C Zhang"
+  venue: "Classical and Quantum Gravity"
+  type: "Journal"
+  topics:
+    - citizen science
+    - machine learning
+    - training
+  note: ""
+  links:
+    - https://iopscience.iop.org/article/10.1088/1361-6382/ac1ccb
+
 
 - title: "Teaching Citizen Scientists to Categorize Glitches Using Machine Learning Guided Training"
   year: 2020
