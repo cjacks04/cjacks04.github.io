@@ -41,6 +41,7 @@ remote_theme: yaoyao-liu/minimal-light
 exclude:
   - vendor
   - vendor/bundle
+  - old site
   - Gemfile
   - Gemfile.lock
   - README.md
