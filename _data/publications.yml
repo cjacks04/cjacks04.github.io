@@ -328,8 +328,8 @@
     - citizen science
   note: "This paper examines patterns of anonymous contributions in online communities."
   links:
-    - 
-
+    - Missing 
+    
 
 - title: "Talking the talk in citizen science"
   year: 2018
@@ -384,7 +384,7 @@
     - https://dl.acm.org/doi/10.1145/2768545.2768555
 
 
-- title: "``Guess what! You're the First to See this Event'' Increasing Contribution to Online Production Communities"
+- title: "Guess what! You're the First to See this Event: Increasing Contribution to Online Production Communities"
   year: 2016
   authors: "Corey Brian Jackson, Kevin Crowston, Gabriel Mugar, Carsten Østerlund"
   venue: "Proceedings of the 2016 ACM International Conference on Supporting Group Work"
@@ -488,6 +488,7 @@
     - newtwork analysis
   note: "This paper examines patterns of anonymous contributions in online communities."
   links:
+    - Missing
 
 
 - title: "Encouraging Work in Citizen Science: Experiments in Goal Setting and Anchoring"
@@ -553,6 +554,3 @@
   note: "This paper examines patterns of anonymous contributions in online communities."
   links:
     - http://dx.doi.org/10.2139/ssrn.6312611
-
-
-
