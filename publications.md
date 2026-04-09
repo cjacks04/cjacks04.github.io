@@ -25,8 +25,9 @@ permalink: /publications/
     <div class="pub-year-group">
       <button class="pub-year-toggle" type="button">{{ year }}</button>
       <div class="pub-year-content">
-        
-{% for pub in site.data.publications %}
+
+
+  {% for pub in site.data.publications %}
   {% if pub.year == year %}
     <div class="publication-entry">
       {% assign valid_links = pub.links | compact %}
@@ -65,6 +66,7 @@ permalink: /publications/
       <p class="pub-note">{{ pub.note }}</p>
       {% endif %}
     </div>
+
   {% endif %}
 {% endfor %}
 
