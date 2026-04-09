@@ -17,7 +17,7 @@ permalink: /publications/
     </div>
   </div>
 
-  <h2>Conference &amp; Journal Papers</h2>
+  <h2>Publications</h2>
 
   {% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
 
@@ -25,54 +25,48 @@ permalink: /publications/
     <div class="pub-year-group">
       <button class="pub-year-toggle" type="button">{{ year }}</button>
       <div class="pub-year-content">
-        {% for pub in site.data.publications %}
-          {% if pub.year == year %}
-            <div class="publication-entry">
-              <h3>{{ pub.title }}</h3>
+        
+{% for pub in site.data.publications %}
+  {% if pub.year == year %}
+    <div class="publication-entry">
+      {% assign valid_links = pub.links | compact %}
 
-              {% if pub.authors %}
-              <p class="pub-line"><strong>Authors:</strong> {{ pub.authors }}</p>
-              {% endif %}
+      {% if valid_links.size > 0 %}
+        <h3>
+          <a href="{{ valid_links.first | strip }}" target="_blank" rel="noopener">
+            {{ pub.title }}
+          </a>
+        </h3>
+      {% else %}
+        <h3>{{ pub.title }}</h3>
+      {% endif %}
 
-              {% if pub.venue %}
-              <p class="pub-line"><strong>Venue:</strong> {{ pub.venue }}, {{ pub.year }}</p>
-              {% endif %}
+      {% if pub.authors %}
+      <p class="pub-line"><strong>Authors:</strong> {{ pub.authors }}</p>
+      {% endif %}
 
-              {% if pub.type %}
-              <p class="pub-line"><strong>Type:</strong> {{ pub.type }}</p>
-              {% endif %}
+      {% if pub.venue %}
+      <p class="pub-line"><strong>Venue:</strong> {{ pub.venue }}, {{ pub.year }}</p>
+      {% endif %}
 
-              {% if pub.topics %}
-              <p class="pub-tags">
-                {% for topic in pub.topics %}
-                  <span class="pub-tag">{{ topic }}</span>
-                {% endfor %}
-              </p>
-              {% endif %}
+      {% if pub.type %}
+      <p class="pub-line"><strong>Type:</strong> {{ pub.type }}</p>
+      {% endif %}
 
-              {% if pub.note and pub.note != "" %}
-              <p class="pub-note">{{ pub.note }}</p>
-              {% endif %}
-
-              {% if pub.links %}
-                {% assign valid_links = pub.links | compact %}
-                {% if valid_links.size > 0 %}
-                <p class="pub-links">
-                  <strong>Paper:</strong>
-                  {% for link in valid_links %}
-                    {% if link and link != "" %}
-                      <a href="{{ link | strip }}" target="_blank" rel="noopener">Link {{ forloop.index }}</a>{% unless forloop.last %} · {% endunless %}
-                    {% endif %}
-                  {% endfor %}
-                </p>
-                {% endif %}
-              {% endif %}
-            </div>
-          {% endif %}
+      {% if pub.topics %}
+      <p class="pub-tags">
+        {% for topic in pub.topics %}
+          <span class="pub-tag">{{ topic }}</span>
         {% endfor %}
-      </div>
+      </p>
+      {% endif %}
+
+      {% if pub.note and pub.note != "" %}
+      <p class="pub-note">{{ pub.note }}</p>
+      {% endif %}
     </div>
-  {% endfor %}
+  {% endif %}
+{% endfor %}
 
 </div>
 
