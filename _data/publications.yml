@@ -1,0 +1,538 @@
+- title: "Seeing like a community: Public perceptions of data use in government"
+  year: 2026
+  authors: "Ellie Jeong, Corey Jackson, Srijan Pandey, and Kaiping Chen"
+  venue: "Human Factors in Computing Systems"
+  type: "Conference"
+  topics:
+    - civic tech
+    - public sector
+    - data use
+  note: "This paper examines how members of the public understand and evaluate the use of data in government settings. It focuses on the gap between institutional views of data use and community perceptions of what is appropriate, trustworthy, or fair. The study highlights how people reason about legitimacy, transparency, and public value when government agencies rely on data-driven practices. More broadly, it contributes to research on civic technology and public-sector data governance by centering community perspectives."
+  links: []
+
+- title: "Folksonomies in Crowdsourcing: A Cross-Project Comparison"
+  year: 2026
+  authors: "Alexander O. Smith, Julia Bullard, Corey Jackson, Kevin Crowston, and Carsten Österlund"
+  venue: "Computer Supported Cooperative Work"
+  type: "Journal"
+  topics:
+    - crowdsourcing
+    - folksonomies
+    - social computing
+  note: "This paper compares how folksonomies emerge and function across different crowdsourcing environments. It examines how distributed groups develop shared language over time and how that language supports coordination, participation, and interpretation. By comparing multiple projects, the paper identifies recurring tensions in how community vocabularies are stabilized and used. The study contributes to CSCW research on classification, collaboration, and collective meaning making."
+  links:
+    - "https://doi.org/10.1007/s10606-026-09537-5"
+
+- title: "Beyond bias detection: Community auditors and normative reasoning in AI oversight"
+  year: 2026
+  authors: "Corey Jackson, Tallal Ahmad, Shelcia Raj, and Natalie Wu"
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal"
+  topics:
+    - artificial intelligence
+    - auditing
+    - governance
+  note: "This paper examines how community members reason about AI systems when asked to identify potential harms or fairness concerns. Rather than reducing oversight to technical bias detection alone, it shows how non-expert auditors bring contextual judgment and normative reasoning to the evaluation process. The paper argues that public-facing AI oversight benefits from forms of subjectivity that are often treated as noise in technical evaluation. It contributes to responsible AI research by reframing auditing as a participatory and value-laden practice."
+  links: []
+
+- title: "Trace methods: Probing the apparatus"
+  year: 2026
+  authors: "Carsten Österlund and Corey Jackson"
+  venue: "Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications"
+  type: "Book Chapter"
+  topics:
+    - digital trace data
+    - methods
+    - information systems
+  note: "This chapter explores how scholars can study socio-technical systems using digital trace data. It reflects on the epistemological and methodological assumptions involved in making sense of traces produced through online activity and technical infrastructures. The chapter emphasizes that trace data do not simply speak for themselves, but must be interpreted through an apparatus of theory, method, and situated judgment. It contributes to broader conversations in information systems about how digital methods are constructed and used."
+  links:
+    - "https://link.springer.com/chapter/10.1007/978-3-032-05497-5_5"
+
+- title: "Communicating biodiversity data restriction rationales: Balancing specificity with practical and ethical considerations"
+  year: 2025
+  authors: "Carsten Österlund and Corey Jackson"
+  venue: "Citizen Science: Theory and Practice"
+  type: "Journal"
+  topics:
+    - citizen science
+    - biodiversity
+    - ethics
+  note: "This paper examines how organizations communicate the reasons for restricting access to biodiversity data. It considers the practical and ethical trade-offs involved in being transparent while also protecting sensitive species and vulnerable ecosystems. The paper shows that explanations for restriction are not merely technical documentation, but part of broader trust, governance, and stewardship practices. It contributes to citizen science and open data debates by clarifying how restriction rationales can be communicated responsibly."
+  links:
+    - "https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.899"
+
+- title: "Advancing glitch classification in Gravity Spy: Multi-view fusion with attention-based machine learning for Advanced LIGO’s fourth observing run"
+  year: 2025
+  authors: "Yunan Wu, Michael Zevin, Christopher P. L. Berry, Kevin Crowston, Carsten Østerlund, Zoheyr Doctor, Sharan Banagiri, Corey B. Jackson, Vicky Kalogera, and Aggelos K. Katsaggelos"
+  venue: "Classical and Quantum Gravity"
+  type: "Journal"
+  topics:
+    - citizen science
+    - machine learning
+    - gravitational waves
+  note: "This paper presents machine learning methods for improving glitch classification in the Gravity Spy project. It uses multi-view fusion and attention-based techniques to analyze data from Advanced LIGO’s fourth observing run. The work contributes to both detector characterization and the design of hybrid human–AI workflows in scientific discovery. It also illustrates how citizen science and machine learning can complement one another in complex scientific environments."
+  links:
+    - "https://iopscience.iop.org/article/10.1088/1361-6382/adf58b"
+
+- title: "Please say “Shibboleth”: Socialization through language adoption in virtual citizen science"
+  year: 2025
+  authors: "Corey Jackson"
+  venue: "International AAAI Conference on Web and Social Media"
+  type: "Conference"
+  topics:
+    - crowdsourcing
+    - language socialization
+    - social computing
+  note: "This paper examines how newcomers adopt the specialized language of a community and how that process relates to participation in virtual citizen science. It treats shared vocabulary as a marker of socialization and an indicator of how people become recognized as insiders. The study shows how language adoption can reveal broader patterns of learning, belonging, and retention in online collaborative settings. It contributes to social computing research by connecting language use to long-term community integration."
+  links:
+    - "https://ojs.aaai.org/index.php/ICWSM/article/view/35851"
+
+- title: "Leveling Up or Dropping Out: Searching for Learning Routines in Crowdsourced Environments"
+  year: 2025
+  authors: "Corey Jackson, Carsten Österlund, Anand Vamsi, Alexander Owen Smith, and Kevin Crowston"
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal"
+  topics:
+    - crowdsourcing
+    - learning
+    - social computing
+  note: "This paper examines how participants develop and sustain learning routines in crowdsourced environments. It asks why some contributors deepen their engagement over time while others disengage or drop out. The analysis highlights how routines, repeated participation, and exposure to tasks and community structures shape learning trajectories. The paper contributes to CSCW research by showing that learning in crowdsourced systems depends not only on motivation, but on how participation becomes organized over time."
+  links:
+    - "https://doi.org/10.1145/3757489"
+
+- title: "Supporting Human and Machine Co-Learning in Citizen Science: Lessons From Gravity Spy"
+  year: 2024
+  authors: "Carsten Østerlund, Kevin Crowston, Corey B. Jackson, Yunan Wu, Alexander O. Smith, and Aggelos K. Katsaggelos"
+  venue: "Citizen Science: Theory and Practice"
+  type: "Journal"
+  topics:
+    - crowdsourcing
+    - learning
+    - social computing
+  note: "This paper explores how people and machine learning systems can learn together in citizen science. Using Gravity Spy as a case, it examines how volunteer activity and algorithmic support shape one another over time. The paper argues that hybrid systems should be understood not just as automation pipelines, but as environments for mutual adaptation and co-learning. It contributes design insights for building more effective human–AI collaborations in scientific work."
+  links:
+    - "https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.738"
+
+- title: "How Personal Value Orientations Influence on Behaviors in Digital Citizen Science"
+  year: 2024
+  authors: "Eunmi (Ellie) Jeong, Corey Jackson, Liz Dowthwaite, Cliff Johnson, and Laura Trouille"
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal"
+  topics:
+    - citizen science
+    - values
+    - participation
+  note: "This paper investigates how contributors’ personal values shape participation and behavior in digital citizen science projects. It examines whether value orientations are associated with different patterns of contribution, engagement, and interpretation. The study helps explain why participants approach the same systems in different ways, even when they appear to be doing similar tasks. It contributes to citizen science and social computing research by linking behavior to underlying normative commitments and motivations."
+  links:
+    - "https://dl.acm.org/doi/10.1145/3637341"
+
+- title: "Folksonomies in Crowdsourcing Platforms: Three Tensions Associated with the Development of Shared Language in Distributed Groups"
+  year: 2024
+  authors: "Julia Bullard, Kevin Crowston, Corey Jackson, Alexander O. Smith, and Carsten Österlund"
+  venue: "European Conference on Computer-Supported Cooperative Work"
+  type: "Conference"
+  topics:
+    - citizen science
+    - learning
+    - design
+  note: "This paper examines how shared vocabularies emerge in crowdsourcing platforms and identifies three tensions in that process. It shows that language development in distributed groups involves balancing openness and standardization, flexibility and coordination, and local versus shared meanings. These tensions shape how contributors classify information and make sense of their work. The paper contributes to CSCW research on collaborative language and the design of participatory classification systems."
+  links:
+    - "https://dl.eusset.eu/items/3f515448-de88-461d-917f-088f6ea78a91"
+
+- title: "Design Principles for Background Knowledge to Enhance Learning in Citizen Science"
+  year: 2023
+  authors: "Kevin Crowston, Corey Jackson, Isabella Corieri, and Carsten Österlund"
+  venue: "iConference"
+  type: "Conference"
+  topics:
+    - citizen science
+    - learning
+    - design
+  note: "This paper proposes design principles for incorporating background knowledge into citizen science platforms. It argues that learning is not just a byproduct of participation, but can be actively supported through the way information is presented and contextualized. The paper identifies strategies for helping participants connect tasks to broader scientific ideas and goals. It contributes to design research on how to scaffold deeper engagement and understanding in online collaborative science."
+  links:
+    - "https://doi.org/10.1007/978-3-031-28032-0_43"
+
+- title: "Gravity Spy: Lessons Learned and a Path Forward"
+  year: 2023
+  authors: "Michael Zevin, Corey B. Jackson, Zoheyr Doctor, Yunan Wu, Carsten Østerlund, L. Clifton Johnson, Christopher P. L. Berry, Kevin Crowston, Scott B. Coughlin, Vicky Kalogera, Sharan Banagiri, Derek Davis, Jane Glanzer, Renzhi Hao, Aggelos K. Katsaggelos, Oli Patane, Jennifer Sanchez, Joshua Smith, Siddharth Soni, Laura Trouille, Marissa Walker, Irina Aerith, Wilfried Domainko, Victor-Georges Baranowski, Gerhard Niklasch, and Barbara Téglás"
+  venue: "The European Physical Journal Plus"
+  type: "Journal"
+  topics:
+    - citizen science
+    - learning
+    - design
+  note: "This paper reflects on the development of Gravity Spy and synthesizes key lessons from the project’s evolution. It discusses both the scientific contributions of the project and the socio-technical design challenges involved in sustaining participation and improving classification quality. The paper also outlines future directions for combining citizen science and machine learning in more sophisticated ways. It serves as both a retrospective and a roadmap for future hybrid scientific systems."
+  links:
+    - "https://link.springer.com/article/10.1140/epjp/s13360-023-04795-4"
+
+- title: "Assessing the Value Orientations of Contributors to Virtual Citizen Science Projects"
+  year: 2023
+  authors: "Eunmi (Ellie) Jeong, Corey Jackson, Liz Dowthwaite, Tallal Ahmad, and Laura Trouille"
+  venue: "The 11th International Conference on Communities and Technologies (C&T)"
+  type: "Conference"
+  topics:
+    - citizen science
+    - learning
+    - design
+  note: "This paper examines the value orientations of contributors in virtual citizen science projects. It investigates how contributors’ values can be assessed and how those values shape participation in distributed scientific work. The paper helps build a bridge between individual motivations, normative orientations, and collaborative platform behavior. It contributes to a richer understanding of who participates in citizen science and why."
+  links:
+    - "https://dl.acm.org/doi/10.1145/3593743.3593782"
+
+- title: "Discovering features in gravitational-wave data through detector characterization, citizen science, and machine learning"
+  year: 2021
+  authors: "S. Soni, C. P. L. Berry, S. B. Coughlin, M. Harandi, C. B. Jackson, K. Crowston, C. Østerlund, O. Patane, A. K. Katsaggelos, L. Trouille, V.-G. Baranowski, W. F. Domainko, K. Kaminski, M. A. Lobato Rodriguez, U. Marciniak, P. Nauta, G. Niklasch, R. R. Rote, B. Téglás, C. Unsworth, and C. Zhang"
+  venue: "Classical and Quantum Gravity"
+  type: "Journal"
+  topics:
+    - citizen science
+    - machine learning
+    - training
+  note: "This paper explores how detector characterization, citizen science, and machine learning can be combined to discover features in gravitational-wave data. It demonstrates the value of integrating human pattern recognition with computational techniques in a scientifically demanding domain. The study shows how collaborative workflows can improve data interpretation and support large-scale scientific analysis. It contributes to both astrophysics and the study of hybrid human–AI systems."
+  links:
+    - "https://iopscience.iop.org/article/10.1088/1361-6382/ac1ccb"
+
+- title: "Teaching Citizen Scientists to Categorize Glitches Using Machine Learning Guided Training"
+  year: 2020
+  authors: "Corey Jackson, Carsten Österlund, Kevin Crowston, Mahboobeh Harandi, Sarah Allen, Sara Bahaadini, Scotty Coughlin, Vicky Kalogera, Aggelos Katsaggelos, Shane Larson, Neda Rohani, Joshua Smith, Laura Trouille, and Michael Zevin"
+  venue: "Computers in Human Behavior"
+  type: "Journal"
+  topics:
+    - citizen science
+    - machine learning
+    - training
+  note: "This paper explores how machine learning can guide training processes for citizen scientists performing classification tasks. It examines how algorithmically informed scaffolding can help volunteers learn to recognize and categorize complex signal patterns. The study contributes to research on expertise development in online collaborative systems by showing how training can be made more adaptive. It also offers practical insights for designing hybrid human–AI workflows in citizen science."
+  links:
+    - "https://doi.org/10.1016/j.chb.2019.106198"
+
+- title: "Building an Apparatus: Refractive, Reflective, and Diffractive Readings of Trace Data"
+  year: 2020
+  authors: "Carsten Österlund, Kevin Crowston, and Corey Jackson"
+  venue: "Journal of the Association for Information Systems"
+  type: "Journal"
+  topics:
+    - trace data
+    - methodology
+    - information science
+  note: "This paper introduces conceptual approaches for interpreting trace data in socio-technical systems. Rather than treating traces as transparent records of behavior, it argues that they are produced and understood through particular methodological and theoretical arrangements. The paper develops a framework for refractive, reflective, and diffractive readings of trace data. It contributes to methodological debates about how researchers make claims from digital traces."
+  links:
+    - "https://aisel.aisnet.org/jais/vol21/iss1/10"
+
+- title: "Shifting Forms of Engagement: Volunteer Learning in Online Citizen Science"
+  year: 2020
+  authors: "Corey Jackson, Carsten Österlund, Kevin Crowston, Mahboobeh Harandi, and Laura Trouille"
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal"
+  topics:
+    - citizen science
+    - learning
+    - participation
+  note: "This paper examines how volunteer engagement evolves over time in online citizen science platforms. It shows that participation is not static, but shifts as contributors learn, gain experience, and take on different roles in the system. The paper highlights the dynamic relationship between learning and continued engagement. It contributes to CSCW research by showing how participation trajectories develop in distributed online work."
+  links:
+    - "https://doi.org/10.1145/3392841"
+
+- title: "Knowledge Tracing to Model Learning in Online Citizen Science Projects"
+  year: 2020
+  authors: "Kevin Crowston, Shane Larson, Neda Rohani, Joshua Smith, Laura Trouille, Michael Zevin, Carsten Österlund, Tae Kyoung Lee, Corey Jackson, Mahboobeh Harandi, Sarah Allen, Sara Bahaadini, Scott Coughlin, and Aggelos Katsaggelos"
+  venue: "IEEE Transactions on Learning Technologies"
+  type: "Journal"
+  topics:
+    - learning analytics
+    - citizen science
+    - modeling
+  note: "This paper applies knowledge tracing methods to understand learning processes in online citizen science environments. It models how contributors acquire and demonstrate competence over time through participation in classification work. The study shows that educational and learning analytics techniques can be meaningfully adapted to collaborative online science. It contributes to research on measuring learning in socio-technical systems."
+  links:
+    - "https://doi.org/10.1109/TLT.2019.2936480"
+
+- title: "Methodological Reinforcements: Investigating Work Through Trace Data and Text"
+  year: 2020
+  authors: "Corey Jackson, Laura Anderson, and Cheryl Kieliszewski"
+  venue: "AHFE Conference"
+  type: "Conference"
+  topics:
+    - methodology
+    - trace data
+    - qualitative methods
+  note: "This paper explores methodological approaches for studying work through trace data and textual materials. It considers how computational and qualitative evidence can be combined to better understand work practices in socio-technical systems. The paper argues for methodological reinforcement across sources rather than relying on a single data stream. It contributes to mixed-methods research on digital work and online systems."
+  links:
+    - "https://doi.org/10.1007/978-3-030-51057-2_11"
+
+- title: "The Genie in the Bottle: Different Stakeholders, Different Interpretations of Machine Learning"
+  year: 2020
+  authors: "Mahboobeh Harandi, Kevin Crowston, Corey Jackson, and Carsten Österlund"
+  venue: "HICSS"
+  type: "Conference"
+  topics:
+    - machine learning
+    - interpretation
+    - stakeholders
+  note: "This paper examines how different stakeholders interpret and understand machine learning systems. It shows that machine learning is not encountered as a single stable object, but is understood differently depending on institutional role, experience, and context. The study highlights the importance of interpretive flexibility in AI adoption and use. It contributes to socio-technical research on how machine learning becomes meaningful in practice."
+  links:
+    - "https://hdl.handle.net/10125/64461"
+
+- title: "Linguistic Changes in Online Citizen Science: A Structurational Perspective"
+  year: 2019
+  authors: "Corey Jackson, Carsten Österlund, Mahboobeh Harandi, Dhruv Kharwar, and Kevin Crowston"
+  venue: "ICIS"
+  type: "Conference"
+  topics:
+    - citizen science
+    - language
+    - social computing
+  note: "This paper analyzes how language changes within online citizen science communities over time. Using a structurational perspective, it examines how community-specific vocabulary both reflects and shapes participation. The study shows that language is part of the infrastructure through which coordination and belonging are produced. It contributes to research on socialization, communication, and shared meaning in online collaboration."
+  links:
+    - "https://aisel.aisnet.org/icis2019/crowds_social/crowds_social/28"
+
+- title: "Folksonomies to Support Coordination and Coordination of Folksonomies"
+  year: 2018
+  authors: "Corey Jackson, Kevin Crowston, Carsten Österlund, and Mahboobeh Harandi"
+  venue: "Computer Supported Cooperative Work"
+  type: "Journal"
+  topics:
+    - folksonomies
+    - coordination
+    - crowdsourcing
+  note: "This paper explores how folksonomies support coordination in collaborative systems. It examines how user-generated tags and classificatory practices help distributed groups organize work and make sense of shared materials. The paper also shows that folksonomies themselves require coordination in order to remain useful. It contributes to CSCW research on classification, coordination, and collaborative infrastructure."
+  links:
+    - "https://doi.org/10.1007/s10606-018-9327-z"
+
+- title: "Addressing the Privacy Paradox through Personalized Privacy Notifications"
+  year: 2018
+  authors: "Corey Jackson and Yang Wang"
+  venue: "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies"
+  type: "Journal"
+  topics:
+    - privacy
+    - personalization
+    - HCI
+  note: "This paper investigates personalized privacy notifications as a way to address the privacy paradox. It examines whether more tailored, context-sensitive notifications can help users better understand and act on privacy-relevant information. The work contributes to HCI research by showing how personalization can support more meaningful privacy decision-making. It also highlights the limitations of generic privacy notices in everyday technology use."
+  links:
+    - "https://doi.org/10.1145/3214271"
+
+- title: "Did They Login?: Patterns of Anonymous Contributions in Online Communities"
+  year: 2018
+  authors: "Corey Jackson, Kevin Crowston, and Carsten Österlund"
+  venue: "Proceedings of the ACM on Human-Computer Interaction"
+  type: "Journal"
+  topics:
+    - online communities
+    - anonymity
+    - participation
+  note: "This paper examines patterns of anonymous contributions in online communities. It asks how much meaningful work is done by people who do not log in or otherwise remain less visible within platform structures. The study highlights the importance of accounting for anonymous participation in analyses of online contribution systems. It contributes to research on online communities by challenging assumptions about identity, participation, and visibility."
+  links:
+    - "https://doi.org/10.1145/3274346"
+
+- title: "Beyond data management: Exploring new roles for librarians in citizen science projects"
+  year: 2015
+  authors: "Katie DeVries Hassman, Carsten Österlund, Gabriel Mugar, Corey Brian Jackson, and Kevin G. Crowston"
+  venue: "Citizen Science 2015 Conference"
+  type: "Conference"
+  topics:
+    - librarianship
+    - citizen science
+  note: "This paper explores how librarians can contribute to citizen science projects in roles that extend beyond data management. It considers how librarianship intersects with participation, knowledge organization, outreach, and support for collaborative science. The paper highlights the broader infrastructural and educational contributions librarians can make in citizen science settings. It contributes to conversations about professional roles in emerging forms of public scientific work."
+  links: []
+
+- title: "Talking the talk in citizen science"
+  year: 2018
+  authors: "Mahboobeh Harandi, Corey Brian Jackson, Carsten Osterlund, and Kevin Crowston"
+  venue: "Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing"
+  type: "Poster"
+  topics:
+    - language
+    - citizen science
+  note: "This poster examines language use in citizen science and how community-specific vocabulary develops through participation. It highlights the role of shared terminology in shaping interaction, coordination, and belonging. The work serves as an early exploration of language as an indicator of socialization in collaborative science. It contributes to broader research on communication and expertise in online communities."
+  links:
+    - "https://dl.acm.org/doi/10.1145/3272973.3274084"
+
+- title: "Planet hunters and seafloor explorers: legitimate peripheral participation through practice proxies in online citizen science"
+  year: 2014
+  authors: "Gabriel Mugar, Carsten Østerlund, Katie DeVries Hassman, Kevin Crowston, and Corey Brian Jackson"
+  venue: "Proceedings of the 17th ACM Conference on Computer Supported Cooperative Work & Social Computing"
+  type: "Conference"
+  topics:
+    - learning
+    - citizen science
+    - participation
+  note: "This paper examines how newcomers participate and learn in online citizen science through what the authors describe as practice proxies. It draws on legitimate peripheral participation to explain how people engage in meaningful work before becoming full participants. The study shows how systems can support learning through partial, scaffolded involvement. It contributes to CSCW and learning research on participation in distributed communities."
+  links:
+    - "https://dl.acm.org/doi/10.1145/2531602.2531721"
+
+- title: "Socializing the Crowd: Learning to talk in citizen science"
+  year: 2014
+  authors: "Carsten Oesterlund, Gabriel Mugar, Corey Jackson, Katie DeVries Hassman, and Kevin Crowston"
+  venue: "Academy of Management Annual Meeting Proceedings"
+  type: "Short Paper"
+  topics:
+    - socialization
+    - sociomateriality
+    - citizen science
+  note: "This paper examines how contributors learn the language of citizen science communities. It connects socialization to communication practices and the development of shared ways of interpreting work and participation. The study emphasizes that learning to participate is also learning how to talk within a community. It contributes to research on sociomateriality, language, and collaborative knowledge production."
+  links:
+    - "https://doi.org/10.5465/ambpp.2014.16799abstract"
+
+- title: "Being present in online communities: learning in citizen science"
+  year: 2015
+  authors: "Gabriel Mugar, Carsten Østerlund, Corey Brian Jackson, and Kevin Crowston"
+  venue: "Proceedings of the 7th International Conference on Communities and Technologies"
+  type: "Conference"
+  topics:
+    - learning
+    - citizen science
+    - sociomateriality
+  note: "This paper examines learning in online communities through the case of citizen science. It explores what it means to be present in a distributed collaborative environment and how that presence relates to participation and learning. The study highlights the interaction between community structure, task design, and contributor development. It contributes to research on online communities by linking presence to learning and engagement."
+  links:
+    - "https://dl.acm.org/doi/10.1145/2768545.2768555"
+
+- title: "Guess what! You're the First to See this Event: Increasing Contribution to Online Production Communities"
+  year: 2016
+  authors: "Corey Brian Jackson, Kevin Crowston, Gabriel Mugar, and Carsten Østerlund"
+  venue: "Proceedings of the 2016 ACM International Conference on Supporting Group Work"
+  type: "Conference"
+  topics:
+    - citizen science
+    - experiment
+    - motivation
+  note: "This paper studies how novelty can be used to motivate participation in online production communities. It examines whether telling contributors they are the first to encounter a particular item or event can encourage greater engagement. The study contributes to experimental work on motivation in crowdsourcing and citizen science. It also helps explain how interface messages can shape contribution behavior."
+  links:
+    - "https://dl.acm.org/doi/10.1145/2957276.2957284"
+
+- title: "Which way did they go? Newcomer movement through the Zooniverse"
+  year: 2016
+  authors: "Corey Jackson, Carsten Østerlund, Veronica Maidel, Kevin Crowston, and Gabriel Mugar"
+  venue: "Proceedings of the 19th ACM Conference on Computer-Supported Cooperative Work & Social Computing"
+  type: "Conference"
+  topics:
+    - citizen science
+    - crowdsourcing
+    - quasi-experiment
+  note: "This paper examines how newcomers move through the Zooniverse and how their paths through the platform relate to participation. It considers how system structure and onboarding experiences shape whether people remain engaged or drift away. The work helps explain participation as a trajectory rather than a single event. It contributes to research on crowdsourcing and citizen science by focusing on movement, retention, and system design."
+  links:
+    - "https://dl.acm.org/doi/10.1145/2818048.2835197"
+
+- title: "Event Based Analysis of a Citizen Science Community: Are New and Non-sustained Users Included?"
+  year: 2014
+  authors: "Corey Jackson, Katie DeVries Hassman, Carsten Østerlund, Gabriel Mugar, and Kevin Crowston"
+  venue: "iConference 2014 Proceedings"
+  type: "Poster"
+  topics:
+    - citizen science
+    - network analysis
+    - newcomers
+  note: "This poster examines whether new and non-sustained users are adequately represented in analyses of citizen science communities. It highlights the importance of looking beyond highly active contributors to understand the full ecology of participation. The work raises methodological questions about who is counted and how engagement is measured. It contributes to early research on participation inequality in citizen science."
+  links:
+    - "https://doi.org/10.9776/14405"
+
+- title: "Motivations for Sustained Participation in Crowdsourcing: Case Studies of Citizen Science on the Role of Talk"
+  year: 2015
+  authors: "Corey Jackson, Carsten Østerlund, Gabriel Mugar, Katie DeVries Hassman, and Kevin Crowston"
+  venue: "Proceedings of the 2015 48th Hawaii International Conference on System Sciences"
+  type: "Conference"
+  topics:
+    - citizen science
+    - motivation
+    - communication
+  note: "This paper examines how communication supports sustained participation in crowdsourcing and citizen science. It looks at the role of talk in helping contributors stay engaged, make sense of their work, and connect to a broader collaborative effort. The study shows that motivation is not only individual, but shaped through interaction and community processes. It contributes to research on retention and communication in distributed participation systems."
+  links:
+    - "https://doi.org/10.1109/HICSS.2015.196"
+
+- title: "The Hermeneutics of Trace Data: Building an Apparatus"
+  year: 2016
+  authors: "Carsten Østerlund, Kevin Crowston, and Corey Jackson"
+  venue: "IFIP Working Group 8.2 Working Conference"
+  type: "Conference"
+  topics:
+    - digital trace data
+    - sociomateriality
+    - information systems
+  note: "This paper examines how researchers interpret digital trace data through methodological and theoretical apparatuses. It argues that traces do not simply reveal activity directly, but must be read through frameworks that shape what counts as evidence and meaning. The paper contributes to interpretive and sociomaterial approaches to digital methods. It helps lay the groundwork for later work on trace data methodology."
+  links:
+    - "https://api.semanticscholar.org/CorpusID:18718663"
+
+- title: "Typologies of Learning in Online Collaborative Communities"
+  year: 2016
+  authors: "Carsten Østerlund, Gabriel Mugar, Corey Jackson, and Kevin Crowston"
+  venue: "International Reports on Socio-Informatics (IRSI)"
+  type: "Journal"
+  topics:
+    - learning
+    - online communities
+    - sociomateriality
+  note: "This paper develops typologies of learning in online collaborative communities. It examines how contributors learn through participation, interaction, and repeated engagement in distributed settings. The typology provides a way to think more carefully about the different forms learning can take in collaborative online environments. It contributes to research on informal learning and online knowledge production."
+  links:
+    - "https://www.iisi.de/wp-content/uploads/2018/07/irsi_vol13-iss1_2016_osterlund.pdf"
+
+- title: "Networks of Influential Participants: Information Diffusion in Citizen Science"
+  year: 2014
+  authors: "Corey Jackson, Carsten Østerlund, Gabriel Mugar, Kevin Crowston, and Katie DeVries Hassman"
+  venue: "ACM Conference on Online Social Networks (COSN'14)"
+  type: "Poster"
+  topics:
+    - network analysis
+    - citizen science
+    - diffusion
+  note: "This poster examines information diffusion in citizen science through the lens of influential participants and network structure. It explores how ideas, communication, and participation may spread unevenly through a collaborative community. The work highlights the usefulness of network analysis for understanding online scientific collaboration. It contributes to early research on participation dynamics in citizen science."
+  links: []
+
+- title: "Encouraging Work in Citizen Science: Experiments in Goal Setting and Anchoring"
+  year: 2016
+  authors: "Corey Jackson, Gabriel Mugar, Kevin Crowston, and Carsten Østerlund"
+  venue: "Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion"
+  type: "Poster"
+  topics:
+    - citizen science
+    - experiment
+    - motivation
+  note: "This paper examines how goal setting and anchoring can be used to encourage participation in citizen science. It reports on experimental efforts to shape contributor behavior through interface and framing interventions. The work contributes to research on motivational design in crowdsourcing and collaborative systems. It also highlights how relatively small design choices can influence participation patterns."
+  links:
+    - "https://dl.acm.org/doi/10.1145/2818052.2869129"
+
+- title: "Learning at the Seafloor, Looking at the Sky: The Relationship Between Individual Tasks and Collaborative Engagement in Two Citizen Science Projects"
+  year: 2013
+  authors: "Katie DeVries Hassman, Gabriel Mugar, Carsten Østerlund, and Corey Jackson"
+  venue: "International Society of the Learning Sciences CSCL 2013 Conference Proceedings"
+  type: "Short Paper"
+  topics:
+    - citizen science
+    - collaboration
+    - learning
+  note: "This paper examines the relationship between individual task work and broader collaborative engagement in two citizen science projects. It asks how micro-level participation connects to the social dynamics of community involvement. The study helps explain how contributors move between task completion and deeper collaborative awareness. It contributes to research on learning and participation in online scientific collaboration."
+  links:
+    - "https://doi.dx.org/10.22318/cscl2013.2.265"
+
+- title: "Face-to-face matters: Inspirations from the Human Library"
+  year: 2015
+  authors: "Corey Jackson, Yun Huang, and Abby S. Kasowitz-Scheer"
+  venue: "International Journal of Mobile Human Computer Interaction (IJMHCI)"
+  type: "Journal"
+  topics:
+    - human library
+    - communication
+    - HCI
+  note: "This paper draws inspiration from the Human Library to examine the importance of face-to-face interaction. It considers how embodied encounters can support dialogue, empathy, and social understanding in ways that differ from mediated interaction. The paper contributes to HCI by reflecting on how presence shapes communication and connection. It also broadens the scope of the publication list beyond citizen science and crowdsourcing."
+  links:
+    - "http://dx.doi.org/10.4018/ijmhci.2015070103"
+
+- title: "Digital Experimentation: Motivating Contribution to Citizen Science"
+  year: 2014
+  authors: "Corey Jackson, Kevin Crowston, Carsten Østerlund, Gabriel Mugar, and Katie DeVries Hassman"
+  venue: "Conference on Digital Experimentation (CODE@MIT)"
+  type: "Poster"
+  topics:
+    - citizen science
+    - experiment
+    - motivation
+  note: "This poster examines how digital experimentation can be used to motivate contribution in citizen science. It focuses on intervention-oriented approaches to understanding participation and testing ways of improving engagement. The work contributes to early experimental research on how design choices influence collaborative scientific participation. It also reflects a broader interest in motivation and behavioral design."
+  links: []
+
+- title: "Participation Through Perspective: How Perceptions Shape Participation in Virtual Citizen Science"
+  year: 2016
+  authors: "Corey Jackson, Ruike Lin, Liz Dowthwaite, Cliff Johnson, and Laura Trouille"
+  venue: "SSRN"
+  type: "Preprint"
+  topics:
+    - citizen science
+    - survey
+    - participation
+  note: "This paper examines how participants’ perceptions shape engagement in virtual citizen science. It asks how people interpret the project, its goals, and their own role within it, and how those perceptions influence participation. The study highlights the importance of perspective and framing in sustaining collaborative online work. It contributes to research on participation by emphasizing the interpretive side of engagement."
+  links:
+    - "http://dx.doi.org/10.2139/ssrn.6312611"
