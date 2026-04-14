@@ -536,3 +536,44 @@ a:hover {
 .publication-entry h3 a:hover {
   text-decoration: underline;
 }
+
+.research-page {
+  max-width: 900px;
+  margin: auto;
+}
+
+.research-intro {
+  margin-bottom: 40px;
+}
+
+.research-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 25px;
+}
+
+.research-card {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+.research-card h3 {
+  margin-top: 0;
+}
+
+.research-question {
+  font-weight: 600;
+  color: #2c7be5;
+  margin-bottom: 10px;
+}
+
+.research-section {
+  margin-top: 15px;
+}
+
+.research-section ul {
+  padding-left: 18px;
+  margin: 5px 0;
+}
