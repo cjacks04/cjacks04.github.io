@@ -9,9 +9,7 @@ permalink: /research/
   <div class="research-intro">
     <h2>Research</h2>
     <p>
-      My research examines how people learn, participate, and exercise judgment in data-rich and AI-mediated environments.
-      Across projects, I focus on how expertise is developed, how human and machine intelligence interact, and how data-driven
-      systems can be designed to better reflect community values and public needs.
+      My research examines how people learn, participate, and exercise judgment in data-rich and AI-mediated environments. Across projects, I focus on how expertise is developed, how human and machine intelligence interact, and how data-driven systems can be designed to better reflect community values and public needs.
     </p>
   </div>
 
@@ -32,7 +30,7 @@ permalink: /research/
       This research explores how people develop domain-specific expertise in complex environments without formal training. Drawing on work in citizen science systems such as Gravity Spy, I examine how interfaces, feedback, and structured participation enable non-experts to engage in sophisticated analytical work and contribute to scientific discovery.
     </p>
     <div class="research-section">
-      <strong>Example Projects</strong> crowdsourced learning environments; language socialization in online communities; motivation and participation in citizen science
+      <strong>Topics</strong>:<em>crowdsourced learning environments; language socialization in online communities; motivation and participation in citizen science</em>
     </div>
     <div class="research-section">
       <strong>Contributions</strong>
@@ -62,18 +60,16 @@ permalink: /research/
   <p class="research-question">
     How can humans and AI systems learn together in ways that improve both human capability and machine performance?
   </p>
-
+  <p>
+    This work moves beyond traditional pipelines where humans simply label data for AI systems. Instead, I study co-learning environments where humans and algorithms iteratively improve one another, forming adaptive systems that evolve over time.
+  </p>
   <!-- IMAGE INSERTED HERE -->
   <div class="research-image">
     <img src="/assets/img/research/hybrid1.png" alt="Gravity Spy system interface" />
   </div>
 
-  <p>
-    This work moves beyond traditional pipelines where humans simply label data for AI systems. Instead, I study co-learning environments where humans and algorithms iteratively improve one another, forming adaptive systems that evolve over time.
-  </p>
-
   <div class="research-section">
-    <strong>Example Projects</strong>: citizen science and machine learning integration; machine-guided classification systems
+    <strong>Topics</strong>: <em>citizen science and machine learning integration; machine-guided classification systems</em>
   </div>
 
   <div class="research-section">
@@ -106,18 +102,14 @@ permalink: /research/
     <p class="research-question">
       How can data-driven systems in the public sector operate equitably and reflect community values?
     </p>
- <div class="research-image">
-    <img src="/assets/img/research/algorithm.png" alt="The interface for AL learning"/>
-  </div>
     <p>
       This research examines how AI systems embed assumptions about fairness, legitimacy, and decision-making. It develops participatory approaches in which communities act as evaluators of algorithmic systems, bringing contextual knowledge and normative reasoning into oversight processes.
     </p>
+    <div class="research-image">
+    <img src="/assets/img/research/algorithm.png" alt="The interface for AL learning"/>
+  </div>
     <div class="research-section">
-      <strong>Example Projects</strong>
-      <ul>
-        <li>Participatory AI auditing</li>
-        <li>Public perceptions of data use</li>
-      </ul>
+      <strong>Topics</strong>: <em>participatory AI auditing; public perceptions of data use</em>
     </div>
     <div class="research-section">
       <strong>Contributions</strong>
@@ -130,7 +122,7 @@ permalink: /research/
     <div class="research-section">
       <strong>Representative Work:</strong>
       <ul>
-        <li>Jackson, C., Ahmad, T., Raj, S. D., & Wu, N. (2026). <a href="https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/PACMHCI/PACMHCIV10I2/3757/4a2969fe-ed4e-11f0-957d-16ffd757ba29/OUT/PACMHCIv10i2-3757.html" target="_blank" rel="noopener">Beyond Bias Detection: Community auditors and normative reasoning in AI oversight</a>. Proceedings of the ACM on Human-Computer Interaction, 10(CSCW2), Article CSCW006. https://doi.org/10.1145/3788042 </li>
+        <li>Jackson, C., Ahmad, T., Raj, S. D., & Wu, N. (2026). <a href="https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/PACMHCI/PACMHCIV10I2/3757/4a2969fe-ed4e-11f0-957d-16ffd757ba29/OUT/PACMHCIv10i2-3757.html" target="_blank" rel="noopener">Beyond Bias Detection: Community auditors and normative reasoning in AI oversight</a>.Proceedings of the ACM on Human-Computer Interaction</li>
       </ul>
     </div>
   </div>
@@ -145,14 +137,13 @@ permalink: /research/
       How can communities meaningfully participate in data-driven governance and decision-making?
     </p>
      <div class="research-image">
-    <img src="/assets/img/research/attention.pdf" alt="The interface for AL learning"/>
+    <img src="/assets/img/research/knowledge_map.png" alt="The interface for knowledge map"/>
   </div>
     <p>
       This work focuses on inequities in access to data and participation in civic processes. I study how environmental and public-sector data systems can better represent community knowledge, particularly in contexts of environmental justice and local decision-making.
     </p>
     <div class="research-section">
-      <strong>Example Projects</strong>: environmental justice mapping; civic data representativeness; Knowledge Map (community data portal)</li>
-      </ul>
+      <strong>Topics</strong>:<em>environmental justice mapping; civic data representativeness; Knowledge Map (community data portal)</em>
     </div>
     <div class="research-section">
       <strong>Contributions</strong>
