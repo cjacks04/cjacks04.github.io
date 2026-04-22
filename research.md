@@ -7,7 +7,6 @@ permalink: /research/
 <div class="research-page">
 
   <div class="research-intro">
-    <h2>Research</h2>
     <p>
       My research examines how people learn, participate, and exercise judgment in data-rich and AI-mediated environments. Across projects, I focus on how expertise is developed, how human and machine intelligence interact, and how data-driven systems can be designed to better reflect community values and public needs.
     </p>
