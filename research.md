@@ -8,7 +8,7 @@ permalink: /research/
 
   <div class="research-intro">
     <p>
-      My research examines how people learn, participate, and exercise judgment in data-rich and AI-mediated environments. Across projects, I focus on how expertise is developed, how human and machine intelligence interact, and how data-driven systems can be designed to better reflect community values and public needs.
+      My research examines how people learn, participate, and exercise judgment in data-rich and AI-mediated environments. My research focuses on how expertise is developed, how human and machine intelligence interact, and how data-driven systems can be designed to better reflect community values and public needs.
     </p>
   </div>
 
@@ -31,12 +31,7 @@ permalink: /research/
         <strong>Topics</strong>: <em>crowdsourced learning environments; language socialization in online communities; motivation and participation in citizen science</em>
       </div>
       <div class="research-section">
-        <strong>Contributions</strong>
-        <ul>
-          <li>Demonstrates how expertise emerges through participation rather than formal training</li>
-          <li>Introduces language adoption as a measurable mechanism of socialization and learning</li>
-          <li>Shows how structured task design and feedback loops support skill development in distributed systems</li>
-        </ul>
+        <strong>Contributions</strong>: this work has contributed to understanding how expertise emerges through participation rather than formal training, introduces language adoption as a measurable mechanism of socialization and learning, and shows how structured task design and feedback loops support skill development in distributed systems
       </div>
       <div class="research-section">
         <strong>Representative Work</strong>
@@ -67,12 +62,7 @@ permalink: /research/
         <strong>Topics</strong>: <em>citizen science and machine learning integration; machine-guided classification systems</em>
       </div>
       <div class="research-section">
-        <strong>Contributions</strong>
-        <ul>
-          <li>Introduces co-learning as a model for human–AI interaction</li>
-          <li>Shows how humans can act as more than data labelers—serving as analytical collaborators</li>
-          <li>Demonstrates how hybrid systems improve both model performance and human expertise</li>
-        </ul>
+        <strong>Contributions</strong>: this stream of search introduces co-learning as a model for human–AI interactions; shows how humans can act as more than data labelers—serving as analytical collaborators for machines; and demonstrates how hybrid systems improve both model performance and human expertise. 
       </div>
       <div class="research-section">
         <strong>Representative Work</strong>
@@ -103,12 +93,7 @@ permalink: /research/
         <strong>Topics</strong>: <em>participatory AI auditing; public perceptions of data use</em>
       </div>
       <div class="research-section">
-        <strong>Contributions</strong>
-        <ul>
-          <li>Reframes AI auditing as a participatory and socially grounded process</li>
-          <li>Demonstrates the importance of normative reasoning in evaluating algorithmic systems</li>
-          <li>Bridges technical AI evaluation with community-centered perspectives on fairness</li>
-        </ul>
+        <strong>Contributions</strong>: this work reframes AI auditing as a participatory and socially grounded process; demonstrates the importance of normative reasoning in evaluating algorithmic systems; and bridges technical AI evaluation with community-centered perspectives on responsible AI practices
       </div>
       <div class="research-section">
         <strong>Representative Work</strong>
@@ -138,12 +123,7 @@ permalink: /research/
         <strong>Topics</strong>: <em>environmental justice mapping; civic data representativeness; Knowledge Map (community data portal)</em>
       </div>
       <div class="research-section">
-        <strong>Contributions</strong>
-        <ul>
-          <li>Identifies structural barriers to participation in civic data systems</li>
-          <li>Develops models for understanding representativeness in community-generated data</li>
-          <li>Designs systems that integrate community narratives with institutional data</li>
-        </ul>
+        <strong>Contributions</strong>: this work identifies structural barriers to participation in civic data systems; develops models for understanding representativeness in community-generated data; designs systems that integrate community narratives with institutional data (See: <a href="https://connect.doit.wisc.edu/knowledge-map/" target="_blank" rel="noopener">)Knowledge Map</a>; designs systems that support third-sector knowledge of legislation
       </div>
       <div class="research-section">
         <strong>Representative Work</strong>
