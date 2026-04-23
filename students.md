@@ -4,12 +4,8 @@ title: Students
 permalink: /students/
 ---
 
-<div class="callout-box">
-  <strong>Current Lab Members:</strong>
-</div>
 
 <div class="quick-nav-box">
-  <h3>Quick Navigation</h3>
   <div class="quick-nav-links">
     <a href="#current-students">Current Students</a>
     <a href="#alumni">Alumni</a>

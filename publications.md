@@ -17,7 +17,6 @@ permalink: /publications/
     </div>
   </div>
 
-  <h2>Publications</h2>
 
   {% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
 
@@ -25,12 +24,10 @@ permalink: /publications/
     <div class="pub-year-group">
       <button class="pub-year-toggle" type="button">{{ year }}</button>
       <div class="pub-year-content">
-
         {% for pub in site.data.publications %}
           {% if pub.year == year %}
             <div class="publication-entry">
               {% assign valid_links = pub.links | compact %}
-
               {% if valid_links.size > 0 %}
                 <h3>
                   <a href="{{ valid_links.first | strip }}" target="_blank" rel="noopener">
@@ -40,19 +37,15 @@ permalink: /publications/
               {% else %}
                 <h3>{{ pub.title }}</h3>
               {% endif %}
-
               {% if pub.authors %}
                 <p class="pub-line"><strong>Authors:</strong> {{ pub.authors }}</p>
               {% endif %}
-
               {% if pub.venue %}
                 <p class="pub-line"><strong>Venue:</strong> {{ pub.venue }}</p>
               {% endif %}
-
               {% if pub.type %}
                 <p class="pub-line"><strong>Type:</strong> {{ pub.type }}</p>
               {% endif %}
-
               {% if pub.topics %}
                 <p class="pub-tags">
                   {% for topic in pub.topics %}
@@ -60,14 +53,12 @@ permalink: /publications/
                   {% endfor %}
                 </p>
               {% endif %}
-
               {% if pub.note and pub.note != "" %}
                 <p class="pub-note">{{ pub.note }}</p>
               {% endif %}
             </div>
           {% endif %}
         {% endfor %}
-
       </div>
     </div>
   {% endfor %}
