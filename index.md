@@ -25,7 +25,7 @@ I typically advise Ph.D. students interested in HCI, CSCW, responsible AI, and c
 https://cccblog.org/2026/04/27/announcing-the-second-ever-ccc-community-chat-a-new-era-of-scientific-progress-uniting-advanced-computing-and-citizen-science-for-accelerated-research/?utm_source=feedblitz&utm_medium=FeedBlitzRss&utm_campaign=cccblog
 
 ## Updates
--**[Upcoming 2026]** I will be presenting at the [Association for Advancing Participatory Sciences](https://participatorysciences.org/) Conference on Advancing Participatory Sciences, sharing insights from our CCC report. Learn more: [Grand Challenges for the Convergence of Computational and Citizen Science Research]( https://cccblog.org/2026/02/23/enhancing-scientific-capability-by-converging-ai-and-citizen-science/)
+- **[Upcoming 2026]** I will be presenting at the [Association for Advancing Participatory Sciences](https://participatorysciences.org/) Conference on Advancing Participatory Sciences, sharing insights from our CCC report. Learn more: [Grand Challenges for the Convergence of Computational and Citizen Science Research]( https://cccblog.org/2026/02/23/enhancing-scientific-capability-by-converging-ai-and-citizen-science/)
 
 - **[Upcoming 2026]** I am serving as a panelist for the [Computing Community Consortium](https://cra.org/ccc/) Community Chat where I'll present results from our CCC report Grand Challenges for the Convergence of Computational and Citizen Science Research. Register here: [A New Era of Scientific Progress: Uniting Advanced Computing and Citizen Science for Accelerated Research](https://cra-org.zoom.us/webinar/register/WN_FZEjESIXQZe4dU-0XQLdag)
 
