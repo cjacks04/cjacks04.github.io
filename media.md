@@ -8,7 +8,15 @@ permalink: /media/
   <strong>Talks, interviews, and public-facing work</strong> related to my research appear here.
 </div>
 
-## Invited Talks
+
+## Public Writing
+
+I maintain a blog of our research here:  
+[MadCollab (UW-Madison)](https://medium.com/uw-madison-madcollab-research)
+
+---
+
+## Invited Talks, Panels, and Podcasts
 
 - *Amplifying Underrepresented Voices in Environmental Discussions and Policy: A Deliberation and Crowdsourcing Approach* Presented at the Social Area Lunch and Discussion (SALAD), Psychology Department, University of Wisconsin–Madison
 
@@ -21,6 +29,7 @@ permalink: /media/
 - *How Perceptions Shape Participation in Virtual Citizen Science* Presented at the NASA Citizen Science Leaders: Women in Astronomy
 
 - *Panel: What Does Diversity Science Say About Belonging and Community?* Presented at the  University of Wisconsin–Madison Diversity Forum
+
 
 ---
 
@@ -55,7 +64,3 @@ permalink: /media/
 
 ---
 
-## Public Writing
-
-I keep an accessible blog of our research papers here:  
-[MadCollab (UW-Madison)](https://medium.com/uw-madison-madcollab-research)
