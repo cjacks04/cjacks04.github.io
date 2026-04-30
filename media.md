@@ -26,17 +26,19 @@ permalink: /media/
 
 ## Media Coverage
 
-- **Institute for Diversity Science** [“Byars-Winston, Isadore, Jackson, and Meuris present at 2024 Diversity Forum”](https://ids.wisc.edu/2024/10/17/byars-winston-isadore-jackson-and-meuris-to-present-at-2024-diversity-forum/)
+- **College of Social Computing and Artificial Intelligence** [“Byars-Winston, Isadore, Jackson, and Meuris present at 2024 Diversity Forum”](https://ids.wisc.edu/2024/10/17/byars-winston-isadore-jackson-and-meuris-to-present-at-2024-diversity-forum/)
 
-- **The Badger Herald**  “Study shows marginalized groups’ views of environmental justice”
+- **Institute for Diversity Science** [“Artificial Intelligence by Wisconsin, for Wisconsin”](https://cdis.wisc.edu/artificial-intelligence-by-wisconsin-for-wisconsin/)
 
-- **Wisconsin State Journal** “The digital town hall”
+- **The Badger Herald**  [“Study shows marginalized groups’ views of environmental justice”](https://badgerherald.com/news/2024/05/08/uw-researchers-reveal-marginalized-communities-perceptions-of-environmental-justice/)
 
-- **Information School Research Spotlight**  “Harnessing community and technology for equitable environmental policy”
+- **Wisconsin State Journal** [“The digital town hall”](https://madison.com/exclusive/fueling-discovery/the-digital-town-hall/article_bf869edc-0ebc-11ef-ad6f-4b35d0c90689.html)
 
-- **The Badger Herald**  “UW partners with local organizations representing Black, Latinx voices in environmental conservation for research initiative”
+- **Information School Research Spotlight** [“Harnessing community and technology for equitable environmental policy”](https://ischool.wisc.edu/2023/10/31/research-spotlight-harnessing-community-and-technology-for-equitable-environmental-policy/)
 
-- **UniverCity Alliance**  “UW–Madison research team partners with Dane County organizations to host environmental justice discussions”
+- **The Badger Herald**  [“UW partners with local organizations representing Black, Latinx voices in environmental conservation for research initiative”](https://badgerherald.com/news/2023/02/15/uw-partners-with-local-organizations-representing-black-latinx-voices-in-environmental-conservation-for-research-initiative/#:~:text=Wisconsin%20EcoLatinos%20and%20Urban%20Triage,developing%20new%20environmental%20conservation%20solutions.)
+
+- **UniverCity Alliance**  [“UW–Madison research team partners with Dane County organizations to host environmental justice discussions”](https://univercity.wisc.edu/2023/01/23/uw-madison-research-team-partners-with-dane-county-organizations-to-host-environmental-justice-discussions/)
 
 - **Wisconsin Public Radio**  “UW Researchers Using Computer Modeling, Social Science To Improve Vaccine Delivery”
 
