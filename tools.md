@@ -94,7 +94,7 @@ permalink: /tools/
       </div>
 
       <div class="research-section">
-        <strong>Link</strong>: <a href="https://github.com/madcollab-jrg/PolicyPulse" target="_blank" rel="noopener">https://github.com/madcollab-jrg/PolicyPulse</a>
+        <strong>Link</strong>: <a href="https://github.com/madcollab-jrg/vcrge/tree/main/policypulse" target="_blank" rel="noopener">https://github.com/madcollab-jrg/vcrge/tree/main/policypulse</a>
       </div>
     </div>
   </div>
