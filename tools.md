@@ -23,7 +23,6 @@ permalink: /tools/
       </p>
       <div class="research-image tool-image-placeholder">
         <img src="/assets/img/tools/knowledgemap-interface.png" alt="Screenshot of the Knowledge Map v1 interface" />
-        <p class="media-caption">Image placeholder: add a screenshot at <code>/assets/img/tools/knowledge-map-v1.png</code>.</p>
       </div>
       <p>
         Knowledge Map v1 helps people explore data collected through surveys designed and administered by our research group. The system was created to make community and civic data more accessible by turning survey responses into interactive summaries and visual views. Rather than requiring users to analyze raw spreadsheets, the tool presents structured results in ways that support interpretation, communication, and public-facing discussion. This version focuses on curated datasets from our own studies, allowing us to design the survey, data structure, and visualizations together as one research workflow.
@@ -47,8 +46,7 @@ permalink: /tools/
         A flexible upload-based version of Knowledge Map that lets users bring their own survey data.
       </p>
       <div class="research-image tool-image-placeholder">
-        <img src="/assets/img/tools/knowledge-map-v2.png" alt="Screenshot of the Knowledge Map v2 interface" />
-        <p class="media-caption">Image placeholder: add a screenshot at <code>/assets/img/tools/knowledge-map-v2.png</code>.</p>
+        <img src="/assets/img/tools/knowledgemap-interface.png" alt="Screenshot of the Knowledge Map v2 interface" />
       </div>
       <p>
         Knowledge Map v2 expands the original Knowledge Map workflow so that researchers, community groups, and civic organizations can upload their own CSV-style survey datasets. Users can identify important columns such as geography, demographics, and survey questions, then generate visual summaries directly in the browser. The tool supports workflows for comparing community-generated datasets with public benchmarks, including Census-backed demographic comparisons where appropriate. More broadly, this version reflects our group’s interest in building accessible data tools that help communities examine representativeness, surface local knowledge, and communicate findings to public audiences.
@@ -73,7 +71,6 @@ permalink: /tools/
       </p>
       <div class="research-image tool-image-placeholder">
         <img src="/assets/img/tools/policypulse.png" alt="Screenshot of the PolicyPulse interface" />
-        <p class="media-caption">Image placeholder: add a screenshot at <code>/assets/img/tools/policypulse.png</code>.</p>
       </div>
       <p>
         PolicyPulse is designed to help organizations compare their mission statements, programs, or internal documents with state and federal legislation. The tool supports users in finding bills that may be relevant to their priorities, communities, or areas of advocacy. Rather than assuming that users have time to monitor legislative databases directly, PolicyPulse aims to translate policy activity into more accessible summaries and connections. This project reflects our broader interest in building tools that help civic and public-interest organizations participate more effectively in data- and policy-intensive environments.
@@ -98,7 +95,6 @@ permalink: /tools/
       </p>
       <div class="research-image tool-image-placeholder">
         <img src="/assets/img/tools/audit-interface.png" alt="Screenshot of the AI Fairness Tool interface" />
-        <p class="media-caption">Image placeholder: add a screenshot at <code>/assets/img/tools/ai-fairness-tool.png</code>.</p>
       </div>
       <p>
         The AI Fairness Tool supports reflection on how AI systems may affect different people and groups in public-sector or high-stakes decision-making contexts. It is designed to help users examine questions of fairness, risk, and potential negative consequences rather than treating AI evaluation as only a technical performance problem. The tool can be used for teaching, research, or public engagement around responsible AI and algorithmic accountability. It reflects our group’s broader work on participatory AI auditing, where community members and non-experts are supported in evaluating how AI systems align with public values and lived experience.
