@@ -8,7 +8,7 @@ permalink: /tools/
 
   <div class="research-intro">
     <p>
-      The Collaborative Computing Group develops research tools that help communities, researchers, and public-interest organizations collect, interpret, and act on data. This page highlights systems created by our group and collaborators, including tools for civic data analysis, participatory science, responsible AI, and public-sector decision-making.
+      My lab develops research tools that help communities, researchers, and public-interest organizations collect, interpret, and act on data. Below, you'll see a few systems created by our group and collaborators, including tools for civic data analysis, participatory science, responsible AI, and public-sector decision-making.
     </p>
   </div>
 
