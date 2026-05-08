@@ -108,7 +108,31 @@ permalink: /tools/
     </div>
   </div>
 
+  <!-- CIVIC IN WISCONSIN -->
+  <div class="research-card collapsible-card">
+    <button class="research-card-toggle" type="button">
+      <span>Civic in Wisconsin</span>
+    </button>
+    <div class="research-card-content">
+      <p class="research-question">
+        A public-facing resource for highlighting civic technology, civic data, and public-interest computing work in Wisconsin.
+      </p>
+      <div class="research-image tool-image-placeholder">
+        <img src="/assets/img/tools/civic-in-wisconsin.png" alt="Screenshot of the Civic in Wisconsin website" />
+      </div>
+      <p>
+        Civic in Wisconsin is a web-based resource that presents civic technology and public-interest computing work connected to Wisconsin. The site is designed to make this work more visible to students, researchers, community organizations, and public-sector partners. It provides an accessible entry point for learning about civic data, responsible technology, and community-centered computing efforts in the state. More broadly, the project reflects our group’s commitment to connecting research, public engagement, and local civic infrastructure.
+      </p>
+      <div class="research-section">
+        <strong>Contributors</strong>: Corey Jackson, [Student contributor], [Collaborator], [Designer/Developer]
+      </div>
+      <div class="research-section">
+        <strong>Link</strong>: <a href="https://civic-in-wisconsin.framer.website/" target="_blank" rel="noopener">https://civic-in-wisconsin.framer.website/</a>
+      </div>
+    </div>
+  </div>
 
+</div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
