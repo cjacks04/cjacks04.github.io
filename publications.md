@@ -28,24 +28,26 @@ permalink: /publications/
             {% assign topic_string = pub.topics | join: '|' | downcase %}
             <div class="publication-entry" data-topics="{{ topic_string }}">
               {% assign valid_links = pub.links | compact %}
-              {% if valid_links.size > 0 %}
-                <h3>
-                  <a href="{{ valid_links.first | strip }}" target="_blank" rel="noopener">
-                    {{ pub.title }}
-                  </a>
-                </h3>
-              {% else %}
-                <h3>{{ pub.title }}</h3>
-              {% endif %}
-              {% if pub.authors %}
-                <p class="pub-line"><strong>Authors:</strong> {{ pub.authors }}</p>
-              {% endif %}
-              {% if pub.venue %}
-                <p class="pub-line"><strong>Venue:</strong> {{ pub.venue }}</p>
-              {% endif %}
-              {% if pub.type %}
-                <p class="pub-line"><strong>Type:</strong> {{ pub.type }}</p>
-              {% endif %}
+              {% assign apa_authors = pub.authors
+                | replace: 'Corey Brian Jackson', '<strong>Corey Brian Jackson</strong>'
+                | replace: 'Corey B. Jackson', '<strong>Corey B. Jackson</strong>'
+                | replace: 'Corey Jackson', '<strong>Corey Jackson</strong>'
+                | replace: 'C. B. Jackson', '<strong>C. B. Jackson</strong>'
+                | replace: 'C.B. Jackson', '<strong>C.B. Jackson</strong>'
+                | replace: 'Jackson, C. B.', '<strong>Jackson, C. B.</strong>'
+                | replace: 'Jackson, C.', '<strong>Jackson, C.</strong>'
+              %}
+
+              <p class="pub-citation">
+                {{ apa_authors }} ({{ pub.year }}).
+                {% if valid_links.size > 0 %}
+                  <a href="{{ valid_links.first | strip }}" target="_blank" rel="noopener">{{ pub.title }}</a>.
+                {% else %}
+                  {{ pub.title }}.
+                {% endif %}
+                <em>{{ pub.venue }}</em>.
+              </p>
+
               {% if pub.topics %}
                 <p class="pub-tags">
                   {% for topic in pub.topics %}
