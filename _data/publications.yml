@@ -1,4 +1,4 @@
-- title: "Seeing like a community: Public perceptions of data use in government"
+- title: "Seeing Like a Community: Public Perceptions of Data Use in Government"
   year: 2026
   authors: "Ellie Jeong, Corey Jackson, Srijan Pandey, and Kaiping Chen"
   venue: "Human Factors in Computing Systems"
@@ -8,7 +8,7 @@
     - public sector
     - data use
   note: "This paper examines how members of the public understand and evaluate the use of data in government settings. It focuses on the gap between institutional views of data use and community perceptions of what is appropriate, trustworthy, or fair. The study highlights how people reason about legitimacy, transparency, and public value when government agencies rely on data-driven practices. More broadly, it contributes to research on civic technology and public-sector data governance by centering community perspectives."
-  links: []
+  links: "https://dl.acm.org/doi/10.1145/3772318.3790756"
 
 - title: "Folksonomies in Crowdsourcing: A Cross-Project Comparison"
   year: 2026
@@ -33,7 +33,7 @@
     - auditing
     - governance
   note: "This paper examines how community members reason about AI systems when asked to identify potential harms or fairness concerns. Rather than reducing oversight to technical bias detection alone, it shows how non-expert auditors bring contextual judgment and normative reasoning to the evaluation process. The paper argues that public-facing AI oversight benefits from forms of subjectivity that are often treated as noise in technical evaluation. It contributes to responsible AI research by reframing auditing as a participatory and value-laden practice."
-  links: []
+  links: "https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/PACMHCI/PACMHCIV10I2/3757/4a2969fe-ed4e-11f0-957d-16ffd757ba29/OUT/PACMHCIv10i2-3757.html"
 
 - title: "Trace methods: Probing the apparatus"
   year: 2026
