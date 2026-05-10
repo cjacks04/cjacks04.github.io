@@ -220,6 +220,26 @@ a:hover {
   margin-bottom: 20px;
 }
 
+.updates-card {
+  max-height: 610px;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  scrollbar-color: #c7cdd4 transparent;
+}
+
+.updates-card::-webkit-scrollbar {
+  width: 8px;
+}
+
+.updates-card::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.updates-card::-webkit-scrollbar-thumb {
+  background: #c7cdd4;
+  border-radius: 999px;
+}
+
 .updates-card h2 {
   margin-top: 0;
   margin-bottom: 18px;
@@ -648,6 +668,11 @@ a:hover {
 
   .sticky-card {
     position: static;
+  }
+
+  .updates-card {
+    max-height: none;
+    overflow-y: visible;
   }
 
   .top-nav-inner {
