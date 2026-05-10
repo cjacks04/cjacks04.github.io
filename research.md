@@ -8,10 +8,15 @@ permalink: /research/
 
   <div class="research-intro">
     <p>
-      My research examines how people learn, participate, and exercise judgment in data-rich and AI-mediated environments. My research focuses on how expertise is developed, how human and machine intelligence interact, and how data-driven systems can be designed to better reflect community values and public needs.
-    </p>
-  </div>
+      I am interested in how people learn, participate, and exercise judgment in data-rich and AI-mediated environments. My research focuses four areas:</p> 
+        <ul>
+          <li><strong>Augmented Expertise:</strong> How can we cultivate specialized expertise among distributed, non-expert participants through adaptive scaffolding and hybrid human–AI systems?</li> 
+          <li><strong>Hybrid Intelligence Systems:</strong> How can humans and AI systems learn together in ways that improve both human capability and machine performance?</li>
+          <li><strong>Algorithmic and Data Justice:</strong> How can data-driven systems in the public sector operate equitably and reflect community values?</li>
+          <li><strong>Civic Data and Participation:</strong> How can communities meaningfully participate in data-driven governance and decision-making?</li>
+        </ul>
 
+  </div>
   <!-- AUGMENTED EXPERTISE -->
   <div class="research-card collapsible-card">
     <button class="research-card-toggle" type="button">
