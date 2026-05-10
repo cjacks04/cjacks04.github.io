@@ -34,10 +34,10 @@ permalink: /tools/
         <strong>Contributors</strong>: Shelcia Raj<sup>*</sup>  (KM 1.0), Tanisq Jawahar<sup>*</sup> (KM 1.0 and 2.0), Koustav Guha<sup>*</sup>, Christian Varner<sup>*</sup>, Kaiping Chen, and Corey Jackson
       </div>
       <div class="research-section">
-        <strong>1.0</strong>: <a href="https://connect.doit.wisc.edu/knowledge-map/" target="_blank" rel="noopener">https://connect.doit.wisc.edu/knowledge-map/</a>
+        <strong>Access 1.0</strong>: <a href="https://connect.doit.wisc.edu/knowledge-map/" target="_blank" rel="noopener">https://connect.doit.wisc.edu/knowledge-map/</a>
       </div>
       <div class="research-section">
-        <strong>2.0 (under development)</strong>: <a href="https://github.com/madcollab-jrg/ccs-map-v2" target="_blank" rel="noopener">https://github.com/madcollab-jrg/ccs-map-v2</a>
+        <strong>Access 2.0 (under development)</strong>: <a href="https://github.com/madcollab-jrg/ccs-map-v2" target="_blank" rel="noopener">https://github.com/madcollab-jrg/ccs-map-v2</a>
       </div>
     </div>
   </div>
@@ -61,7 +61,7 @@ permalink: /tools/
         <strong>Contributors</strong>: Shana Hsieh<sup>*</sup>, Kaiping Chen, and Corey Jackson
       </div>
       <div class="research-section">
-        <strong>Link</strong>: <a href="https://github.com/madcollab-jrg/vcrge/tree/main/policypulse" target="_blank" rel="noopener">https://github.com/madcollab-jrg/vcrge/tree/main/policypulse</a>
+        <strong>Access (under development)</strong>: <a href="https://github.com/madcollab-jrg/vcrge/tree/main/policypulse" target="_blank" rel="noopener">https://github.com/madcollab-jrg/vcrge/tree/main/policypulse</a>
       </div>
     </div>
   </div>
@@ -85,7 +85,7 @@ permalink: /tools/
         <strong>Contributors</strong>: Shelcia Raj<sup>*</sup>, Tallal Ahmad<sup>*</sup>, Corey Jackson
       </div>
       <div class="research-section">
-        <strong>Link</strong>: <a href="https://ai-fairness.vercel.app/" target="_blank" rel="noopener">https://ai-fairness.vercel.app/</a>
+        <strong>Access</strong>: <a href="https://ai-fairness.vercel.app/" target="_blank" rel="noopener">https://ai-fairness.vercel.app/</a>
       </div>
     </div>
   </div>
@@ -109,7 +109,7 @@ permalink: /tools/
         <strong>Contributors</strong>: Chris Chen<sup>*</sup>, Kaiping Chen, and Corey Jackson
       </div>
       <div class="research-section">
-        <strong>Link</strong>: <a href="https://civic-in-wisconsin.framer.website/" target="_blank" rel="noopener">https://civic-in-wisconsin.framer.website/</a>
+        <strong>Access</strong>: <a href="https://civic-in-wisconsin.framer.website/" target="_blank" rel="noopener">https://civic-in-wisconsin.framer.website/</a>
       </div>
     </div>
   </div>
