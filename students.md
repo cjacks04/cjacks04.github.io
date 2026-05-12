@@ -4,7 +4,6 @@ title: Students
 permalink: /students/
 ---
 
-
 <div class="quick-nav-box">
   <div class="quick-nav-links">
     <a href="#current-students">Current Students</a>
@@ -12,7 +11,7 @@ permalink: /students/
   </div>
 </div>
 
-## Current Students {#current-students}
+## <i class="fas fa-users heading-icon"></i> Current Students {#current-students}
 
 ### Doctoral Students
 
@@ -33,7 +32,7 @@ permalink: /students/
 - Todd Reilly France (Information Science) 
 - Akshana Jose Ebenezer (Data Science and Information Science)
 
-## Alumni {#alumni}
+## <i class="fas fa-user-clock heading-icon"></i> Alumni {#alumni}
 
 ### PhD (Research Mentor)
 - Jinke He, Ph.D. (Educational Policy Analysis and Evaluation)
@@ -68,10 +67,6 @@ permalink: /students/
 - Afsah Ahmed (Computer Science) 
 - Aman Jain (Computer Science and Data Science)
 
-
-
-## Prospective Students
+## <i class="fas fa-user-graduate heading-icon"></i> Prospective Students
 
 I am interested in students working on public sector AI, civic technology, participatory design, environmental justice, and human–AI collaboration.
-
-
