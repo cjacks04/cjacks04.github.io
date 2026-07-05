@@ -26,4 +26,4 @@ My research has been supported by National Science Foundation ([HCC](https://www
 ## PhD Student Openings
 I advise Ph.D. students interested in HCI, CSCW, responsible AI, and civic technology, particularly those excited about participatory methods, qualitative and mixed-methods research, and real-world public sector impact.   
 
-Prospective students are encouraged to review my [advising philosophy](https://docs.google.com/document/d/1AtuLPtfpGkzolgKeKnDy2fQ8rIdiRdgWKloEqOmxFpo/edit?usp=sharing) and current projects before reaching out, and to clearly articulate how their interests align with ongoing work described above.
+Prospective students are encouraged to review my [advising philosophy](https://coreybjackson.com/compact-of-expectations/) and current projects before reaching out, and to clearly articulate how their interests align with ongoing work described above.
