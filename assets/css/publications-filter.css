@@ -1,0 +1,43 @@
+.pub-filter-group + .pub-filter-group {
+  margin-top: 20px;
+  padding-top: 18px;
+  border-top: 1px solid var(--muted-border);
+}
+
+.pub-secondary-filter-group label {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--text-main);
+}
+
+.pub-topic-select {
+  width: min(100%, 360px);
+  min-height: 44px;
+  padding: 10px 40px 10px 12px;
+  border: 1px solid #cfd6df;
+  border-radius: 10px;
+  background: #fff;
+  color: var(--text-main);
+  font: inherit;
+}
+
+.pub-filter-help {
+  margin: 8px 0 0 !important;
+  color: var(--text-muted);
+  font-size: 0.92rem;
+  font-weight: 400 !important;
+}
+
+.pub-research-areas {
+  margin-bottom: 6px !important;
+}
+
+.pub-area-tag {
+  background: #e8f7f7;
+  color: #245f61;
+  font-weight: 600;
+}
+
+.pub-secondary-tags {
+  margin-top: 0 !important;
+}
