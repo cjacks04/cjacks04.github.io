@@ -2,33 +2,54 @@
 layout: page
 title: Research
 permalink: /research/
+extra_css: /assets/css/research-polish.css
 ---
 
 <div class="research-page">
 
   <div class="research-intro">
-    <p>
-      I am interested in how people learn, participate, and exercise judgment in data-rich and AI-mediated environments. My research focuses four areas: <strong>Augmented Expertise</strong> (How can we cultivate specialized expertise among distributed, non-expert participants through adaptive scaffolding and hybrid human–AI systems?), <strong>Hybrid Intelligence Systems</strong> (How can humans and AI systems learn together in ways that improve both human capability and machine performance?), <strong>Algorithmic and Data Justice</strong> (How can data-driven systems in the public sector operate equitably and reflect community values?), and <strong>Civic Data and Participation</strong> (How can communities meaningfully participate in data-driven governance and decision-making?)</p>
-
+    <p>I study how people learn, participate, and exercise judgment in data-rich and AI-mediated environments. My research spans four connected areas that examine how expertise is developed, how humans and AI systems learn together, and how communities can participate meaningfully in data-driven decision-making.</p>
   </div>
+
+  <div class="research-overview-grid" aria-label="Research areas">
+    <div class="research-overview-card">
+      <a href="#augmented-expertise">
+        <h3>Augmented Expertise</h3>
+        <p>Developing expertise among distributed, non-expert participants through scaffolding, feedback, and structured participation.</p>
+      </a>
+    </div>
+    <div class="research-overview-card">
+      <a href="#hybrid-intelligence">
+        <h3>Hybrid Intelligence Systems</h3>
+        <p>Designing environments where humans and AI systems learn together and improve one another over time.</p>
+      </a>
+    </div>
+    <div class="research-overview-card">
+      <a href="#algorithmic-data-justice">
+        <h3>Algorithmic and Data Justice</h3>
+        <p>Developing participatory approaches to evaluating fairness, legitimacy, and accountability in AI and data systems.</p>
+      </a>
+    </div>
+    <div class="research-overview-card">
+      <a href="#civic-data">
+        <h3>Civic Data and Participation</h3>
+        <p>Designing civic and environmental data systems that better represent community knowledge and support public participation.</p>
+      </a>
+    </div>
+  </div>
+
   <!-- AUGMENTED EXPERTISE -->
-  <div class="research-card collapsible-card">
+  <div class="research-card collapsible-card" id="augmented-expertise">
     <button class="research-card-toggle" type="button">
       <span>Augmented Expertise</span>
     </button>
     <div class="research-card-content">
-      <p>
-        This research explores how people develop domain-specific expertise in complex environments without formal training. Drawing on work in citizen science systems such as Gravity Spy, I examine how interfaces, feedback, and structured participation enable non-experts to engage in sophisticated analytical work and contribute to scientific discovery.
-      </p>
+      <p>This research explores how people develop domain-specific expertise in complex environments without formal training. Drawing on work in citizen science systems such as Gravity Spy, I examine how interfaces, feedback, and structured participation enable non-experts to engage in sophisticated analytical work and contribute to scientific discovery.</p>
       <div class="research-image">
-        <img src="/assets/img/research/augment2.png" alt="The diagram for Gravity Spy data analysis" />
+        <img src="/assets/img/research/augment2.png" alt="Diagram illustrating Gravity Spy data analysis" />
       </div>
-      <div class="research-section">
-        <strong>Topics</strong>: <em>crowdsourced learning environments; language socialization in online communities; motivation and participation in citizen science</em>
-      </div>
-      <div class="research-section">
-        <strong>Contributions</strong>: this work has contributed to understanding how expertise emerges through participation rather than formal training, introduces language adoption as a measurable mechanism of socialization and learning, and shows how structured task design and feedback loops support skill development in distributed systems
-      </div>
+      <div class="research-section"><strong>Topics</strong>: <em>crowdsourced learning environments; language socialization in online communities; motivation and participation in citizen science</em></div>
+      <div class="research-section"><strong>Contributions</strong>: this work contributes to understanding how expertise emerges through participation rather than formal training, introduces language adoption as a measurable mechanism of socialization and learning, and shows how structured task design and feedback loops can support skill development in distributed systems.</div>
       <div class="research-section">
         <strong>Representative Work</strong>
         <ul>
@@ -40,23 +61,17 @@ permalink: /research/
   </div>
 
   <!-- HYBRID INTELLIGENCE -->
-  <div class="research-card collapsible-card">
+  <div class="research-card collapsible-card" id="hybrid-intelligence">
     <button class="research-card-toggle" type="button">
       <span>Hybrid Intelligence Systems</span>
     </button>
     <div class="research-card-content">
-      <p>
-        This work moves beyond traditional pipelines where humans simply label data for AI systems. Instead, I study co-learning environments where humans and algorithms iteratively improve one another, forming adaptive systems that evolve over time.
-      </p>
+      <p>This work moves beyond traditional pipelines where humans simply label data for AI systems. Instead, I study co-learning environments where humans and algorithms iteratively improve one another, forming adaptive systems that evolve over time.</p>
       <div class="research-image">
         <img src="/assets/img/research/hybrid1.png" alt="Gravity Spy system interface" />
       </div>
-      <div class="research-section">
-        <strong>Topics</strong>: <em>citizen science and machine learning integration; machine-guided classification systems</em>
-      </div>
-      <div class="research-section">
-        <strong>Contributions</strong>: this stream of search introduces co-learning as a model for human–AI interactions; shows how humans can act as more than data labelers—serving as analytical collaborators for machines; and demonstrates how hybrid systems improve both model performance and human expertise. 
-      </div>
+      <div class="research-section"><strong>Topics</strong>: <em>citizen science and machine learning integration; machine-guided classification systems</em></div>
+      <div class="research-section"><strong>Contributions</strong>: this research introduces co-learning as a model for human-AI interaction, shows how humans can act as analytical collaborators rather than only data labelers, and demonstrates how hybrid systems can improve both model performance and human expertise.</div>
       <div class="research-section">
         <strong>Representative Work</strong>
         <ul>
@@ -68,23 +83,17 @@ permalink: /research/
   </div>
 
   <!-- ALGORITHMIC AND DATA JUSTICE -->
-  <div class="research-card collapsible-card">
+  <div class="research-card collapsible-card" id="algorithmic-data-justice">
     <button class="research-card-toggle" type="button">
       <span>Algorithmic and Data Justice</span>
     </button>
     <div class="research-card-content">
-      <p>
-        This research examines how AI systems embed assumptions about fairness, legitimacy, and decision-making. It develops participatory approaches in which communities act as evaluators of algorithmic systems, bringing contextual knowledge and normative reasoning into oversight processes.
-      </p>
+      <p>This research examines how AI systems embed assumptions about fairness, legitimacy, and decision-making. It develops participatory approaches in which communities act as evaluators of algorithmic systems, bringing contextual knowledge and normative reasoning into oversight processes.</p>
       <div class="research-image">
-        <img src="/assets/img/research/algorithm.png" alt="The interface for AI learning" />
+        <img src="/assets/img/research/algorithm.png" alt="Interface used in research on AI evaluation" />
       </div>
-      <div class="research-section">
-        <strong>Topics</strong>: <em>participatory AI auditing; public perceptions of data use</em>
-      </div>
-      <div class="research-section">
-        <strong>Contributions</strong>: this work reframes AI auditing as a participatory and socially grounded process; demonstrates the importance of normative reasoning in evaluating algorithmic systems; and bridges technical AI evaluation with community-centered perspectives on responsible AI practices
-      </div>
+      <div class="research-section"><strong>Topics</strong>: <em>participatory AI auditing; public perceptions of data use</em></div>
+      <div class="research-section"><strong>Contributions</strong>: this work reframes AI auditing as a participatory and socially grounded process, demonstrates the importance of normative reasoning in evaluating algorithmic systems, and connects technical AI evaluation with community-centered perspectives on responsible AI.</div>
       <div class="research-section">
         <strong>Representative Work</strong>
         <ul>
@@ -95,27 +104,21 @@ permalink: /research/
   </div>
 
   <!-- CIVIC DATA -->
-  <div class="research-card collapsible-card">
+  <div class="research-card collapsible-card" id="civic-data">
     <button class="research-card-toggle" type="button">
       <span>Civic Data and Participation</span>
     </button>
     <div class="research-card-content">
-      <p>
-        This work focuses on inequities in access to data and participation in civic processes. I study how environmental and public-sector data systems can better represent community knowledge, particularly in contexts of environmental justice and local decision-making.
-      </p>
+      <p>This work focuses on inequities in access to data and participation in civic processes. I study how environmental and public-sector data systems can better represent community knowledge, particularly in contexts of environmental justice and local decision-making.</p>
       <div class="research-image">
-        <img src="/assets/img/research/knowledge_map.png" alt="The interface for Knowledge Map" />
+        <img src="/assets/img/research/knowledge_map.png" alt="Knowledge Map interface" />
       </div>
-      <div class="research-section">
-        <strong>Topics</strong>: <em>environmental justice mapping; civic data representativeness; Knowledge Map (community data portal)</em>
-      </div>
-      <div class="research-section">
-        <strong>Contributions</strong>: this work identifies structural barriers to participation in civic data systems; develops models for understanding representativeness in community-generated data; designs systems that integrate community narratives with institutional data (See: <a href="https://connect.doit.wisc.edu/knowledge-map/" target="_blank" rel="noopener">Knowledge Map</a>); designs systems that support third-sector knowledge of legislation
-      </div>
+      <div class="research-section"><strong>Topics</strong>: <em>environmental justice mapping; civic data representativeness; Knowledge Map community data portal</em></div>
+      <div class="research-section"><strong>Contributions</strong>: this work identifies structural barriers to participation in civic data systems, develops models for understanding representativeness in community-generated data, and designs systems that integrate community narratives with institutional data, including <a href="https://connect.doit.wisc.edu/knowledge-map/" target="_blank" rel="noopener">Knowledge Map</a>.</div>
       <div class="research-section">
         <strong>Representative Work</strong>
         <ul>
-          <li>Jeong, E., Jackson, C., Pandey, S., & Chen, K. (2026, April). <a href="https://dl.acm.org/doi/full/10.1145/3772318.3790756" target="_blank" rel="noopener">Seeing Like a Community: Public Perceptions of Data Use in Government</a>. In <em>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems.</em></li>
+          <li>Jeong, E., Jackson, C., Pandey, S., & Chen, K. (2026, April). <a href="https://dl.acm.org/doi/full/10.1145/3772318.3790756" target="_blank" rel="noopener">Seeing Like a Community: Public Perceptions of Data Use in Government</a>. In <em>Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems</em>.</li>
         </ul>
       </div>
     </div>
@@ -138,6 +141,17 @@ document.addEventListener("DOMContentLoaded", function () {
       toggle.classList.add("open");
       toggle.nextElementSibling.classList.add("open");
     }
+  });
+
+  document.querySelectorAll('.research-overview-card a').forEach((link) => {
+    link.addEventListener('click', function () {
+      const target = document.querySelector(this.getAttribute('href'));
+      if (!target) return;
+      const toggle = target.querySelector('.research-card-toggle');
+      const content = target.querySelector('.research-card-content');
+      toggle.classList.add('open');
+      content.classList.add('open');
+    });
   });
 });
 </script>
