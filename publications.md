@@ -26,8 +26,12 @@ permalink: /publications/
         {% for pub in site.data.publications %}
           {% if pub.year == year %}
             {% assign topic_string = pub.topics | join: '|' | downcase %}
+            {% assign primary_link = pub.links %}
+            {% if pub.links.first %}
+              {% assign primary_link = pub.links.first %}
+            {% endif %}
+
             <div class="publication-entry" data-topics="{{ topic_string }}">
-              {% assign valid_links = pub.links | compact %}
               {% assign apa_authors = pub.authors
                 | replace: 'Corey Brian Jackson', '<strong>Corey Brian Jackson</strong>'
                 | replace: 'Corey B. Jackson', '<strong>Corey B. Jackson</strong>'
@@ -40,8 +44,8 @@ permalink: /publications/
 
               <p class="pub-citation">
                 {{ apa_authors }} ({{ pub.year }}).
-                {% if valid_links.size > 0 %}
-                  <a href="{{ valid_links.first | strip }}" target="_blank" rel="noopener">{{ pub.title }}</a>.
+                {% if primary_link and primary_link != "" %}
+                  <a href="{{ primary_link | strip }}" target="_blank" rel="noopener">{{ pub.title }}</a>.
                 {% else %}
                   {{ pub.title }}.
                 {% endif %}
@@ -55,6 +59,7 @@ permalink: /publications/
                   {% endfor %}
                 </p>
               {% endif %}
+
               {% if pub.note and pub.note != "" %}
                 <p class="pub-note">{{ pub.note }}</p>
               {% endif %}
