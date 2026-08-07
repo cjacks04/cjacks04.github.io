@@ -8,12 +8,12 @@ permalink: /publications/
 
   <div class="pub-filter-panel">
     <p><strong>Filter publications</strong></p>
-    <div class="pub-chip-row">
-      <button class="pub-chip active" type="button" data-filter="all">All Papers</button>
-      <button class="pub-chip" type="button" data-filter="social computing">Social Computing</button>
-      <button class="pub-chip" type="button" data-filter="responsible ai">Responsible AI</button>
-      <button class="pub-chip" type="button" data-filter="citizen science">Citizen Science</button>
-      <button class="pub-chip" type="button" data-filter="civic tech">Civic Technology</button>
+    <div class="pub-chip-row" role="group" aria-label="Filter publications by topic">
+      <button class="pub-chip active" type="button" data-filter="all" aria-pressed="true">All Papers</button>
+      <button class="pub-chip" type="button" data-filter="social computing" aria-pressed="false">Social Computing</button>
+      <button class="pub-chip" type="button" data-filter="responsible ai" aria-pressed="false">Responsible AI</button>
+      <button class="pub-chip" type="button" data-filter="citizen science" aria-pressed="false">Citizen Science</button>
+      <button class="pub-chip" type="button" data-filter="civic tech" aria-pressed="false">Civic Technology</button>
     </div>
   </div>
 
@@ -21,9 +21,10 @@ permalink: /publications/
   {% assign years = publication_data | map: "year" | uniq | sort | reverse %}
 
   {% for year in years %}
+    {% assign year_id = 'pub-year-' | append: year %}
     <div class="pub-year-group" data-year-group>
-      <button class="pub-year-toggle" type="button">{{ year }}</button>
-      <div class="pub-year-content">
+      <button class="pub-year-toggle" type="button" aria-expanded="false" aria-controls="{{ year_id }}">{{ year }}</button>
+      <div class="pub-year-content" id="{{ year_id }}">
         {% for pub in publication_data %}
           {% if pub.year == year %}
             {% assign topic_string = pub.topics | join: '|' | downcase %}
@@ -83,8 +84,10 @@ document.addEventListener("DOMContentLoaded", function () {
   yearToggles.forEach((toggle) => {
     toggle.addEventListener("click", function () {
       const content = this.nextElementSibling;
-      this.classList.toggle("open");
-      content.classList.toggle("open");
+      const isOpen = this.getAttribute("aria-expanded") === "true";
+      this.setAttribute("aria-expanded", String(!isOpen));
+      this.classList.toggle("open", !isOpen);
+      content.classList.toggle("open", !isOpen);
     });
   });
 
@@ -92,6 +95,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (index === 0) {
       content.classList.add("open");
       content.previousElementSibling.classList.add("open");
+      content.previousElementSibling.setAttribute("aria-expanded", "true");
     }
   });
 
@@ -99,14 +103,16 @@ document.addEventListener("DOMContentLoaded", function () {
     button.addEventListener("click", function () {
       const selectedFilter = this.dataset.filter;
 
-      filterButtons.forEach((btn) => btn.classList.remove("active"));
+      filterButtons.forEach((btn) => {
+        btn.classList.remove("active");
+        btn.setAttribute("aria-pressed", "false");
+      });
       this.classList.add("active");
+      this.setAttribute("aria-pressed", "true");
 
       entries.forEach((entry) => {
         const topics = entry.dataset.topics || "";
-        const shouldShow =
-          selectedFilter === "all" || topics.includes(selectedFilter);
-
+        const shouldShow = selectedFilter === "all" || topics.includes(selectedFilter);
         entry.style.display = shouldShow ? "" : "none";
       });
 
@@ -121,6 +127,7 @@ document.addEventListener("DOMContentLoaded", function () {
           group.style.display = "";
           content.classList.add("open");
           toggle.classList.add("open");
+          toggle.setAttribute("aria-expanded", "true");
         }
       });
     });
