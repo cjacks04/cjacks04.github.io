@@ -17,13 +17,14 @@ permalink: /publications/
     </div>
   </div>
 
-  {% assign years = site.data.publications | map: "year" | uniq | sort | reverse %}
+  {% assign publication_data = site.data.publications_from_bib | default: site.data.publications %}
+  {% assign years = publication_data | map: "year" | uniq | sort | reverse %}
 
   {% for year in years %}
     <div class="pub-year-group" data-year-group>
       <button class="pub-year-toggle" type="button">{{ year }}</button>
       <div class="pub-year-content">
-        {% for pub in site.data.publications %}
+        {% for pub in publication_data %}
           {% if pub.year == year %}
             {% assign topic_string = pub.topics | join: '|' | downcase %}
             {% assign primary_link = pub.links %}
@@ -52,7 +53,7 @@ permalink: /publications/
                 <em>{{ pub.venue }}</em>.
               </p>
 
-              {% if pub.topics %}
+              {% if pub.topics and pub.topics.size > 0 %}
                 <p class="pub-tags">
                   {% for topic in pub.topics %}
                     <span class="pub-tag">{{ topic }}</span>

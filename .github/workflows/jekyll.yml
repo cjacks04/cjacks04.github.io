@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - main
-      - 'site-*'
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
@@ -28,6 +30,9 @@ jobs:
         with:
           ruby-version: '3.1'
           bundler-cache: true
+
+      - name: Generate publication data from BibTeX
+        run: bundle exec ruby scripts/bib_to_publications.rb
 
       - name: Setup Pages
         id: pages
