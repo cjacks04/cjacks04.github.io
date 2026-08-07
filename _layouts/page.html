@@ -13,6 +13,7 @@
     <script src="{{ '/assets/js/favicon-switcher.js' | relative_url }}" type="application/javascript"></script>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/accessibility-mobile.css' | relative_url }}">
     {% if page.extra_css %}
     <link rel="stylesheet" href="{{ page.extra_css | relative_url }}">
     {% endif %}
@@ -23,11 +24,11 @@
   <body>
     {% include site-nav.html %}
 
-    <main class="site-shell page-shell">
-      <div class="breadcrumb">
+    <main class="site-shell page-shell" id="main-content">
+      <div class="breadcrumb" aria-label="Breadcrumb">
         <a href="{{ '/' | relative_url }}">Home</a>
-        <span>/</span>
-        <span>{{ page.title }}</span>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">{{ page.title }}</span>
       </div>
 
       <div class="page-header">
