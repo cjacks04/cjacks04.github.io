@@ -20,6 +20,7 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/research-polish.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/accessibility-mobile.css' | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
   </head>
@@ -32,7 +33,7 @@
         <aside class="home-left">
           <div class="profile-card sticky-card">
             {% if site.avatar %}
-            <img class="profile-image" src="{{ site.avatar | relative_url }}" alt="{{ site.title }}">
+            <img class="profile-image" src="{{ site.avatar | relative_url }}" alt="Portrait of {{ site.title }}">
             {% endif %}
 
             <h1 class="profile-name">{{ site.title }}</h1>
@@ -53,21 +54,21 @@
             <p>{{ site.email }}</p>
             {% endif %}
 
-            <div class="social-icons profile-icons">
+            <div class="social-icons profile-icons" aria-label="Professional profiles">
               {% if site.google_scholar %}
-              <a href="{{ site.google_scholar }}"><i class="ai ai-google-scholar"></i></a>
+              <a href="{{ site.google_scholar }}" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
               {% endif %}
               {% if site.cv_link %}
-              <a href="{{ site.cv_link | relative_url }}"><i class="ai ai-cv"></i></a>
+              <a href="{{ site.cv_link | relative_url }}" aria-label="Curriculum Vitae"><i class="ai ai-cv" aria-hidden="true"></i></a>
               {% endif %}
               {% if site.github_link %}
-              <a href="{{ site.github_link }}"><i class="fab fa-github"></i></a>
+              <a href="{{ site.github_link }}" aria-label="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
               {% endif %}
               {% if site.linkedin %}
-              <a href="{{ site.linkedin }}"><i class="fab fa-linkedin"></i></a>
+              <a href="{{ site.linkedin }}" aria-label="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
               {% endif %}
               {% if site.twitter %}
-              <a href="{{ site.twitter }}"><i class="fab fa-twitter"></i></a>
+              <a href="{{ site.twitter }}" aria-label="Twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a>
               {% endif %}
             </div>
           </div>
