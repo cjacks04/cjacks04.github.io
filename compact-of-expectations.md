@@ -1,10 +1,8 @@
 ---
-layout: homepage
+layout: page
 title: Compact of Expectations
 permalink: /compact-of-expectations/
 ---
-
-# Compact of Expectations
 
 _Last updated: May 19, 2022_
 
@@ -202,7 +200,6 @@ Our group publishes and engages across venues at the intersection of human-compu
 * [Communications of the ACM](https://cacm.acm.org/) — broad computing audience, including research summaries and opinion pieces
 * [The Conversation](https://theconversation.com/us) — public scholarship and research translation
 * [Medium: Data & Policy Blog](https://medium.com/data-policy) — accessible writing on data, AI, policy, and governance
-
 
 ### Professional Associations
 
