@@ -15,7 +15,7 @@ permalink: /tools/
   <!-- KNOWLEDGE MAP V1 -->
   <div class="research-card collapsible-card">
     <button class="research-card-toggle" type="button">
-      <span>Knowledge Map</span>
+      <span>Knowledge Mapv1</span>
     </button>
     <div class="research-card-content">
       <p class="research-question">
@@ -27,9 +27,6 @@ permalink: /tools/
       <p>
         Knowledge Map 1.0 helps people explore data collected through surveys designed and administered by our research group. The system was created to make community and civic data more accessible by turning survey responses into interactive summaries and visual views. Rather than requiring users to analyze raw spreadsheets, the tool presents structured results in ways that support interpretation, communication, and public-facing discussion. This version focuses on curated datasets from our own studies, allowing us to design the survey, data structure, and visualizations together as one research workflow.
       </p>
-       <p>
-        Knowledge Map 2.0 expands the original Knowledge Map workflow so that researchers, community groups, and civic organizations can upload their own CSV-style survey datasets. Users can identify important columns such as geography, demographics, and survey questions, then generate visual summaries directly in the browser. The tool supports workflows for comparing community-generated datasets with public benchmarks, including Census-backed demographic comparisons where appropriate. More broadly, this version reflects our group’s interest in building accessible data tools that help communities examine representativeness, surface local knowledge, and communicate findings to public audiences.
-      </p>
       <div class="research-section">
         <strong>Contributors</strong>: Shelcia Raj<sup>*</sup>  (KM 1.0), Tanisq Jawahar<sup>*</sup> (KM 1.0 and 2.0), Koustav Guha<sup>*</sup>, Christian Varner<sup>*</sup>, Kaiping Chen, and Corey Jackson
       </div>
@@ -37,7 +34,31 @@ permalink: /tools/
         <strong>Access 1.0</strong>: <a href="https://connect.doit.wisc.edu/knowledge-map/" target="_blank" rel="noopener">https://connect.doit.wisc.edu/knowledge-map/</a>
       </div>
       <div class="research-section">
-        <strong>Access 2.0 (under development)</strong>: <a href="https://github.com/madcollab-jrg/ccs-map-v2" target="_blank" rel="noopener">https://github.com/madcollab-jrg/ccs-map-v2</a>
+        <strong>Access 2.0</strong>: <a href="https://ccs-map-v2.vercel.app/" target="_blank" rel="noopener">https://ccs-map-v2.vercel.app/</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- KNOWLEDGE MAP V1 -->
+  <div class="research-card collapsible-card">
+    <button class="research-card-toggle" type="button">
+      <span>Knowledge Mapv2</span>
+    </button>
+    <div class="research-card-content">
+      <p class="research-question">
+        A community data exploration tool built around surveys designed and administered by our research group.
+      </p>
+      <div class="research-image tool-image-placeholder">
+        <img src="/assets/img/tools/knowledgemap-interface.png" alt="Screenshot of the Knowledge Map v1 interface" />
+      </div>
+       <p>
+        Knowledge Map 2.0 expands the original Knowledge Map workflow so that researchers, community groups, and civic organizations can upload their own CSV-style survey datasets. Users can identify important columns such as geography, demographics, and survey questions, then generate visual summaries directly in the browser. The tool supports workflows for comparing community-generated datasets with public benchmarks, including Census-backed demographic comparisons where appropriate. More broadly, this version reflects our group’s interest in building accessible data tools that help communities examine representativeness, surface local knowledge, and communicate findings to public audiences.
+      </p>
+      <div class="research-section">
+        <strong>Contributors</strong>: Tanisq Jawahar<sup>*</sup>, Koustav Guha<sup>*</sup>, Abhishek Sharma<sup>*</sup> , Kaiping Chen, and Corey Jackson
+      </div>
+      <div class="research-section">
+        <strong>Access 2.0</strong>: <a href="https://ccs-map-v2.vercel.app/" target="_blank" rel="noopener">https://ccs-map-v2.vercel.app/</a>
       </div>
     </div>
   </div>
