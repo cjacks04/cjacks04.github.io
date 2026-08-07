@@ -101,32 +101,108 @@ I use a range of tools for conducting research. I’ve grouped them below with s
 
 ## Conferences, Journals, and Other Outlets
 
-Our group contributes to several academic conferences and journals with deadlines.
+Our group publishes and engages across venues at the intersection of human-computer interaction, computer-supported cooperative work, social computing, information science, civic technology, public administration, and responsible AI.
 
-### Conferences
+#### Human-Computer Interaction, CSCW, and Participatory Design
 
-- Computer-Supported Cooperative Work and Social Computing (CSCW)
-- Conference on Human Factors in Computing Systems (CHI)
-- Conference on Supporting Group Work (GROUP)
-- International Conference on Web and Social Media (ICWSM)
-- Ubiquitous Computing (UbiComp)
-- Communities & Technologies (C&T)
-- iConference
-- Association for Information Science and Technology (ASIS&T)
-- International Conference on Information Systems (ICIS)
-- Hawaii International Conference on System Sciences (HICSS)
-- Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)
-- Collective Intelligence
-- Fairness, Accountability, and Transparency (FAccT)
+##### Conferences
 
-### Journals
+* [ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)](https://cscw.acm.org/)
+* [ACM Conference on Human Factors in Computing Systems (CHI)](https://chi.acm.org/)
+* [ACM International Conference on Supporting Group Work (GROUP)](https://group.acm.org/)
+* [ACM Designing Interactive Systems Conference (DIS)](https://dis.acm.org/)
+* [Participatory Design Conference (PDC)](https://www.designresearchsociety.org/events/participatory-design-conference)
+* [Communities & Technologies (C&T)](https://comtech.community/)
+* [ACM International Joint Conference on Pervasive and Ubiquitous Computing / International Symposium on Wearable Computers (UbiComp/ISWC)](https://www.ubicomp.org/)
 
-- Computer Supported Cooperative Work (CSCW)
-- Computers in Human Behavior (CHB)
-- Journal of Human-Computer Studies
-- Journal of the Association for Information Science and Technology (JASIST)
-- Journal of the Association for Information Systems (JAIS)
-- International Journal of Human-Computer Interaction
+##### Journals
+
+* [Proceedings of the ACM on Human-Computer Interaction (PACM HCI)](https://dl.acm.org/journal/pacmhci)
+* [Computer Supported Cooperative Work: The Journal of Collaborative Computing and Work Practices](https://link.springer.com/journal/10606)
+* [ACM Transactions on Computer-Human Interaction (TOCHI)](https://dl.acm.org/journal/tochi)
+* [International Journal of Human-Computer Studies (IJHCS)](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)
+* [International Journal of Human-Computer Interaction (IJHCI)](https://www.tandfonline.com/journals/hihc20)
+* [Computers in Human Behavior (CHB)](https://www.sciencedirect.com/journal/computers-in-human-behavior)
+
+#### Social Computing, Online Communities, Citizen Science, and Collective Intelligence
+
+##### Conferences
+
+* [International AAAI Conference on Web and Social Media (ICWSM)](https://www.icwsm.org/)
+* [ACM Collective Intelligence Conference](https://ci.acm.org/)
+* [Association of Internet Researchers Conference (AoIR)](https://aoir.org/)
+* [Conference for Advancing Participatory Sciences (CAPS)](https://participatorysciences.org/conferences/)
+* [European Citizen Science Association Conference (ECSA)](https://www.ecsa.ngo/conferences/)
+
+##### Journals
+
+* [Social Media + Society](https://journals.sagepub.com/home/sms)
+* [New Media & Society](https://journals.sagepub.com/home/nms)
+* [Information, Communication & Society](https://www.tandfonline.com/journals/rics20)
+* [Big Data & Society](https://journals.sagepub.com/home/bds)
+* [Citizen Science: Theory and Practice](https://theoryandpractice.citizenscienceassociation.org/)
+
+#### Information Science and Information Systems
+
+##### Conferences
+
+* [iConference](https://www.ischools.org/iconference)
+* [Association for Information Science and Technology Annual Meeting (ASIS&T)](https://www.asist.org/meetings-events/am/)
+* [International Conference on Information Systems (ICIS)](https://aisnet.org/conferences/the-international-conference-on-information-systems/)
+* [Hawaii International Conference on System Sciences (HICSS)](https://hicss.hawaii.edu/)
+
+##### Journals
+
+* [Journal of the Association for Information Science and Technology (JASIST)](https://asistdl.onlinelibrary.wiley.com/journal/23301643)
+* [Journal of the Association for Information Systems (JAIS)](https://aisel.aisnet.org/jais/)
+* [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management)
+* [Information & Management](https://www.sciencedirect.com/journal/information-and-management)
+* [The Information Society](https://www.tandfonline.com/journals/utis20)
+
+#### AI Fairness, Responsible AI, and Algorithmic Governance
+
+##### Conferences
+
+* [ACM Conference on Fairness, Accountability, and Transparency (FAccT)](https://facctconference.org/)
+* [AAAI/ACM Conference on AI, Ethics, and Society (AIES)](https://www.aies-conference.com/)
+* [ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO)](https://www.eaamo.org/)
+* [ACM Conference on Computing and Sustainable Societies (COMPASS)](https://compass.acm.org/)
+* [Data for Policy Conference](https://dataforpolicy.org/)
+
+##### Journals
+
+* [ACM Journal on Responsible Computing (JRC)](https://dl.acm.org/journal/jrc)
+* [AI and Ethics](https://link.springer.com/journal/43681)
+* [Journal of Responsible Technology](https://www.sciencedirect.com/journal/journal-of-responsible-technology)
+* [Data & Policy](https://www.cambridge.org/core/journals/data-and-policy)
+* [Policy & Internet](https://onlinelibrary.wiley.com/journal/19442866)
+
+#### Civic Technology, Digital Government, Public Administration, and Policy
+
+##### Conferences
+
+* [International Conference on Digital Government Research (dg.o)](https://dgsociety.org/)
+* [Data for Policy Conference](https://dataforpolicy.org/)
+* [Hawaii International Conference on System Sciences (HICSS)](https://hicss.hawaii.edu/)
+* [Association for Public Policy Analysis and Management Fall Research Conference (APPAM)](https://www.appam.org/events/fall-research-conference/)
+* [Society for Social Studies of Science Annual Meeting (4S)](https://www.4sonline.org/meeting.php)
+
+##### Journals
+
+* [Government Information Quarterly (GIQ)](https://www.sciencedirect.com/journal/government-information-quarterly)
+* [Public Administration Review (PAR)](https://onlinelibrary.wiley.com/journal/15406210)
+* [Public Administration](https://onlinelibrary.wiley.com/journal/14679299)
+* [Policy & Internet](https://onlinelibrary.wiley.com/journal/19442866)
+* [Data & Policy](https://www.cambridge.org/core/journals/data-and-policy)
+
+#### Other Publication Outlets and Community Venues
+
+* [ACM SIGCAS Computers and Society](https://www.sigcas.org/publication/) — edited publication on computing and society
+* [Interactions Magazine](https://interactions.acm.org/) — accessible HCI essays, reflections, and practitioner-facing pieces
+* [Communications of the ACM](https://cacm.acm.org/) — broad computing audience, including research summaries and opinion pieces
+* [The Conversation](https://theconversation.com/us) — public scholarship and research translation
+* [Medium: Data & Policy Blog](https://medium.com/data-policy) — accessible writing on data, AI, policy, and governance
+
 
 ### Professional Associations
 
