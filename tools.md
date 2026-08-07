@@ -8,150 +8,78 @@ permalink: /tools/
 
   <div class="research-intro">
     <p>
-      My lab develops research tools that help communities, researchers, and public-interest organizations collect, interpret, and act on data. Below, you'll see a few systems created by our group and collaborators, including tools for civic data analysis, participatory science, responsible AI, and public-sector decision-making. In the descriptions below <sup>*</sup> indicates students. 
+      My lab develops research tools that help communities, researchers, and public-interest organizations collect, interpret, and act on data. These projects span civic data, participatory science, responsible AI, and public-sector decision-making. In the descriptions below, <sup>*</sup> indicates students.
     </p>
   </div>
 
-  <!-- KNOWLEDGE MAP V1 -->
-  <div class="research-card collapsible-card">
-    <button class="research-card-toggle" type="button">
-      <span>Knowledge Mapv1</span>
-    </button>
-    <div class="research-card-content">
-      <p class="research-question">
-        A community data exploration tool built around surveys designed and administered by our research group.
-      </p>
-      <div class="research-image tool-image-placeholder">
-        <img src="/assets/img/tools/knowledgemap-interface.png" alt="Screenshot of the Knowledge Map v1 interface" />
-      </div>
-      <p>
-        Knowledge Map 1.0 helps people explore data collected through surveys designed and administered by our research group. The system was created to make community and civic data more accessible by turning survey responses into interactive summaries and visual views. Rather than requiring users to analyze raw spreadsheets, the tool presents structured results in ways that support interpretation, communication, and public-facing discussion. This version focuses on curated datasets from our own studies, allowing us to design the survey, data structure, and visualizations together as one research workflow.
-      </p>
-      <div class="research-section">
-        <strong>Contributors</strong>: Shelcia Raj<sup>*</sup>  (KM 1.0), Tanisq Jawahar<sup>*</sup> (KM 1.0 and 2.0), Koustav Guha<sup>*</sup>, Christian Varner<sup>*</sup>, Kaiping Chen, and Corey Jackson
-      </div>
-      <div class="research-section">
-        <strong>Access 1.0</strong>: <a href="https://connect.doit.wisc.edu/knowledge-map/" target="_blank" rel="noopener">https://connect.doit.wisc.edu/knowledge-map/</a>
-      </div>
-      <div class="research-section">
-        <strong>Access 2.0</strong>: <a href="https://ccs-map-v2.vercel.app/" target="_blank" rel="noopener">https://ccs-map-v2.vercel.app/</a>
-      </div>
-    </div>
-  </div>
+  <div class="tools-grid">
 
-  <!-- KNOWLEDGE MAP V1 -->
-  <div class="research-card collapsible-card">
-    <button class="research-card-toggle" type="button">
-      <span>Knowledge Mapv2</span>
-    </button>
-    <div class="research-card-content">
-      <p class="research-question">
-        A community data exploration tool built around surveys designed and administered by our research group.
-      </p>
-      <div class="research-image tool-image-placeholder">
-        <img src="/assets/img/tools/knowledgemap-interface.png" alt="Screenshot of the Knowledge Map v1 interface" />
+    <article class="tool-card">
+      <a class="tool-card-image" href="https://connect.doit.wisc.edu/knowledge-map/" target="_blank" rel="noopener">
+        <img src="/assets/img/tools/knowledgemap-interface.png" alt="Screenshot of the Knowledge Map 1.0 interface" />
+      </a>
+      <div class="tool-card-body">
+        <h2><a href="https://connect.doit.wisc.edu/knowledge-map/" target="_blank" rel="noopener">Knowledge Map 1.0</a></h2>
+        <p>
+          Knowledge Map 1.0 turns survey data collected by our research group into interactive summaries and visualizations. It helps people explore community and civic data without needing to work directly with raw spreadsheets.
+        </p>
+        <p class="tool-contributors"><strong>Contributors:</strong> Shelcia Raj<sup>*</sup>, Tanisq Jawahar<sup>*</sup>, Koustav Guha<sup>*</sup>, Christian Varner<sup>*</sup>, Kaiping Chen, and Corey Jackson</p>
       </div>
-       <p>
-        Knowledge Map 2.0 expands the original Knowledge Map workflow so that researchers, community groups, and civic organizations can upload their own CSV-style survey datasets. Users can identify important columns such as geography, demographics, and survey questions, then generate visual summaries directly in the browser. The tool supports workflows for comparing community-generated datasets with public benchmarks, including Census-backed demographic comparisons where appropriate. More broadly, this version reflects our group’s interest in building accessible data tools that help communities examine representativeness, surface local knowledge, and communicate findings to public audiences.
-      </p>
-      <div class="research-section">
-        <strong>Contributors</strong>: Tanisq Jawahar<sup>*</sup>, Koustav Guha<sup>*</sup>, Abhishek Sharma<sup>*</sup> , Kaiping Chen, and Corey Jackson
-      </div>
-      <div class="research-section">
-        <strong>Access 2.0</strong>: <a href="https://ccs-map-v2.vercel.app/" target="_blank" rel="noopener">https://ccs-map-v2.vercel.app/</a>
-      </div>
-    </div>
-  </div>
+    </article>
 
-  <!-- POLICYPULSE -->
-  <div class="research-card collapsible-card">
-    <button class="research-card-toggle" type="button">
-      <span>PolicyPulse</span>
-    </button>
-    <div class="research-card-content">
-      <p class="research-question">
-        A public-interest technology tool for helping organizations identify and understand legislation relevant to their mission and work.
-      </p>
-      <div class="research-image tool-image-placeholder">
+    <article class="tool-card">
+      <a class="tool-card-image" href="https://ccs-map-v2.vercel.app/" target="_blank" rel="noopener">
+        <img src="/assets/img/tools/knowledgemap-interface.png" alt="Screenshot of the Knowledge Map 2.0 interface" />
+      </a>
+      <div class="tool-card-body">
+        <h2><a href="https://ccs-map-v2.vercel.app/" target="_blank" rel="noopener">Knowledge Map 2.0</a></h2>
+        <p>
+          Knowledge Map 2.0 lets researchers and community organizations upload their own survey data and create visual summaries in the browser. It is designed to make it easier to examine representativeness, compare community data with public benchmarks, and communicate findings.
+        </p>
+        <p class="tool-contributors"><strong>Contributors:</strong> Tanisq Jawahar<sup>*</sup>, Koustav Guha<sup>*</sup>, Abhishek Sharma<sup>*</sup>, Kaiping Chen, and Corey Jackson</p>
+      </div>
+    </article>
+
+    <article class="tool-card">
+      <a class="tool-card-image" href="https://github.com/madcollab-jrg/vcrge/tree/main/policypulse" target="_blank" rel="noopener">
         <img src="/assets/img/tools/pulse.png" alt="Screenshot of the PolicyPulse interface" />
+      </a>
+      <div class="tool-card-body">
+        <h2><a href="https://github.com/madcollab-jrg/vcrge/tree/main/policypulse" target="_blank" rel="noopener">PolicyPulse</a></h2>
+        <p>
+          PolicyPulse helps public-interest organizations identify legislation connected to their mission, programs, and communities. It is designed to make legislative monitoring easier by surfacing relevant bills and presenting their connections in more accessible language.
+        </p>
+        <p class="tool-status">Under development</p>
+        <p class="tool-contributors"><strong>Contributors:</strong> Shana Hsieh<sup>*</sup>, Kaiping Chen, and Corey Jackson</p>
       </div>
-      <p>
-        PolicyPulse is designed to help organizations compare their mission statements, programs, or internal documents with state and federal legislation. The tool supports users in finding bills that may be relevant to their priorities, communities, or areas of advocacy. Rather than assuming that users have time to monitor legislative databases directly, PolicyPulse aims to translate policy activity into more accessible summaries and connections. This project reflects our broader interest in building tools that help civic and public-interest organizations participate more effectively in data- and policy-intensive environments.
-      </p>
-      <div class="research-section">
-        <strong>Contributors</strong>: Shana Hsieh<sup>*</sup>, Kaiping Chen, and Corey Jackson
-      </div>
-      <div class="research-section">
-        <strong>Access (under development)</strong>: <a href="https://github.com/madcollab-jrg/vcrge/tree/main/policypulse" target="_blank" rel="noopener">https://github.com/madcollab-jrg/vcrge/tree/main/policypulse</a>
-      </div>
-    </div>
-  </div>
+    </article>
 
-  <!-- AI FAIRNESS TOOL -->
-  <div class="research-card collapsible-card">
-    <button class="research-card-toggle" type="button">
-      <span>AI Fairness Tool</span>
-    </button>
-    <div class="research-card-content">
-      <p class="research-question">
-        An interactive tool for helping people reason about fairness, risk, and potential harms in AI-supported decision-making systems.
-      </p>
-      <div class="research-image tool-image-placeholder">
+    <article class="tool-card">
+      <a class="tool-card-image" href="https://ai-fairness.vercel.app/" target="_blank" rel="noopener">
         <img src="/assets/img/tools/audit-interface.png" alt="Screenshot of the AI Fairness Tool interface" />
+      </a>
+      <div class="tool-card-body">
+        <h2><a href="https://ai-fairness.vercel.app/" target="_blank" rel="noopener">AI Fairness Tool</a></h2>
+        <p>
+          The AI Fairness Tool helps people examine how AI-supported decisions may affect different groups. It supports discussion of fairness, risk, and potential harms in a format designed for teaching, research, and public engagement.
+        </p>
+        <p class="tool-contributors"><strong>Contributors:</strong> Shelcia Raj<sup>*</sup>, Tallal Ahmad<sup>*</sup>, and Corey Jackson</p>
       </div>
-      <p>
-        The AI Fairness Tool supports reflection on how AI systems may affect different people and groups in public-sector or high-stakes decision-making contexts. It is designed to help users examine questions of fairness, risk, and potential negative consequences rather than treating AI evaluation as only a technical performance problem. The tool can be used for teaching, research, or public engagement around responsible AI and algorithmic accountability. It reflects our group’s broader work on participatory AI auditing, where community members and non-experts are supported in evaluating how AI systems align with public values and lived experience.
-      </p>
-      <div class="research-section">
-        <strong>Contributors</strong>: Shelcia Raj<sup>*</sup>, Tallal Ahmad<sup>*</sup>, Corey Jackson
-      </div>
-      <div class="research-section">
-        <strong>Access</strong>: <a href="https://ai-fairness.vercel.app/" target="_blank" rel="noopener">https://ai-fairness.vercel.app/</a>
-      </div>
-    </div>
-  </div>
+    </article>
 
-  <!-- CIVIC IN WISCONSIN -->
-  <div class="research-card collapsible-card">
-    <button class="research-card-toggle" type="button">
-      <span>Civic in Wisconsin</span>
-    </button>
-    <div class="research-card-content">
-      <p class="research-question">
-        A public-facing resource for highlighting civic technology, civic data, and public-interest computing work in Wisconsin.
-      </p>
-      <div class="research-image tool-image-placeholder">
+    <article class="tool-card">
+      <a class="tool-card-image" href="https://civic-in-wisconsin.framer.website/" target="_blank" rel="noopener">
         <img src="/assets/img/tools/civic engagement.png" alt="Screenshot of the Civic in Wisconsin website" />
+      </a>
+      <div class="tool-card-body">
+        <h2><a href="https://civic-in-wisconsin.framer.website/" target="_blank" rel="noopener">Civic in Wisconsin</a></h2>
+        <p>
+          Civic in Wisconsin highlights civic technology, civic data, and public-interest computing work across the state. It gives students, researchers, community organizations, and public-sector partners an accessible place to discover local projects and resources.
+        </p>
+        <p class="tool-contributors"><strong>Contributors:</strong> Chris Chen<sup>*</sup>, Kaiping Chen, and Corey Jackson</p>
       </div>
-      <p>
-        Civic in Wisconsin is a web-based resource that presents civic technology and public-interest computing work connected to Wisconsin. The site is designed to make this work more visible to students, researchers, community organizations, and public-sector partners. It provides an accessible entry point for learning about civic data, responsible technology, and community-centered computing efforts in the state. More broadly, the project reflects our group’s commitment to connecting research, public engagement, and local civic infrastructure.
-      </p>
-      <div class="research-section">
-        <strong>Contributors</strong>: Chris Chen<sup>*</sup>, Kaiping Chen, and Corey Jackson
-      </div>
-      <div class="research-section">
-        <strong>Access</strong>: <a href="https://civic-in-wisconsin.framer.website/" target="_blank" rel="noopener">https://civic-in-wisconsin.framer.website/</a>
-      </div>
-    </div>
+    </article>
+
   </div>
 
 </div>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const toggles = document.querySelectorAll(".research-card-toggle");
-
-  toggles.forEach((toggle, index) => {
-    toggle.addEventListener("click", function () {
-      const content = this.nextElementSibling;
-      this.classList.toggle("open");
-      content.classList.toggle("open");
-    });
-
-    if (index === 0) {
-      toggle.classList.add("open");
-      toggle.nextElementSibling.classList.add("open");
-    }
-  });
-});
-</script>
