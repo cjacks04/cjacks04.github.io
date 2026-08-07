@@ -7,13 +7,13 @@ permalink: /publications/
 <div class="publications">
 
   <div class="pub-filter-panel">
-    <p><strong>Filter publications</strong></p>
-    <div class="pub-chip-row" role="group" aria-label="Filter publications by topic">
+    <p><strong>Filter by research area</strong></p>
+    <div class="pub-chip-row" role="group" aria-label="Filter publications by research area">
       <button class="pub-chip active" type="button" data-filter="all" aria-pressed="true">All Papers</button>
-      <button class="pub-chip" type="button" data-filter="social computing" aria-pressed="false">Social Computing</button>
-      <button class="pub-chip" type="button" data-filter="responsible ai" aria-pressed="false">Responsible AI</button>
-      <button class="pub-chip" type="button" data-filter="citizen science" aria-pressed="false">Citizen Science</button>
-      <button class="pub-chip" type="button" data-filter="civic tech" aria-pressed="false">Civic Technology</button>
+      <button class="pub-chip" type="button" data-filter="augmented expertise" aria-pressed="false">Augmented Expertise</button>
+      <button class="pub-chip" type="button" data-filter="hybrid intelligence systems" aria-pressed="false">Hybrid Intelligence Systems</button>
+      <button class="pub-chip" type="button" data-filter="algorithmic and data justice" aria-pressed="false">Algorithmic &amp; Data Justice</button>
+      <button class="pub-chip" type="button" data-filter="civic data and participation" aria-pressed="false">Civic Data &amp; Participation</button>
     </div>
   </div>
 
@@ -27,13 +27,14 @@ permalink: /publications/
       <div class="pub-year-content" id="{{ year_id }}">
         {% for pub in publication_data %}
           {% if pub.year == year %}
-            {% assign topic_string = pub.topics | join: '|' | downcase %}
+            {% assign research_areas = site.data.publication_research_areas[pub.title] %}
+            {% assign area_string = research_areas | join: '|' | downcase %}
             {% assign primary_link = pub.links %}
             {% if pub.links.first %}
               {% assign primary_link = pub.links.first %}
             {% endif %}
 
-            <div class="publication-entry" data-topics="{{ topic_string }}">
+            <div class="publication-entry" data-research-areas="{{ area_string }}">
               {% assign apa_authors = pub.authors
                 | replace: 'Corey Brian Jackson', '<strong>Corey Brian Jackson</strong>'
                 | replace: 'Corey B. Jackson', '<strong>Corey B. Jackson</strong>'
@@ -54,8 +55,16 @@ permalink: /publications/
                 <em>{{ pub.venue }}</em>.
               </p>
 
+              {% if research_areas and research_areas.size > 0 %}
+                <p class="pub-tags pub-research-areas" aria-label="Research areas">
+                  {% for area in research_areas %}
+                    <span class="pub-tag pub-area-tag">{{ area }}</span>
+                  {% endfor %}
+                </p>
+              {% endif %}
+
               {% if pub.topics and pub.topics.size > 0 %}
-                <p class="pub-tags">
+                <p class="pub-tags pub-secondary-tags" aria-label="Additional topics">
                   {% for topic in pub.topics %}
                     <span class="pub-tag">{{ topic }}</span>
                   {% endfor %}
@@ -111,8 +120,8 @@ document.addEventListener("DOMContentLoaded", function () {
       this.setAttribute("aria-pressed", "true");
 
       entries.forEach((entry) => {
-        const topics = entry.dataset.topics || "";
-        const shouldShow = selectedFilter === "all" || topics.includes(selectedFilter);
+        const areas = entry.dataset.researchAreas || "";
+        const shouldShow = selectedFilter === "all" || areas.includes(selectedFilter);
         entry.style.display = shouldShow ? "" : "none";
       });
 
