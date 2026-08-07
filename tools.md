@@ -2,6 +2,7 @@
 layout: page
 title: Tools
 permalink: /tools/
+extra_css: /assets/css/tools.css
 ---
 
 <div class="research-page tools-page">
