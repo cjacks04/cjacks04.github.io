@@ -1,0 +1,47 @@
+/* Correct legacy minimal-light layout rules that were still constraining the new design. */
+
+/* The remote theme styles generic <section> elements with a fixed/narrow width and float.
+   The homepage main column is itself a <section>, so explicitly reset those inherited rules. */
+.home-flat-main {
+  width: auto !important;
+  max-width: none !important;
+  float: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Bring homepage content closer to the navigation while keeping comfortable breathing room. */
+.home-flat-shell {
+  padding-top: 28px !important;
+}
+
+/* Standard pages should begin at the same visual distance below the navigation. */
+.site-shell.page-shell,
+.page-shell {
+  padding-top: 30px !important;
+}
+
+/* Keep the intro aligned with the top of the profile image rather than appearing vertically offset. */
+.home-flat-main > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Ensure the research and tool wrappers are not constrained by legacy section widths either. */
+.research-page,
+.research-grid-page,
+.tools-page,
+.publications {
+  float: none !important;
+  max-width: none !important;
+}
+
+@media (max-width: 900px) {
+  .home-flat-shell {
+    padding-top: 24px !important;
+  }
+
+  .site-shell.page-shell,
+  .page-shell {
+    padding-top: 24px !important;
+  }
+}
