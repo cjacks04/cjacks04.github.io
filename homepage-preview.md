@@ -3,11 +3,7 @@ layout: homepage-preview
 permalink: /homepage-preview/
 ---
 
-I am an Assistant Professor at the University of Wisconsin-Madison [The Information School](https://ischool.wisc.edu/), where I lead research at the intersection of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), and social computing. My work focuses on designing and analyzing socio-technical systems that enhance collective competence, foster motivation, and integrate diverse perspectives into high-stakes decision-making contexts. I hold a multidisciplinary academic foundation that informs my approach to information science:
-
-- Ph.D. in Information Science and Technology, Syracuse University (2019).
-- M.S. in Library and Information Science, University of Illinois Urbana-Champaign (2012).
-- B.A. in Political Science, University of Illinois Urbana-Champaign (2010).
+I am an Assistant Professor at the University of Wisconsin-Madison [The Information School](https://ischool.wisc.edu/), where I lead research at the intersection of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW), and social computing. My work focuses on designing and analyzing socio-technical systems that enhance collective competence, foster motivation, and integrate diverse perspectives into high-stakes decision-making contexts.
 
 ## Research Interests
 
