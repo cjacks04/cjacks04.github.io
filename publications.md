@@ -82,10 +82,6 @@ extra_css: /assets/css/publications-filter.css
                   {% endfor %}
                 </p>
               {% endif %}
-
-              {% if pub.note and pub.note != "" %}
-                <p class="pub-note">{{ pub.note }}</p>
-              {% endif %}
             </div>
           {% endif %}
         {% endfor %}
