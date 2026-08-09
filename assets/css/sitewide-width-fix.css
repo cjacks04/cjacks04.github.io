@@ -1,0 +1,186 @@
+/* Follow-up refinements to the flat site redesign. */
+
+:root {
+  --flat-edge-space: 34px;
+  --flat-profile-width: 250px;
+  --flat-column-gap: 34px;
+}
+
+/* Homepage: use the available viewport width with equal outer space on both sides. */
+.home-flat-shell {
+  width: calc(100% - (2 * var(--flat-edge-space))) !important;
+  max-width: none !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  grid-template-columns: var(--flat-profile-width) minmax(0, 1fr) !important;
+  gap: var(--flat-column-gap) !important;
+}
+
+/* Make the standard-page reading width exactly match the homepage main column. */
+.site-shell.page-shell,
+.page-shell {
+  width: calc(100% - (2 * var(--flat-edge-space)) - var(--flat-profile-width) - var(--flat-column-gap)) !important;
+  max-width: none !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Homepage research-interest bands: approximately two-thirds of the previous height. */
+.home-research-list {
+  gap: 18px !important;
+}
+
+.home-research-item {
+  grid-template-columns: 215px minmax(0, 1fr) !important;
+  gap: 24px !important;
+  min-height: 145px !important;
+  padding: 14px !important;
+}
+
+.home-research-image-wrap {
+  padding: 7px !important;
+}
+
+.home-research-image {
+  min-height: 0 !important;
+  max-height: 118px !important;
+}
+
+.home-research-copy {
+  padding: 8px 24px 8px 0 !important;
+}
+
+.home-research-copy h3 {
+  margin-bottom: 8px !important;
+  font-size: 1.42rem !important;
+}
+
+.home-research-copy p {
+  line-height: 1.55 !important;
+}
+
+/* Research page: remove the old narrow-page constraint and use the approved flat bands. */
+.research-page,
+.research-grid-page,
+.page-content-card .research-page {
+  width: 100% !important;
+  max-width: none !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.research-grid {
+  width: 100% !important;
+  grid-template-columns: 1fr !important;
+  gap: 22px !important;
+}
+
+.research-grid-card {
+  width: 100% !important;
+  background: #e5edf1 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+.research-grid-card-body {
+  display: grid !important;
+  grid-template-columns: 245px minmax(0, 1fr) !important;
+  column-gap: 30px !important;
+  row-gap: 8px !important;
+  padding: 18px !important;
+}
+
+.research-grid-card-body > .research-grid-image {
+  grid-column: 1 !important;
+  grid-row: 1 / span 8 !important;
+  margin: 0 !important;
+  padding: 8px !important;
+  align-self: start !important;
+  background: #f7f9fa !important;
+  border: 0 !important;
+}
+
+.research-grid-image img {
+  width: 100% !important;
+  height: auto !important;
+  max-height: 210px !important;
+  object-fit: contain !important;
+}
+
+.research-grid-card-body > h2,
+.research-grid-card-body > .research-grid-section,
+.research-grid-card-body > .research-publications-link {
+  grid-column: 2 !important;
+}
+
+.page-content-card .research-grid-card h2 {
+  margin: 2px 0 8px !important;
+  font-size: 1.55rem !important;
+}
+
+.research-grid-section {
+  margin-top: 8px !important;
+}
+
+.research-grid-section h3 {
+  margin-bottom: 4px !important;
+}
+
+.research-publications-link {
+  margin-top: 10px !important;
+  padding-top: 10px !important;
+}
+
+/* Keep Tools and other flat page content on the same expanded reading width. */
+.tools-page,
+.publications {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+@media (max-width: 1100px) {
+  .home-flat-shell,
+  .site-shell.page-shell,
+  .page-shell {
+    width: calc(100% - 44px) !important;
+  }
+
+  .home-flat-shell {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+@media (max-width: 700px) {
+  .home-flat-shell,
+  .site-shell.page-shell,
+  .page-shell {
+    width: calc(100% - 32px) !important;
+  }
+
+  .home-research-item,
+  .research-grid-card-body {
+    grid-template-columns: 1fr !important;
+  }
+
+  .home-research-image {
+    max-height: 180px !important;
+  }
+
+  .home-research-copy {
+    padding: 6px 8px 8px !important;
+  }
+
+  .research-grid-card-body > h2,
+  .research-grid-card-body > .research-grid-section,
+  .research-grid-card-body > .research-publications-link,
+  .research-grid-card-body > .research-grid-image {
+    grid-column: 1 !important;
+  }
+
+  .research-grid-card-body > .research-grid-image {
+    grid-row: auto !important;
+  }
+}
