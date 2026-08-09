@@ -29,27 +29,56 @@
   max-width: none !important;
 }
 
-/* With the site name removed, keep the navigation centered within the shared content frame. */
+/* Navigation: no brand/title, left aligned to the same 1100px content frame, no divider line. */
+.site-brand {
+  display: none !important;
+}
+
+.top-nav {
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+}
+
 .top-nav-inner {
-  justify-content: center !important;
+  justify-content: flex-start !important;
 }
 
 .nav-links {
   margin-left: 0 !important;
 }
 
-/* Tools: two-column image-forward grid inside the centered page width. */
+/* Let introductory and body copy use the full centered content width. */
+.research-intro,
+.tools-page .research-intro,
+.page-content-card > p,
+.page-content-card > ul,
+.page-content-card > ol {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+.research-intro p,
+.home-flat-main > p {
+  width: 100% !important;
+  max-width: none !important;
+}
+
+/* Tools: true 2-column grid; five systems occupy a 2 x 3 layout with the final cell empty. */
 .tools-grid {
   display: grid !important;
   grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
-  gap: 32px !important;
+  grid-auto-flow: row !important;
+  gap: 36px 30px !important;
   align-items: start !important;
+  width: 100% !important;
 }
 
 .tool-card {
   display: flex !important;
   flex-direction: column !important;
-  gap: 12px !important;
+  min-width: 0 !important;
+  width: 100% !important;
+  gap: 10px !important;
   padding: 0 !important;
   background: transparent !important;
   border: 0 !important;
