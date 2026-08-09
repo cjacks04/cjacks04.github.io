@@ -10,11 +10,11 @@ _Last updated: May 19, 2022_
 
 ### Lab Mission and Philosophy
 
-The research group is led by Corey Jackson, Ph.D., a faculty member at the University of Wisconsin-Madison Information School. The central mission of this group is to contribute knowledge about how users behave in social computing systems to improve users' experiences through theory-based design. There are two research streams led by Prof. Jackson in collaboration with graduate and undergraduate students.
+The research group is led by Corey Jackson, Ph.D., a faculty member at the University of Wisconsin-Madison Information School. The central mission of the group is to contribute knowledge about how users behave in social computing systems and to improve users' experiences through theory-based design. The group includes two research streams led by Prof. Jackson in collaboration with graduate and undergraduate students.
 
 #### Human Behavior in Social Computing Systems
 
-Research in this area primarily investigates how individuals interact and contribute to various social computing platforms, especially citizen science projects. We utilize qualitative methods like interviews and quantitative tools, including system log data analysis and machine learning techniques, to model and enhance user behavior, learning, and motivation. We aim to develop insights that inform better system design to foster effective collaboration and increased user engagement.
+Research in this area primarily investigates how individuals interact and contribute to social computing platforms, especially citizen science projects. The group uses qualitative methods such as interviews and quantitative approaches including system log data analysis and machine learning to model and enhance user behavior, learning, and motivation. The goal is to develop insights that inform better system design and foster effective collaboration and sustained engagement.
 
 Key research questions include:
 
@@ -23,52 +23,52 @@ Key research questions include:
 
 #### Artificial Intelligence and Machine Learning Ethics
 
-Our work in AI and machine learning ethics focuses on evaluating and developing frameworks to ensure that AI systems are transparent, fair, and accountable. This includes conducting socio-technical audits and legislative analyses to examine how AI policies are formulated and implemented across different states. We work with policymakers, data scientists, and community members to bridge the gap between technical potential and ethical application. Methods we use include content analysis of legislative documents, interviews with stakeholders, and scenario-based evaluations to assess the impacts of AI decisions.
+The group's work in AI and machine learning ethics focuses on evaluating and developing frameworks to ensure that AI systems are transparent, fair, and accountable. This includes socio-technical audits and legislative analyses examining how AI policies are formulated and implemented across different states. The group works with policymakers, data scientists, and community members to bridge technical potential and ethical application. Methods include content analysis of legislative documents, stakeholder interviews, and scenario-based evaluations of AI decision-making.
 
 Key research questions include:
 
 - How can AI systems be audited effectively to identify and mitigate biases?
 - What legislative and organizational practices can help ensure that AI deployments are socially responsible and technically robust?
 
-As a research advisor, I aim to prepare you to become an independent thinker capable of doing independent research. This involves developing research questions by examining literature or emergent phenomena, developing a research plan to address those questions, executing the research, and communicating results to diverse audiences.
+As a research advisor, Jackson aims to prepare students to become independent thinkers capable of conducting independent research. This includes developing research questions from literature or emergent phenomena, designing research plans, executing studies, and communicating results to diverse audiences.
 
 The remainder of this document provides current and prospective students with information about expectations while collaborating with the PI and other group members.
 
 ## Expectations
 
-I look to work with students curious about how technology transforms society. At the heart of our research group’s mission is advancing knowledge and creating practical solutions that positively impact individuals and society. I believe in the power of collaboration and interdisciplinary thinking to address complex challenges in the digital age. I am passionate about enhancing the interaction between humans and technology, ensuring that user experiences are intuitive, efficient, and inclusive. Our research takes a collaborative and interdisciplinary approach, bringing together diverse perspectives and skill sets and allowing us to address complex problems from multiple angles. We value creativity, curiosity, and a dedication to pushing the boundaries of knowledge in our respective fields.
+Jackson seeks to work with students who are curious about how technology transforms society. The research group's mission centers on advancing knowledge and creating practical solutions that positively affect individuals and society. The group values collaboration and interdisciplinary thinking, with particular attention to human-technology interaction and to designing experiences that are intuitive, efficient, and inclusive. Its research brings together diverse perspectives and skill sets to address complex problems from multiple angles. Creativity, curiosity, and a commitment to extending knowledge are central expectations for group members.
 
-## Joining My Research Group
+## Joining the Research Group
 
-**Certifications.** All students must complete online training in Responsible Conduct of Research and Human Subjects research. Please visit CITI. For most research projects, the Social and Behavioral Science modules are sufficient. The training should take one to two hours to complete. Please email me your certification after completing the module at cbjackson2@wisc.edu.
+**Certifications.** All students must complete online training in Responsible Conduct of Research and Human Subjects research through CITI. For most research projects, the Social and Behavioral Science modules are sufficient. The training should take one to two hours to complete. Students should email completed certifications to cbjackson2@wisc.edu.
 
-**Meetings.** To ensure you are on track with research, we should meet one-on-one at the beginning of each semester to set expectations for the semester’s work. This generally involves discussing what we both hope to accomplish from your membership in the group, such as learning new data analysis skills or publishing a paper at a conference. During the semester, you will meet weekly with the group to provide updates on your progress and solicit feedback from other group members and me.
+**Meetings.** Jackson meets one-on-one with students at the beginning of each semester to set expectations for the semester's work. These conversations generally identify goals such as learning new data-analysis skills or publishing a conference paper. During the semester, students meet weekly with the group to provide progress updates and solicit feedback from Jackson and other group members.
 
 ## Communication and Interaction
 
-**Communication.** All lab members will be asked to install Slack on their computers and will receive an invitation to join the official lab Slack team. Slack provides a basis for rapid individual and group communication on research and lab-related matters. Slack is the most effective way to get immediate feedback about your project. If I don’t respond within 48 hours, please send a nudge to my email: cbjackson2@wisc.edu.
+**Communication.** All lab members are asked to install Slack and join the official lab Slack team. Slack supports rapid individual and group communication on research and lab-related matters and is the preferred channel for immediate project feedback. If Jackson does not respond within 48 hours, students may send an email reminder to cbjackson2@wisc.edu.
 
-**Lab meetings.** Lab meetings will be held once a week. Every semester, you will be responsible for 2-3 presentations. These presentations should contain your overall project goals, divided into sub-aims, data, and timelines for specific experiments completed and planned for the coming weeks. This is a space for all lab members to contribute to troubleshooting and engage in constructive and healthy scientific criticism. Lab agendas are managed on GitHub Projects or Notion.
+**Lab meetings.** Lab meetings are held once a week. Each semester, students are generally responsible for two to three presentations covering overall project goals, sub-aims, data, completed work, and planned work. Lab meetings are a space for troubleshooting and constructive scientific criticism. Agendas are managed through GitHub Projects or Notion.
 
-**One-on-one meetings.** I will hold weekly one-on-one meetings with every graduate student and postdoc, except when I am traveling or have other commitments I cannot sideline. You should come prepared with organized summaries of the status of your project(s), share data you’ve produced, and outline your next set of planned experiments. Each trainee and I will share a Google Doc to keep track of weekly and long-term goals. We will use this time to troubleshoot and constructively dissect these data and plans. This is also an opportunity to discuss general issues and your career development goals.
+**One-on-one meetings.** Jackson holds weekly one-on-one meetings with graduate students and postdocs except during travel or other unavoidable commitments. Trainees should arrive with organized summaries of project status, recent data or outputs, and planned next steps. Each trainee shares a Google Doc with Jackson to track weekly and long-term goals. These meetings are used for troubleshooting, interpretation, planning, general concerns, and career development.
 
 ## Data Management
 
-**File storage and backup.** Students are responsible for backing up their computer files and data.
+**File storage and backup.** Students are responsible for backing up computer files and data.
 
-**Research data.** All graduate students and postdocs should install the Box Drive application and receive an invitation to edit the JacksonLab shared Box folder. All students and staff of the University of Wisconsin-Madison receive Box cloud storage at no cost through their university email accounts. The shared folder will be used to store essential lab documents. Do **not** delete shared folders while your local computer is set to sync, as this will delete data across all devices. Do not use spaces in file names or unnecessarily long or vague file naming systems that obscure contents.
+**Research data.** Graduate students and postdocs should install Box Drive and obtain access to the JacksonLab shared Box folder. University of Wisconsin-Madison students and staff receive Box cloud storage through their university accounts. The shared folder stores essential lab documents. Shared folders should **not** be deleted while local computers are set to sync because doing so can delete data across devices. File names should avoid spaces and unnecessarily long or vague naming conventions.
 
 Primary storage folders:
 
-- **GitHub (madcollab-jrg).** Sometimes, we must write and share code. Code should be stored in the lab repository. You should review Git and GitHub learning resources if you are unfamiliar.
-- **Box - University of Wisconsin.** Box is backed up automatically and is free. I can see the items you put here, so I would like all final results stored here. Each student has a folder with their name.
-- **Research Drive.** Research Drive is backed up automatically and provides more storage. I store data files here. Please contact me with your NetID so I can add you to my lab space.
+- **GitHub (madcollab-jrg).** Code used or shared by the group should be stored in the lab repository. Students unfamiliar with Git and GitHub should review introductory learning resources.
+- **Box - University of Wisconsin.** Box is backed up automatically and is used for final results and shared project materials. Each student has a folder with their name.
+- **Research Drive.** Research Drive is backed up automatically and provides additional storage for data files. Students should send Jackson their NetID when access to the lab space is needed.
 
-A hard drive on your PC is **not** backed up, so I strongly suggest that you do not store important items on your hard drive unless you regularly back it up.
+A local hard drive is **not** considered a sufficient backup location. Important materials should be stored in an approved backed-up location.
 
 ## Research Infrastructure
 
-I use a range of tools for conducting research. I’ve grouped them below with short descriptions.
+The group uses a range of tools for conducting research.
 
 ### Collaboration and Project Management
 
@@ -95,11 +95,11 @@ I use a range of tools for conducting research. I’ve grouped them below with s
 ### Writing Manuscripts and Posters
 
 - Google Docs
-- Overleaf - for most conference and journal publications, I require students to use an online LaTeX editor for camera-ready manuscripts.
+- Overleaf - most conference and journal publications use an online LaTeX editor for camera-ready manuscripts.
 
 ## Conferences, Journals, and Other Outlets
 
-Our group publishes and engages across venues at the intersection of human-computer interaction, computer-supported cooperative work, social computing, information science, civic technology, public administration, and responsible AI.
+The group publishes and engages across venues at the intersection of human-computer interaction, computer-supported cooperative work, social computing, information science, civic technology, public administration, and responsible AI.
 
 #### Human-Computer Interaction, CSCW, and Participatory Design
 
