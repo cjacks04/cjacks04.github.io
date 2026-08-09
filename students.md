@@ -4,12 +4,7 @@ title: Students
 permalink: /students/
 ---
 
-<div class="quick-nav-box">
-  <div class="quick-nav-links">
-    <a href="#current-students">Current Students</a>
-    <a href="#alumni">Alumni</a>
-  </div>
-</div>
+<div class="quick-nav-box"><div class="quick-nav-links"><a href="#current-students">Current Students</a><a href="#alumni">Alumni</a></div></div>
 
 ## <i class="fas fa-users heading-icon"></i> Current Students {#current-students}
 
@@ -25,11 +20,10 @@ permalink: /students/
 - Yaxuan Yin (Information)
 
 ### Undergraduate Researchers
-
-- Nia Davis (Information Science) 
+- Nia Davis (Information Science)
 - Tanisq Jawahar (Computer Science)
-- Anabella Soares Lysek (Data Science and Information Science) 
-- Todd Reilly France (Information Science) 
+- Anabella Soares Lysek (Data Science and Information Science)
+- Todd Reilly France (Information Science)
 - Akshana Jose Ebenezer (Data Science and Information Science)
 
 ## <i class="fas fa-user-clock heading-icon"></i> Alumni {#alumni}
@@ -52,21 +46,21 @@ permalink: /students/
 - Samantha Lee (Information Science, NSF Research Experience for Undergraduates)
 - Kendall Walch (Data Science, NSF Research Experience for Undergraduates)
 - Xin Bu (Data Science & Mathematics)
-- Yiping He (Mathematics) 
-- Shihao Yang (Statistics & Data Science) 
-- Pragyan Das (Computer Science) 
-- Weiyu (Vincent) Kong (Computer Science & Economics) 
-- Xucen Liao (Statistics and Economics) 
-- Arden Wang (Computer Science) 
+- Yiping He (Mathematics)
+- Shihao Yang (Statistics & Data Science)
+- Pragyan Das (Computer Science)
+- Weiyu (Vincent) Kong (Computer Science & Economics)
+- Xucen Liao (Statistics and Economics)
+- Arden Wang (Computer Science)
 - Yueming Xu (Data Science)
 - Stephen Ling (Data Science)
 - Ruike Lin (Information Science)
 - Ainsley Zhang (Computer Science)
 - Eileen Zhou (Data Science and Economics)
-- Emili Robles (Computer Science) 
-- Afsah Ahmed (Computer Science) 
+- Emili Robles (Computer Science)
+- Afsah Ahmed (Computer Science)
 - Aman Jain (Computer Science and Data Science)
 
 ## <i class="fas fa-user-graduate heading-icon"></i> Prospective Students
 
-I am interested in students working on public sector AI, civic technology, participatory design, environmental justice, and human–AI collaboration.
+Jackson is interested in advising students working on public sector AI, civic technology, participatory design, environmental justice, and human–AI collaboration.
