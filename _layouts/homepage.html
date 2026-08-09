@@ -7,99 +7,59 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
-    {% if site.keywords %}
-    <meta name="keywords" content="{{ site.keywords }}">
-    {% endif %}
-    {% if site.canonical %}
-    <link rel="canonical" href="{{ site.canonical }}"/>
-    {% endif %}
+    {% if site.keywords %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
+    {% if site.canonical %}<link rel="canonical" href="{{ site.canonical }}"/>{% endif %}
 
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
     <script src="{{ '/assets/js/favicon-switcher.js' | relative_url }}" type="application/javascript"></script>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/research-polish.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/accessibility-mobile.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/homepage-simplify.css' | relative_url }}">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ '/assets/css/sitewide-flat.css' | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" crossorigin="anonymous">
   </head>
 
   <body>
     {% include site-nav.html %}
 
-    <main class="site-shell home-shell">
-      <div class="home-grid">
-        <aside class="home-left">
-          <div class="profile-card sticky-card">
-            {% if site.avatar %}
-            <img class="profile-image" src="{{ site.avatar | relative_url }}" alt="Portrait of {{ site.title }}">
-            {% endif %}
+    <main class="home-flat-shell" id="main-content">
+      <aside class="home-flat-profile" aria-label="Profile">
+        {% if site.avatar %}
+        <img class="home-flat-profile-image" src="{{ site.avatar | relative_url }}" alt="Portrait of {{ site.title }}">
+        {% endif %}
 
-            <h1 class="profile-name">{{ site.title }}</h1>
+        <h1 class="home-flat-name">{{ site.title }}</h1>
 
-            {% if site.position %}
-            <p class="profile-role">{{ site.position }}</p>
-            {% endif %}
+        <div class="home-flat-role-block">
+          <p class="home-flat-role"><strong>Assistant Professor</strong></p>
+          <p><a href="https://ischool.wisc.edu/">The Information School</a></p>
+          <p>College of Computing and Artificial Intelligence</p>
+          <p>University of Wisconsin–Madison</p>
+        </div>
 
-            {% if site.affiliation %}
-            <p class="profile-affiliation">{{ site.affiliation }}</p>
-            {% endif %}
+        <div class="home-flat-affiliations">
+          <p class="home-flat-label">Affiliations:</p>
+          <p>Robert &amp; Jean Holtz Center for Science and Technology Studies</p>
+          <p>Institute for Diversity Science</p>
+          <p>Data Science Institute</p>
+          <p>Center for Community and Nonprofit Studies</p>
+        </div>
 
-            {% if site.cv_link %}
-            <p><a href="{{ site.cv_link | relative_url }}">Curriculum Vitae (PDF)</a></p>
-            {% endif %}
+        {% if site.email %}<p class="home-flat-contact">{{ site.email }}</p>{% endif %}
 
-            {% if site.email %}
-            <p>{{ site.email }}</p>
-            {% endif %}
+        <div class="social-icons home-flat-icons" aria-label="Professional profiles">
+          {% if site.google_scholar %}<a href="{{ site.google_scholar }}" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>{% endif %}
+          {% if site.cv_link %}<a href="{{ site.cv_link | relative_url }}" aria-label="Curriculum Vitae"><i class="ai ai-cv" aria-hidden="true"></i></a>{% endif %}
+          {% if site.github_link %}<a href="{{ site.github_link }}" aria-label="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>{% endif %}
+          {% if site.linkedin %}<a href="{{ site.linkedin }}" aria-label="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i></a>{% endif %}
+        </div>
+      </aside>
 
-            <div class="social-icons profile-icons" aria-label="Professional profiles">
-              {% if site.google_scholar %}
-              <a href="{{ site.google_scholar }}" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
-              {% endif %}
-              {% if site.cv_link %}
-              <a href="{{ site.cv_link | relative_url }}" aria-label="Curriculum Vitae"><i class="ai ai-cv" aria-hidden="true"></i></a>
-              {% endif %}
-              {% if site.github_link %}
-              <a href="{{ site.github_link }}" aria-label="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>
-              {% endif %}
-              {% if site.linkedin %}
-              <a href="{{ site.linkedin }}" aria-label="LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
-              {% endif %}
-              {% if site.twitter %}
-              <a href="{{ site.twitter }}" aria-label="Twitter"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-              {% endif %}
-            </div>
-          </div>
-        </aside>
-
-        <section class="home-center">
-          <div class="content-card">
-            {{ content
-              | replace: '<h2 id="research-interests">Research Interests</h2>', '<h2 id="research-interests"><i class="fas fa-lightbulb heading-icon" aria-hidden="true"></i>Research Interests</h2>'
-              | replace: '<h2 id="phd-student-openings">PhD Student Openings</h2>', '<h2 id="phd-student-openings"><i class="fas fa-user-graduate heading-icon" aria-hidden="true"></i>PhD Student Openings</h2>'
-            }}
-          </div>
-
-          <div class="content-card compact-card">
-            <h3>Interested in working with me?</h3>
-            <p>
-              I work with students interested in HCI, CSCW, responsible AI, civic technology, environmental justice, and computational social science.
-              Visit the <a href="{{ '/students/' | relative_url }}">Students</a> page to learn more.
-            </p>
-
-            <h3>Want to learn more about my research?</h3>
-            <p>
-              See the <a href="{{ '/research/' | relative_url }}">Research</a> page, browse my <a href="{{ '/publications/' | relative_url }}">Publications</a>, or visit <a href="{{ '/media/' | relative_url }}">Media</a>.
-            </p>
-
-            <h3>Want to collaborate?</h3>
-            <p>Feel free to get in touch by email.</p>
-          </div>
-        </section>
-      </div>
+      <section class="home-flat-main">
+        {{ content }}
+      </section>
     </main>
   </body>
 </html>
