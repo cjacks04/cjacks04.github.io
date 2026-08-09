@@ -1,7 +1,5 @@
 /* Correct legacy minimal-light layout rules that were still constraining the new design. */
 
-/* The remote theme styles generic <section> elements with a fixed/narrow width and float.
-   The homepage main column is itself a <section>, so explicitly reset those inherited rules. */
 .home-flat-main {
   width: auto !important;
   max-width: none !important;
@@ -10,29 +8,90 @@
   margin: 0 !important;
 }
 
-/* Bring homepage content closer to the navigation while keeping comfortable breathing room. */
 .home-flat-shell {
   padding-top: 28px !important;
 }
 
-/* Standard pages should begin at the same visual distance below the navigation. */
 .site-shell.page-shell,
 .page-shell {
   padding-top: 30px !important;
 }
 
-/* Keep the intro aligned with the top of the profile image rather than appearing vertically offset. */
 .home-flat-main > :first-child {
   margin-top: 0 !important;
 }
 
-/* Ensure the research and tool wrappers are not constrained by legacy section widths either. */
 .research-page,
 .research-grid-page,
 .tools-page,
 .publications {
   float: none !important;
   max-width: none !important;
+}
+
+/* With the site name removed, keep the navigation centered within the shared content frame. */
+.top-nav-inner {
+  justify-content: center !important;
+}
+
+.nav-links {
+  margin-left: 0 !important;
+}
+
+/* Tools: two-column image-forward grid inside the centered page width. */
+.tools-grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  gap: 32px !important;
+  align-items: start !important;
+}
+
+.tool-card {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 12px !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+}
+
+.page-content-card .tool-card h2 {
+  margin: 0 0 4px !important;
+  font-size: 1.35rem !important;
+}
+
+.tool-card-image {
+  display: block !important;
+  width: 100% !important;
+  padding: 0 !important;
+  background: #f3f5f6 !important;
+  border: 0 !important;
+}
+
+.tool-card-image img {
+  display: block !important;
+  width: 100% !important;
+  height: 300px !important;
+  object-fit: contain !important;
+  background: #f3f5f6 !important;
+}
+
+.tool-description {
+  margin: 0 !important;
+  line-height: 1.55 !important;
+}
+
+.tool-contributors {
+  margin: 0 !important;
+  padding-top: 10px !important;
+  border-top: 1px solid #d9e0e4 !important;
+  font-size: .92rem !important;
+}
+
+.tool-status {
+  margin: 0 !important;
+  align-self: flex-start !important;
 }
 
 @media (max-width: 900px) {
@@ -43,5 +102,18 @@
   .site-shell.page-shell,
   .page-shell {
     padding-top: 24px !important;
+  }
+
+  .tools-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .tool-card-image img {
+    height: auto !important;
+    max-height: 320px !important;
+  }
+
+  .top-nav-inner {
+    justify-content: space-between !important;
   }
 }
