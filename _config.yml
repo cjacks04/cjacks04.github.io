@@ -5,12 +5,15 @@ affiliation: Affiliate in Robert & Jean Holtz Center for Science and Technology 
 email: corey.jackson (at) wisc.edu
 
 # Search Engine Optimization (SEO)
-keywords: corey jackson, wisconsin, social computing, cscw, chi, ai, human values, civic engagement, government
-description: Corey Jackson, Ph.D.
+keywords: corey jackson, human-computer interaction, HCI, computer-supported cooperative work, CSCW, social computing, human-AI interaction, responsible AI, civic technology, citizen science, University of Wisconsin-Madison
+description: Corey Jackson is an Assistant Professor at the University of Wisconsin-Madison studying human-computer interaction, CSCW, social computing, human-AI collaboration, responsible AI, and civic technology.
 canonical: https://coreybjackson.com/
 
-# Links
+# Identity links
 google_scholar: https://scholar.google.com/citations?user=V6d9-t4AAAAJ&hl=en
+orcid: https://orcid.org/0000-0003-0828-4506
+faculty_page: https://ischool.wisc.edu/staff/jackson-corey-b/
+acm_author: https://dl.acm.org/profile/87259122157
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/cjacks04
 linkedin: https://www.linkedin.com/in/corey-b-jackson/
