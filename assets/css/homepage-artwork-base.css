@@ -1,0 +1,228 @@
+/* Homepage layout derived from /artwork-preview/ geometry.
+   The main reading column remains the same width as the preview; the 240px
+   decorative-art allowance is mirrored on the left and used for the profile. */
+
+.homepage-preview-shell {
+  width: calc(100% - 44px);
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 30px 0 56px;
+  display: grid;
+  grid-template-columns: 240px minmax(0, 810px);
+  column-gap: 50px;
+  align-items: start;
+  box-sizing: border-box;
+}
+
+.homepage-preview-profile {
+  width: 240px;
+  min-width: 0;
+}
+
+.homepage-preview-profile-image {
+  display: block;
+  width: 240px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 0 18px;
+}
+
+.homepage-preview-name {
+  margin: 0 0 18px;
+  font-size: 1.7rem;
+  line-height: 1.15;
+  font-weight: 600;
+  color: #111;
+}
+
+.homepage-preview-role-block,
+.homepage-preview-affiliations {
+  margin-bottom: 22px;
+}
+
+.homepage-preview-role-block p,
+.homepage-preview-affiliations p,
+.homepage-preview-contact {
+  margin: 0 0 7px;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.homepage-preview-label {
+  margin-bottom: 9px !important;
+}
+
+.homepage-preview-icons {
+  display: flex;
+  gap: 18px;
+  margin-top: 24px;
+}
+
+.homepage-preview-icons a {
+  color: #0b365f;
+  font-size: 1.2rem;
+}
+
+/* Reset the remote theme's generic section sizing so the main column stays at
+   the same reading width as the artwork preview. */
+.homepage-preview-main {
+  width: 100% !important;
+  max-width: 810px !important;
+  min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  float: none !important;
+  font-size: 1rem;
+}
+
+.homepage-preview-main > :first-child {
+  margin-top: 0 !important;
+}
+
+.homepage-preview-main > p,
+.homepage-preview-main > ul,
+.homepage-preview-main > ol,
+.homepage-preview-main > h1,
+.homepage-preview-main > h2,
+.homepage-preview-main > h3,
+.homepage-preview-main > div {
+  width: 100%;
+  max-width: 100% !important;
+  box-sizing: border-box;
+}
+
+.homepage-preview-main p,
+.homepage-preview-main li {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+.homepage-preview-main h2 {
+  margin-top: 38px;
+  margin-bottom: 18px;
+  font-size: 1.9rem;
+  line-height: 1.2;
+  font-weight: 600;
+  color: #111;
+}
+
+/* Research-interest bands retain the existing visual language but use rounded
+   corners and remain fully contained inside the 810px reading column. */
+.homepage-preview-main .home-research-list {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 16px !important;
+}
+
+.homepage-preview-main .home-research-item {
+  width: 100% !important;
+  display: grid !important;
+  grid-template-columns: 190px minmax(0, 1fr) !important;
+  gap: 22px !important;
+  min-height: 132px !important;
+  padding: 14px !important;
+  margin: 0 !important;
+  background: #e5edf1 !important;
+  border: 0 !important;
+  border-radius: 14px !important;
+  overflow: hidden !important;
+  box-shadow: none !important;
+  box-sizing: border-box !important;
+}
+
+.homepage-preview-main .home-research-image-wrap {
+  padding: 7px !important;
+  background: #f7f9fa !important;
+  border-radius: 9px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.homepage-preview-main .home-research-image {
+  display: block !important;
+  width: 100% !important;
+  height: auto !important;
+  max-height: 108px !important;
+  object-fit: contain !important;
+}
+
+.homepage-preview-main .home-research-copy {
+  min-width: 0 !important;
+  padding: 7px 12px 7px 0 !important;
+  align-self: center !important;
+}
+
+.homepage-preview-main .home-research-copy h3 {
+  margin: 0 0 6px !important;
+  font-size: 1.32rem !important;
+  line-height: 1.25 !important;
+  font-weight: 600 !important;
+  color: #111 !important;
+}
+
+.homepage-preview-main .home-research-copy p {
+  margin: 0 !important;
+  line-height: 1.55 !important;
+}
+
+/* Rounded treatment for other currently colored structural boxes so the visual
+   language can serve as the new site base. */
+.research-grid-card,
+.pub-filter-panel,
+.quick-nav-box,
+.callout-box {
+  border-radius: 14px !important;
+  overflow: hidden;
+}
+
+@media (max-width: 920px) {
+  .homepage-preview-shell {
+    grid-template-columns: 210px minmax(0, 1fr);
+    column-gap: 36px;
+  }
+
+  .homepage-preview-profile,
+  .homepage-preview-profile-image {
+    width: 210px;
+  }
+
+  .homepage-preview-main {
+    max-width: none !important;
+  }
+}
+
+@media (max-width: 720px) {
+  .homepage-preview-shell {
+    width: calc(100% - 32px);
+    grid-template-columns: 1fr;
+    gap: 34px;
+    padding-top: 24px;
+  }
+
+  .homepage-preview-profile {
+    width: 100%;
+  }
+
+  .homepage-preview-profile-image {
+    width: min(240px, 70vw);
+  }
+
+  .homepage-preview-main .home-research-item {
+    grid-template-columns: 1fr !important;
+  }
+
+  .homepage-preview-main .home-research-image-wrap {
+    min-height: 150px;
+  }
+
+  .homepage-preview-main .home-research-image {
+    max-height: 145px !important;
+  }
+
+  .homepage-preview-main .home-research-copy {
+    padding: 4px 8px 8px !important;
+  }
+}
