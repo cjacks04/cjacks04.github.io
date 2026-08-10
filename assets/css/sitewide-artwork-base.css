@@ -1,0 +1,201 @@
+/* Sitewide layout based on the approved /artwork-preview/ geometry. */
+
+:root {
+  --artwork-frame-width: 1100px;
+  --artwork-reading-width: 810px;
+  --artwork-aside-width: 240px;
+  --artwork-gap: 50px;
+  --artwork-radius: 12px;
+}
+
+.standard-artwork-shell {
+  width: calc(100% - 44px);
+  max-width: var(--artwork-frame-width);
+  margin: 0 auto;
+  padding: 30px 0 54px;
+  display: grid;
+  grid-template-columns: minmax(0, var(--artwork-reading-width)) var(--artwork-aside-width);
+  gap: var(--artwork-gap);
+  align-items: start;
+  box-sizing: border-box;
+}
+
+.standard-artwork-main {
+  min-width: 0;
+  width: 100%;
+  max-width: var(--artwork-reading-width);
+}
+
+.standard-artwork-aside {
+  width: var(--artwork-aside-width);
+  align-self: start;
+}
+
+.standard-artwork-aside img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  opacity: .95;
+}
+
+/* Preserve the clean preview typography and remove legacy card treatment. */
+.standard-artwork-main .page-header {
+  margin: 0 0 28px;
+}
+
+.standard-artwork-main .page-header h1 {
+  margin: 0;
+  padding: 0;
+  font-size: 2.5rem;
+  line-height: 1.12;
+  font-weight: 500;
+  letter-spacing: -.02em;
+}
+
+.standard-artwork-main .page-content-card {
+  width: 100% !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background: transparent !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+  float: none !important;
+}
+
+.standard-artwork-main .page-content-card > p,
+.standard-artwork-main .page-content-card > ul,
+.standard-artwork-main .page-content-card > ol,
+.standard-artwork-main .page-content-card > div,
+.standard-artwork-main .page-content-card > section {
+  max-width: 100% !important;
+}
+
+.standard-artwork-main p,
+.standard-artwork-main li {
+  font-weight: 400 !important;
+  line-height: 1.68;
+}
+
+.standard-artwork-main h2,
+.standard-artwork-main h3,
+.standard-artwork-main h4 {
+  font-weight: 500;
+}
+
+/* Rounded treatment for the site's colored information bands. */
+.home-research-item,
+.research-grid-card,
+.pub-filter-panel,
+.publication-entry,
+.quick-nav-box,
+.callout-box {
+  border-radius: var(--artwork-radius) !important;
+  overflow: hidden;
+}
+
+.research-grid-card-body,
+.research-grid-image,
+.home-research-image-wrap {
+  border-radius: 9px !important;
+}
+
+/* Research page stays inside the same fixed reading column. */
+.standard-artwork-main .research-page,
+.standard-artwork-main .research-grid-page,
+.standard-artwork-main .research-grid,
+.standard-artwork-main .research-grid-card {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.standard-artwork-main .research-intro {
+  max-width: 100% !important;
+}
+
+/* Publications: preserve all filtering behavior, only normalize geometry. */
+.standard-artwork-main .publications,
+.standard-artwork-main .pub-filter-panel,
+.standard-artwork-main .publication-list,
+.standard-artwork-main .publication-entry {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box;
+}
+
+/* Tools: retain the requested 2-column x 3-row arrangement within 810px. */
+.standard-artwork-main .tools-page,
+.standard-artwork-main .tools-grid {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+.standard-artwork-main .tools-grid {
+  display: grid !important;
+  grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  gap: 28px 24px !important;
+  align-items: start !important;
+}
+
+.standard-artwork-main .tool-card {
+  min-width: 0;
+}
+
+.standard-artwork-main .tool-card-image {
+  border-radius: var(--artwork-radius) !important;
+  overflow: hidden;
+}
+
+.standard-artwork-main .tool-card-image img {
+  width: 100% !important;
+  height: 220px !important;
+  object-fit: contain !important;
+}
+
+/* Keep navigation aligned with the left edge of the 1100px base frame. */
+.top-nav-inner {
+  width: calc(100% - 44px) !important;
+  max-width: var(--artwork-frame-width) !important;
+  margin: 0 auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  justify-content: flex-start !important;
+}
+
+.nav-links {
+  margin-left: 0 !important;
+}
+
+@media (max-width: 900px) {
+  .standard-artwork-shell {
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+
+  .standard-artwork-main {
+    max-width: 100%;
+  }
+
+  .standard-artwork-aside {
+    width: min(220px, 55vw);
+    justify-self: end;
+    order: -1;
+  }
+
+  .standard-artwork-main .tools-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+@media (max-width: 700px) {
+  .standard-artwork-shell,
+  .top-nav-inner {
+    width: calc(100% - 32px) !important;
+  }
+
+  .standard-artwork-main .page-header h1 {
+    font-size: 2.05rem;
+  }
+}
