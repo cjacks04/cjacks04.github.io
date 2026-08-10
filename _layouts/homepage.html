@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/sitewide-flat.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/sitewide-width-fix.css' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/layout-correction.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/homepage-artwork-base.css' | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" crossorigin="anonymous">
   </head>
@@ -26,32 +27,32 @@
   <body>
     {% include site-nav.html %}
 
-    <main class="home-flat-shell" id="main-content">
-      <aside class="home-flat-profile" aria-label="Profile">
+    <main class="homepage-preview-shell" id="main-content">
+      <aside class="homepage-preview-profile" aria-label="Profile">
         {% if site.avatar %}
-        <img class="home-flat-profile-image" src="{{ site.avatar | relative_url }}" alt="Portrait of {{ site.title }}">
+        <img class="homepage-preview-profile-image" src="{{ site.avatar | relative_url }}" alt="Portrait of {{ site.title }}">
         {% endif %}
 
-        <h1 class="home-flat-name">{{ site.title }}</h1>
+        <h1 class="homepage-preview-name">{{ site.title }}</h1>
 
-        <div class="home-flat-role-block">
-          <p class="home-flat-role"><strong>Assistant Professor</strong></p>
+        <div class="homepage-preview-role-block">
+          <p><strong>Assistant Professor</strong></p>
           <p><a href="https://ischool.wisc.edu/">The Information School</a></p>
           <p><a href="https://cai.wisc.edu/">College of Computing and Artificial Intelligence</a></p>
           <p><a href="https://wisc.edu/">University of Wisconsin–Madison</a></p>
         </div>
 
-        <div class="home-flat-affiliations">
-          <p class="home-flat-label">Affiliations:</p>
+        <div class="homepage-preview-affiliations">
+          <p class="homepage-preview-label"><strong>Affiliations:</strong></p>
           <p><a href="https://sts.wisc.edu/">Robert &amp; Jean Holtz Center for Science and Technology Studies</a></p>
           <p><a href="https://ids.wisc.edu/">Institute for Diversity Science</a></p>
           <p><a href="https://dsi.wisc.edu/">Data Science Institute</a></p>
           <p><a href="https://commnsknowledge.wisc.edu/">Center for Community and Nonprofit Studies</a></p>
         </div>
 
-        {% if site.email %}<p class="home-flat-contact">{{ site.email }}</p>{% endif %}
+        {% if site.email %}<p class="homepage-preview-contact">{{ site.email }}</p>{% endif %}
 
-        <div class="social-icons home-flat-icons" aria-label="Professional profiles">
+        <div class="social-icons homepage-preview-icons" aria-label="Professional profiles">
           {% if site.google_scholar %}<a href="{{ site.google_scholar }}" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>{% endif %}
           {% if site.cv_link %}<a href="{{ site.cv_link | relative_url }}" aria-label="Curriculum Vitae"><i class="ai ai-cv" aria-hidden="true"></i></a>{% endif %}
           {% if site.github_link %}<a href="{{ site.github_link }}" aria-label="GitHub"><i class="fab fa-github" aria-hidden="true"></i></a>{% endif %}
@@ -59,7 +60,7 @@
         </div>
       </aside>
 
-      <section class="home-flat-main">
+      <section class="homepage-preview-main">
         {{ content }}
       </section>
     </main>
