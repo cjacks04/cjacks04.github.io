@@ -1,0 +1,35 @@
+.artwork-preview-page {
+  position: relative;
+  min-height: 420px;
+  padding-right: 290px;
+}
+
+.artwork-preview-image {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 240px;
+  max-width: 24vw;
+  height: auto;
+  object-fit: contain;
+  opacity: 0.95;
+}
+
+.artwork-preview-page > p,
+.artwork-preview-page > h2 {
+  max-width: 100%;
+}
+
+@media (max-width: 900px) {
+  .artwork-preview-page {
+    padding-right: 0;
+  }
+
+  .artwork-preview-image {
+    position: static;
+    display: block;
+    width: min(220px, 55vw);
+    max-width: none;
+    margin: 0 0 24px auto;
+  }
+}
