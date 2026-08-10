@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
   <head>
-    <title>{{ site.title }}</title>
+    <title>Corey Jackson | Assistant Professor, University of Wisconsin–Madison</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,6 +9,83 @@
     <meta name="description" content="{{ site.description }}">
     {% if site.keywords %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
     {% if site.canonical %}<link rel="canonical" href="{{ site.canonical }}"/>{% endif %}
+
+    <meta property="og:type" content="profile">
+    <meta property="og:title" content="Corey Jackson | Assistant Professor, University of Wisconsin–Madison">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:url" content="{{ site.canonical }}">
+    <meta property="og:image" content="{{ site.canonical }}assets/img/avatar.png">
+    <meta property="profile:first_name" content="Corey">
+    <meta property="profile:last_name" content="Jackson">
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "url": "https://coreybjackson.com/",
+      "mainEntity": {
+        "@type": "Person",
+        "@id": "https://coreybjackson.com/#person",
+        "name": "Corey Jackson",
+        "honorificSuffix": "Ph.D.",
+        "url": "https://coreybjackson.com/",
+        "image": "https://coreybjackson.com/assets/img/avatar.png",
+        "jobTitle": "Assistant Professor",
+        "description": "Corey Jackson is an Assistant Professor at the University of Wisconsin-Madison studying human-computer interaction, CSCW, social computing, human-AI collaboration, responsible AI, and civic technology.",
+        "worksFor": {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Wisconsin–Madison",
+          "url": "https://www.wisc.edu/"
+        },
+        "affiliation": [
+          {
+            "@type": "CollegeOrUniversity",
+            "name": "The Information School, University of Wisconsin–Madison",
+            "url": "https://ischool.wisc.edu/"
+          },
+          {
+            "@type": "Organization",
+            "name": "Robert & Jean Holtz Center for Science and Technology Studies",
+            "url": "https://sts.wisc.edu/"
+          },
+          {
+            "@type": "Organization",
+            "name": "Institute for Diversity Science",
+            "url": "https://ids.wisc.edu/"
+          },
+          {
+            "@type": "Organization",
+            "name": "Data Science Institute",
+            "url": "https://dsi.wisc.edu/"
+          },
+          {
+            "@type": "Organization",
+            "name": "Center for Community and Nonprofit Studies",
+            "url": "https://commnsknowledge.wisc.edu/"
+          }
+        ],
+        "knowsAbout": [
+          "Human-Computer Interaction",
+          "Computer-Supported Cooperative Work",
+          "Social Computing",
+          "Human-AI Interaction",
+          "Responsible AI",
+          "Civic Technology",
+          "Citizen Science",
+          "Participatory AI Auditing",
+          "Algorithmic and Data Justice"
+        ],
+        "sameAs": [
+          "https://orcid.org/0000-0003-0828-4506",
+          "https://scholar.google.com/citations?user=V6d9-t4AAAAJ&hl=en",
+          "https://github.com/cjacks04",
+          "https://www.linkedin.com/in/corey-b-jackson/",
+          "https://ischool.wisc.edu/staff/jackson-corey-b/",
+          "https://dl.acm.org/profile/87259122157"
+        ]
+      }
+    }
+    </script>
 
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
     <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
@@ -35,7 +112,7 @@
     <main class="homepage-preview-shell" id="main-content">
       <aside class="homepage-preview-profile" aria-label="Profile">
         {% if site.avatar %}
-        <img class="homepage-preview-profile-image" src="{{ site.avatar | relative_url }}" alt="Portrait of {{ site.title }}">
+        <img class="homepage-preview-profile-image" src="{{ site.avatar | relative_url }}" alt="Portrait of Corey Jackson">
         {% endif %}
 
         <h1 class="homepage-preview-name">{{ site.title }}</h1>
