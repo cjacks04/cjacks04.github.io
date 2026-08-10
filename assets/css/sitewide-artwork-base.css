@@ -115,6 +115,46 @@
   max-width: 100% !important;
 }
 
+/* Research cards: keep the image fixed on the left while allowing the following
+   text to flow beside it and then continue beneath it once the image ends. */
+.standard-artwork-main .research-grid-card-body {
+  display: block !important;
+}
+
+.standard-artwork-main .research-grid-card-body::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.standard-artwork-main .research-grid-image {
+  float: left !important;
+  width: 245px !important;
+  margin: 0 26px 14px 0 !important;
+  padding: 8px !important;
+  background: #f7f9fa !important;
+  border: 0 !important;
+  box-sizing: border-box !important;
+}
+
+.standard-artwork-main .research-grid-image img {
+  width: 100% !important;
+  height: auto !important;
+  max-height: 210px !important;
+  object-fit: contain !important;
+}
+
+.standard-artwork-main .research-grid-card-body > h2 {
+  margin-top: 0 !important;
+}
+
+.standard-artwork-main .research-grid-section,
+.standard-artwork-main .research-publications-link {
+  display: block !important;
+  width: auto !important;
+  max-width: none !important;
+}
+
 /* Publications: preserve all filtering behavior, only normalize geometry. */
 .standard-artwork-main .publications,
 .standard-artwork-main .pub-filter-panel,
@@ -197,5 +237,11 @@
 
   .standard-artwork-main .page-header h1 {
     font-size: 2.05rem;
+  }
+
+  .standard-artwork-main .research-grid-image {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 0 18px 0 !important;
   }
 }
