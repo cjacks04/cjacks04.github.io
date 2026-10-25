@@ -8,7 +8,7 @@ _Last updated: May 19, 2022_
 
 ### SAFE Labs Recognition
 
-<a href="https://safelabs.info/" aria-label="Learn about the SAFE Labs initiative"><img src="{{ '/assets/img/safe-labs-logo.png' | relative_url }}" alt="SAFE Labs logo" style="width: 0.5in; height: auto; max-width: 0.5in; max-height: 0.5in; object-fit: contain;" /></a>
+<a href="https://safelabs.info/" aria-label="Learn about the SAFE Labs initiative"><img src="{{ '/assets/img/safe-labs-logo.png' | relative_url }}" alt="SAFE Labs logo" style="width: 0.5in; height: auto; max-width: 0.75in; max-height: 0.75in; object-fit: contain;" /></a>
 
 The Jackson Research Group has been reviewed and listed as a **SAFE Lab** through the [Starting Aware, Fair & Equitable Labs (SAFE Labs)](https://safelabs.info/) initiative. SAFE Labs promotes fair, transparent, and supportive research environments through practical commitments addressing expectations for working hours, authorship, meetings, feedback, onboarding, and transitions out of the lab. This Compact of Expectations documents our lab's practices and serves as a resource for current and prospective members.
 
